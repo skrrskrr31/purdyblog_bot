@@ -21,7 +21,9 @@ if sys.stdout.encoding != 'utf-8':
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+GROQ_API_KEY        = os.environ.get("GROQ_API_KEY")
+TELEGRAM_BOT_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "")
 SECRET_PATH  = os.path.join(script_dir, "secret.json")
 TOKEN_PATH   = os.path.join(script_dir, "token.json")
 
@@ -36,6 +38,29 @@ if _token_env and not os.path.exists(TOKEN_PATH):
     with open(TOKEN_PATH, "w") as _f:
         _f.write(_token_env)
 OUTPUT_VIDEO = os.path.join(script_dir, "purdyblog_shorts.mp4")
+
+
+# ─────────────────────────────────────────────────────────────
+# TELEGRAM BİLDİRİM
+# ─────────────────────────────────────────────────────────────
+def send_telegram(msg):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        return
+    import urllib.request, urllib.parse
+    try:
+        data = urllib.parse.urlencode({
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML"
+        }).encode()
+        req = urllib.request.Request(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            data=data
+        )
+        urllib.request.urlopen(req, timeout=10)
+        print("[Telegram] Mesaj gonderildi.")
+    except Exception as e:
+        print(f"[Telegram] Hata: {e}")
 
 W, H       = 1080, 1920
 PAD        = 44
@@ -550,9 +575,12 @@ def upload_to_youtube(title, description):
             status, response = req.next_chunk()
             if status:
                 print(f"  %{int(status.progress() * 100)}")
-        print(f"\n[OK] Yayinlandi! https://youtube.com/shorts/{response['id']}")
+        video_id = response['id']
+        print(f"\n[OK] Yayinlandi! https://youtube.com/shorts/{video_id}")
+        return video_id
     except Exception as e:
         print(f"[ERROR] YouTube yukleme hatasi: {e}")
+        return None
 
 
 # ─────────────────────────────────────────────────────────────
@@ -606,6 +634,14 @@ if __name__ == "__main__":
         print("\n[TEST] YouTube yuklemesi atlandi.")
         print(f"[TEST] Video: {OUTPUT_VIDEO}")
     else:
-        upload_to_youtube(title, description)
+        video_id = upload_to_youtube(title, description)
+        if video_id:
+            send_telegram(
+                f"✅ <b>purdyblog</b> video yayınlandı!\n"
+                f"🎬 {title}\n"
+                f"🔗 https://youtube.com/shorts/{video_id}"
+            )
+        else:
+            send_telegram("❌ <b>purdyblog</b> YouTube yüklemesi başarısız!")
 
     print("\n=== Tamamlandi! ===")
