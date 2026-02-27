@@ -584,6 +584,27 @@ def upload_to_youtube(title, description):
 
 
 # ─────────────────────────────────────────────────────────────
+# ÇALIŞMA LOGU
+# ─────────────────────────────────────────────────────────────
+def save_run_log(status, video_id=None, title=None, error=None):
+    from datetime import datetime
+    log_path = os.path.join(script_dir, "run_log.json")
+    try:
+        with open(log_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except:
+        data = {"bot": "purdyblog", "runs": []}
+    entry = {"ts": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S"), "status": status}
+    if video_id: entry["video_id"] = video_id
+    if title:    entry["title"]    = title[:80]
+    if error:    entry["error"]    = str(error)[:200]
+    data["runs"].append(entry)
+    data["runs"] = data["runs"][-20:]
+    with open(log_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+# ─────────────────────────────────────────────────────────────
 # ANA AKIŞ
 # ─────────────────────────────────────────────────────────────
 if __name__ == "__main__":
@@ -636,12 +657,14 @@ if __name__ == "__main__":
     else:
         video_id = upload_to_youtube(title, description)
         if video_id:
+            save_run_log("ok", video_id=video_id, title=title)
             send_telegram(
                 f"✅ <b>purdyblog</b> video yayınlandı!\n"
                 f"🎬 {title}\n"
                 f"🔗 https://youtube.com/shorts/{video_id}"
             )
         else:
+            save_run_log("error", error="YouTube upload failed")
             send_telegram("❌ <b>purdyblog</b> YouTube yüklemesi başarısız!")
 
     print("\n=== Tamamlandi! ===")
