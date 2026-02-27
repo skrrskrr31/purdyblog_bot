@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name "purdyblog-bot"
           git config user.email "bot@purdyblog.com"
-          git add kullanilan_haberler.json || true
-          git diff --staged --quiet || git commit -m "update: kullanilan haberler guncellendi"
+          git add kullanilan_haberler.json run_log.json || true
+          git diff --staged --quiet || git commit -m "update: kullanilan haberler ve run log guncellendi"
           git push || true
