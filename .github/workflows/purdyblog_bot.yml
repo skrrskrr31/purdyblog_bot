@@ -2,16 +2,16 @@ name: Purdyblog Bot
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # 09:00 Türkiye - sabah
-    - cron: '0 9 * * *'   # 12:00 Türkiye - öğle
-    - cron: '0 12 * * *'  # 15:00 Türkiye - öğleden sonra
-    - cron: '0 15 * * *'  # 18:00 Türkiye - akşam
-    - cron: '0 18 * * *'  # 21:00 Türkiye - ana yayın saati
+    - cron: '0 9 * * *'   # 12:00 Türkiye
+    - cron: '0 14 * * *'  # 17:00 Türkiye
+    - cron: '0 19 * * *'  # 22:00 Türkiye
   workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
