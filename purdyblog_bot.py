@@ -309,41 +309,63 @@ def haber_cek():
 # ─────────────────────────────────────────────────────────────
 # MÜZİK SEÇİMİ
 # ─────────────────────────────────────────────────────────────
+# Şarkıcı olmayan kişiler için sözsüz arka plan müziği arama terimleri
+INSTRUMENTAL_SEARCHES = [
+    "lofi chill background music no lyrics",
+    "soft piano background music relaxing",
+    "ambient background music calm instrumental",
+    "chill lofi beats study music",
+    "gentle background music no vocals",
+    "cinematic background music soft",
+    "lo fi hip hop relaxing instrumental",
+    "peaceful background music no words",
+    "smooth jazz background music light",
+    "aesthetic background music instrumental chill",
+]
+
+
 def pick_muzik_online(haber_metni):
-    """Groq'a haberi ver → kişi şarkıcı mı değil mi + şarkı önersin → yt-dlp ile indir.
+    """Kişi şarkıcıysa Groq'tan o kişinin şarkısını önerir, değilse sözsüz lofi indirir.
     Döndürür: (muzik_dosyasi, is_singer: bool)"""
-    print("Muzik seciliyor (Groq)...")
+    print("Muzik seciliyor...")
     sarki_adi = None
     is_singer = False
+
+    # Önce Groq'a sor: şarkıcı mı değil mi?
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
-                f'Şu Türk magazin haberine bak.\n\n'
+                f'Şu Türk magazin haberinin ana kişisi bir şarkıcı veya müzisyen mi?\n\n'
                 f'HABER: "{haber_metni[:400]}"\n\n'
-                f'1) Haberin ana kişisi bir şarkıcı/müzisyen mi? (EVET veya HAYIR)\n'
-                f'2) Uygun bir Türkçe şarkı öner "Sanatçı - Şarkı Adı" formatında.\n'
-                f'   - Şarkıcıysa: o kişinin kendi şarkısını öner.\n'
-                f'   - Değilse (oyuncu, sporcu vb.): herhangi popüler Türkçe bir şarkı öner.\n\n'
+                f'Eğer şarkıcıysa: o kişinin en bilinen şarkısını öner.\n'
                 f'Sadece şu formatta yaz (başka hiçbir şey ekleme):\n'
-                f'SARKI: Tarkan - Kuzu Kuzu\n'
-                f'SARKICI: EVET'}]
+                f'SARKICI: EVET\n'
+                f'SARKI: Tarkan - Kuzu Kuzu\n\n'
+                f'Şarkıcı değilse sadece şunu yaz:\n'
+                f'SARKICI: HAYIR'}]
         )
         yanit = resp.choices[0].message.content.strip()
         print(f"[Groq yaniti]: {yanit}")
         for satir in yanit.splitlines():
             satir = satir.strip()
-            if satir.upper().startswith("SARKI:"):
-                sarki_adi = satir.split(":", 1)[1].strip().replace('"', '')
-            elif satir.upper().startswith("SARKICI:"):
+            if satir.upper().startswith("SARKICI:"):
                 deger = satir.split(":", 1)[1].strip().upper()
                 is_singer = deger.startswith("EVET")
-        print(f"[OK] Sarki: {sarki_adi} | Sarkici mi: {is_singer}")
+            elif satir.upper().startswith("SARKI:"):
+                sarki_adi = satir.split(":", 1)[1].strip().replace('"', '')
+        print(f"[OK] Sarkici mi: {is_singer} | Sarki: {sarki_adi}")
     except Exception as e:
         print(f"[WARN] Groq hatasi: {e}")
-        sarki_adi = "Turkce pop muzik"
         is_singer = False
+
+    # Şarkıcı değilse → sözsüz lofi/instrumental
+    if not is_singer:
+        sarki_adi = random.choice(INSTRUMENTAL_SEARCHES)
+        print(f"[INFO] Sarkici degil → sozsuz arka plan muzigi: {sarki_adi}")
+    elif not sarki_adi:
+        sarki_adi = "Turkce pop muzik"
 
     # Önceki geçici dosyayı temizle
     for ext in ['.mp3', '.m4a', '.webm', '.opus', '.wav']:
