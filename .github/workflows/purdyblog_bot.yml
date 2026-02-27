@@ -27,9 +27,11 @@ jobs:
 
       - name: Botu çalıştır
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          TOKEN_JSON:   ${{ secrets.TOKEN_JSON }}
-          SECRET_JSON:  ${{ secrets.SECRET_JSON }}
+          GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
+          TOKEN_JSON:          ${{ secrets.TOKEN_JSON }}
+          SECRET_JSON:         ${{ secrets.SECRET_JSON }}
+          TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python purdyblog_bot.py
 
       - name: Kullanılan haberleri kaydet
