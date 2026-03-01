@@ -349,90 +349,51 @@ INSTRUMENTAL_SEARCHES = [
 ]
 
 
-def pick_muzik_online(haber_metni):
-    """Kişi şarkıcıysa Groq'tan o kişinin şarkısını önerir, değilse sözsüz lofi indirir.
-    Döndürür: (muzik_dosyasi, is_singer: bool)"""
-    print("Muzik seciliyor...")
-    sarki_adi = None
-    is_singer = False
+def pick_muzik_local(haber_metni):
+    """Groq ile haberın tonuna göre eglenceli/huzunlu klasöründen müzik seçer.
+    Döndürür: (muzik_dosyasi, volume: float)"""
+    print("Muzik seciliyor (yerel)...")
 
-    # Önce Groq'a sor: şarkıcı mı değil mi?
+    muzikler_dir = os.path.join(script_dir, "muzikler")
+    eglen_dir = os.path.join(muzikler_dir, "eglenceli")
+    huzun_dir = os.path.join(muzikler_dir, "huzunlu")
+
+    eglen_files = [os.path.join(eglen_dir, f) for f in os.listdir(eglen_dir) if f.endswith(".mp3")] if os.path.isdir(eglen_dir) else []
+    huzun_files = [os.path.join(huzun_dir, f) for f in os.listdir(huzun_dir) if f.endswith(".mp3")] if os.path.isdir(huzun_dir) else []
+    tum_files   = eglen_files + huzun_files
+
+    if not tum_files:
+        print("[WARN] Yerel muzik dosyasi bulunamadi.")
+        return None, 0.15
+
+    # Groq ile ton tespiti
+    ton = "eglenceli"
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
-                f'Şu Türk magazin haberinin ana kişisi bir şarkıcı veya müzisyen mi?\n\n'
-                f'HABER: "{haber_metni[:400]}"\n\n'
-                f'Eğer şarkıcıysa: o kişinin en bilinen şarkısını öner.\n'
-                f'Sadece şu formatta yaz (başka hiçbir şey ekleme):\n'
-                f'SARKICI: EVET\n'
-                f'SARKI: Tarkan - Kuzu Kuzu\n\n'
-                f'Şarkıcı değilse sadece şunu yaz:\n'
-                f'SARKICI: HAYIR'}]
+                f'Su Turk magazin haberinin genel tonu nedir?\n\n'
+                f'HABER: "{haber_metni[:300]}"\n\n'
+                f'Sadece tek kelime yaz: EGLENCELI veya HUZUNLU'}]
         )
-        yanit = resp.choices[0].message.content.strip()
-        print(f"[Groq yaniti]: {yanit}")
-        for satir in yanit.splitlines():
-            satir = satir.strip()
-            if satir.upper().startswith("SARKICI:"):
-                deger = satir.split(":", 1)[1].strip().upper()
-                is_singer = deger.startswith("EVET")
-            elif satir.upper().startswith("SARKI:"):
-                sarki_adi = satir.split(":", 1)[1].strip().replace('"', '')
-        print(f"[OK] Sarkici mi: {is_singer} | Sarki: {sarki_adi}")
+        yanit = resp.choices[0].message.content.strip().upper()
+        if "HUZUNLU" in yanit:
+            ton = "huzunlu"
+        print(f"[OK] Haber tonu: {ton}")
     except Exception as e:
-        print(f"[WARN] Groq hatasi: {e}")
-        is_singer = False
+        print(f"[WARN] Groq ton hatasi: {e}")
 
-    # Şarkıcı değilse → sözsüz lofi/instrumental
-    if not is_singer:
-        sarki_adi = random.choice(INSTRUMENTAL_SEARCHES)
-        print(f"[INFO] Sarkici degil → sozsuz arka plan muzigi: {sarki_adi}")
-    elif not sarki_adi:
-        sarki_adi = "Turkce pop muzik"
+    # Tona uygun klasörden seç, yoksa tüm dosyalardan
+    if ton == "huzunlu" and huzun_files:
+        secilen = random.choice(huzun_files)
+    elif eglen_files:
+        secilen = random.choice(eglen_files)
+    else:
+        secilen = random.choice(tum_files)
 
-    # Önceki geçici dosyayı temizle
-    for ext in ['.mp3', '.m4a', '.webm', '.opus', '.wav']:
-        p = os.path.join(script_dir, f"gecici_muzik{ext}")
-        if os.path.exists(p):
-            try: os.remove(p)
-            except: pass
-
-    cikti_sablonu = os.path.join(script_dir, "gecici_muzik.%(ext)s")
-
-    # moviepy'nin ffmpeg'ini bul
-    try:
-        from moviepy.config import get_setting
-        ffmpeg_yolu = get_setting("FFMPEG_BINARY")
-    except:
-        ffmpeg_yolu = "ffmpeg"
-
-    print(f"Muzik indiriliyor: {sarki_adi} ...")
-    try:
-        subprocess.run([
-            sys.executable, "-m", "yt_dlp",
-            f"ytsearch1:{sarki_adi}",
-            "--extract-audio",
-            "--audio-format", "mp3",
-            "--audio-quality", "5",
-            "--ffmpeg-location", ffmpeg_yolu,
-            "--output", cikti_sablonu,
-            "--no-playlist",
-            "--quiet",
-            "--no-warnings",
-        ], check=True, timeout=90)
-
-        hedef = os.path.join(script_dir, "gecici_muzik.mp3")
-        if os.path.exists(hedef):
-            print(f"[OK] Muzik indirildi.")
-            return hedef, is_singer
-        else:
-            print("[WARN] Dosya bulunamadi.")
-    except Exception as e:
-        print(f"[WARN] yt-dlp hatasi: {e}")
-
-    return None, is_singer
+    print(f"[OK] Muzik: {os.path.basename(secilen)}")
+    return secilen, 0.20
 
 
 # ─────────────────────────────────────────────────────────────
@@ -494,7 +455,7 @@ def generate_title(haber_metni):
 # ─────────────────────────────────────────────────────────────
 # VİDEO OLUŞTUR
 # ─────────────────────────────────────────────────────────────
-def create_video(img, secilen_muzik=None, is_singer=False):
+def create_video(img, secilen_muzik=None, volume=0.20):
     print("Video olusturuluyor...")
     temp = "_temp_card.jpg"
     img.save(temp, quality=95)
@@ -506,11 +467,9 @@ def create_video(img, secilen_muzik=None, is_singer=False):
             audio = AudioFileClip(secilen_muzik)
             start = random.randint(0, max(0, int(audio.duration) - 10))
             audio = audio.subclip(start, min(start + 7, audio.duration))
-            # Şarkıcıysa biraz daha yüksek, değilse çok düşük (arka planda kalır)
-            volume = 0.22 if is_singer else 0.08
             audio = audio.volumex(volume)
             clip = clip.set_audio(audio)
-            print(f"[OK] Muzik eklendi (volume={volume}, sarkici={is_singer})")
+            print(f"[OK] Muzik eklendi (volume={volume})")
         except Exception as e:
             print(f"[WARN] Muzik eklenemedi: {e}")
 
@@ -643,12 +602,12 @@ if __name__ == "__main__":
     img = create_card(haber_kisa, foto_paths)
 
     # Başlık + müzik seçimi
-    title                    = generate_title(haber_metni)
-    secilen_muzik, is_singer = pick_muzik_online(haber_metni)
-    description              = haber_metni[:300] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
+    title                  = generate_title(haber_metni)
+    secilen_muzik, volume  = pick_muzik_local(haber_metni)
+    description            = haber_metni[:300] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
 
     # Video
-    create_video(img, secilen_muzik, is_singer=is_singer)
+    create_video(img, secilen_muzik, volume=volume)
 
     # YouTube
     if TEST_MODE:
