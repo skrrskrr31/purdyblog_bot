@@ -1,6 +1,7 @@
 token.json
 secret.json
 *.mp4
+*.mp3
 *.webm
 gecici_*
 orijinal_*
@@ -8,3 +9,4 @@ haber.txt
 __pycache__/
 *.pyc
 test_*.py
+muzikler/
