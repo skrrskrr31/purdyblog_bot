@@ -8,6 +8,11 @@ Gerekli dosyalar:
 """
 
 import os, sys, random, base64, subprocess, json
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 import io as _io
 from PIL import Image, ImageDraw, ImageFont
 from groq import Groq
@@ -21,7 +26,9 @@ if sys.stdout.encoding != 'utf-8':
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+GROQ_API_KEY        = os.environ.get("GROQ_API_KEY")
+TELEGRAM_BOT_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "")
 SECRET_PATH  = os.path.join(script_dir, "secret.json")
 TOKEN_PATH   = os.path.join(script_dir, "token.json")
 
@@ -36,6 +43,29 @@ if _token_env and not os.path.exists(TOKEN_PATH):
     with open(TOKEN_PATH, "w") as _f:
         _f.write(_token_env)
 OUTPUT_VIDEO = os.path.join(script_dir, "purdyblog_shorts.mp4")
+
+
+# ─────────────────────────────────────────────────────────────
+# TELEGRAM BİLDİRİM
+# ─────────────────────────────────────────────────────────────
+def send_telegram(msg):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        return
+    import urllib.request, urllib.parse
+    try:
+        data = urllib.parse.urlencode({
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML"
+        }).encode()
+        req = urllib.request.Request(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            data=data
+        )
+        urllib.request.urlopen(req, timeout=10)
+        print("[Telegram] Mesaj gonderildi.")
+    except Exception as e:
+        print(f"[Telegram] Hata: {e}")
 
 W, H       = 1080, 1920
 PAD        = 44
@@ -247,8 +277,31 @@ def haber_cek():
                 gecmis = json.load(f)
         except: pass
 
-    gecmis_set = set(gecmis)
-    yeni = [(b, u) for b, u in haberler if u not in gecmis_set]
+    # gecmis artık [{"url":..., "baslik":...}] formatında, eski format [str] de desteklenir
+    gecmis_urls = set()
+    gecmis_basliklar = []
+    for item in gecmis:
+        if isinstance(item, dict):
+            gecmis_urls.add(item.get("url", ""))
+            gecmis_basliklar.append(item.get("baslik", "").lower())
+        else:
+            gecmis_urls.add(item)
+
+    def baslik_benzer(b1, b2, esik=0.5):
+        """İki başlık arasındaki kelime örtüşmesini kontrol et."""
+        k1 = set(w for w in b1.lower().split() if len(w) > 3)
+        k2 = set(w for w in b2.lower().split() if len(w) > 3)
+        if not k1 or not k2:
+            return False
+        oran = len(k1 & k2) / min(len(k1), len(k2))
+        return oran >= esik
+
+    def url_veya_baslik_kullanildi(baslik, url):
+        if url in gecmis_urls:
+            return True
+        return any(baslik_benzer(baslik, gb) for gb in gecmis_basliklar)
+
+    yeni = [(b, u) for b, u in haberler if not url_veya_baslik_kullanildi(b, u)]
     if not yeni:
         print("[INFO] Tum haberler kullanildi, sifirlaniyor.")
         yeni = haberler
@@ -298,10 +351,18 @@ def haber_cek():
         except Exception as e:
             print(f"[WARN] Foto indirilemedi: {e}")
 
-    # Geçmişe kaydet
-    gecmis.append(secilen_url)
+    # Geçmişe kaydet (yeni format: {"url":..., "baslik":...})
+    yeni_kayit = {"url": secilen_url, "baslik": secilen_baslik}
+    # Eski format uyumu: string olanları objeye çevir
+    gecmis_normalize = []
+    for item in gecmis:
+        if isinstance(item, str):
+            gecmis_normalize.append({"url": item, "baslik": ""})
+        else:
+            gecmis_normalize.append(item)
+    gecmis_normalize.append(yeni_kayit)
     with open(KULLANILAN_PATH, 'w', encoding='utf-8') as f:
-        json.dump(gecmis[-30:], f, ensure_ascii=False)
+        json.dump(gecmis_normalize[-30:], f, ensure_ascii=False)
 
     return metin, foto_path
 
@@ -309,67 +370,66 @@ def haber_cek():
 # ─────────────────────────────────────────────────────────────
 # MÜZİK SEÇİMİ
 # ─────────────────────────────────────────────────────────────
-def pick_muzik_online(haber_metni):
-    """Groq'a haberi ver → şarkı önersin → yt-dlp ile YouTube'dan indir."""
-    print("Muzik seciliyor (Groq)...")
-    sarki_adi = None
+# Şarkıcı olmayan kişiler için sözsüz arka plan müziği arama terimleri
+INSTRUMENTAL_SEARCHES = [
+    "lofi chill background music no lyrics",
+    "soft piano background music relaxing",
+    "ambient background music calm instrumental",
+    "chill lofi beats study music",
+    "gentle background music no vocals",
+    "cinematic background music soft",
+    "lo fi hip hop relaxing instrumental",
+    "peaceful background music no words",
+    "smooth jazz background music light",
+    "aesthetic background music instrumental chill",
+]
+
+
+def pick_muzik_local(haber_metni):
+    """Groq ile haberın tonuna göre eglenceli/huzunlu klasöründen müzik seçer.
+    Döndürür: (muzik_dosyasi, volume: float)"""
+    print("Muzik seciliyor (yerel)...")
+
+    muzikler_dir = os.path.join(script_dir, "muzikler")
+    eglen_dir = os.path.join(muzikler_dir, "eglenceli")
+    huzun_dir = os.path.join(muzikler_dir, "huzunlu")
+
+    eglen_files = [os.path.join(eglen_dir, f) for f in os.listdir(eglen_dir) if f.endswith(".mp3")] if os.path.isdir(eglen_dir) else []
+    huzun_files = [os.path.join(huzun_dir, f) for f in os.listdir(huzun_dir) if f.endswith(".mp3")] if os.path.isdir(huzun_dir) else []
+    tum_files   = eglen_files + huzun_files
+
+    if not tum_files:
+        print("[WARN] Yerel muzik dosyasi bulunamadi.")
+        return None, 0.15
+
+    # Groq ile ton tespiti
+    ton = "eglenceli"
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
-                f'Şu Türk magazin haberine arka plan müziği olarak uygun bir Türkçe şarkı öner.\n\n'
-                f'HABER: "{haber_metni[:400]}"\n\n'
-                f'Sadece "Sanatçı - Şarkı Adı" formatında yaz, başka hiçbir şey yazma.\n'
-                f'Örnek: Tarkan - Kuzu Kuzu'}]
+                f'Su Turk magazin haberinin genel tonu nedir?\n\n'
+                f'HABER: "{haber_metni[:300]}"\n\n'
+                f'Sadece tek kelime yaz: EGLENCELI veya HUZUNLU'}]
         )
-        sarki_adi = resp.choices[0].message.content.strip().replace('"', '').strip()
-        print(f"[OK] Groq oneriyor: {sarki_adi}")
+        yanit = resp.choices[0].message.content.strip().upper()
+        if "HUZUNLU" in yanit:
+            ton = "huzunlu"
+        print(f"[OK] Haber tonu: {ton}")
     except Exception as e:
-        print(f"[WARN] Groq hatasi: {e}")
-        sarki_adi = "Turkce pop muzik"
+        print(f"[WARN] Groq ton hatasi: {e}")
 
-    # Önceki geçici dosyayı temizle
-    for ext in ['.mp3', '.m4a', '.webm', '.opus', '.wav']:
-        p = os.path.join(script_dir, f"gecici_muzik{ext}")
-        if os.path.exists(p):
-            try: os.remove(p)
-            except: pass
+    # Tona uygun klasörden seç, yoksa tüm dosyalardan
+    if ton == "huzunlu" and huzun_files:
+        secilen = random.choice(huzun_files)
+    elif eglen_files:
+        secilen = random.choice(eglen_files)
+    else:
+        secilen = random.choice(tum_files)
 
-    cikti_sablonu = os.path.join(script_dir, "gecici_muzik.%(ext)s")
-
-    # moviepy'nin ffmpeg'ini bul
-    try:
-        from moviepy.config import get_setting
-        ffmpeg_yolu = get_setting("FFMPEG_BINARY")
-    except:
-        ffmpeg_yolu = "ffmpeg"
-
-    print(f"Muzik indiriliyor: {sarki_adi} ...")
-    try:
-        subprocess.run([
-            sys.executable, "-m", "yt_dlp",
-            f"ytsearch1:{sarki_adi}",
-            "--extract-audio",
-            "--audio-format", "mp3",
-            "--audio-quality", "5",
-            "--ffmpeg-location", ffmpeg_yolu,
-            "--output", cikti_sablonu,
-            "--no-playlist",
-            "--quiet",
-            "--no-warnings",
-        ], check=True, timeout=90)
-
-        hedef = os.path.join(script_dir, "gecici_muzik.mp3")
-        if os.path.exists(hedef):
-            print(f"[OK] Muzik indirildi.")
-            return hedef
-        else:
-            print("[WARN] Dosya bulunamadi.")
-    except Exception as e:
-        print(f"[WARN] yt-dlp hatasi: {e}")
-
-    return None
+    print(f"[OK] Muzik: {os.path.basename(secilen)}")
+    return secilen, 0.20
 
 
 # ─────────────────────────────────────────────────────────────
@@ -431,7 +491,7 @@ def generate_title(haber_metni):
 # ─────────────────────────────────────────────────────────────
 # VİDEO OLUŞTUR
 # ─────────────────────────────────────────────────────────────
-def create_video(img, secilen_muzik=None):
+def create_video(img, secilen_muzik=None, volume=0.20):
     print("Video olusturuluyor...")
     temp = "_temp_card.jpg"
     img.save(temp, quality=95)
@@ -443,8 +503,9 @@ def create_video(img, secilen_muzik=None):
             audio = AudioFileClip(secilen_muzik)
             start = random.randint(0, max(0, int(audio.duration) - 10))
             audio = audio.subclip(start, min(start + 7, audio.duration))
-            audio = audio.volumex(0.2)
+            audio = audio.volumex(volume)
             clip = clip.set_audio(audio)
+            print(f"[OK] Muzik eklendi (volume={volume})")
         except Exception as e:
             print(f"[WARN] Muzik eklenemedi: {e}")
 
@@ -509,9 +570,33 @@ def upload_to_youtube(title, description):
             status, response = req.next_chunk()
             if status:
                 print(f"  %{int(status.progress() * 100)}")
-        print(f"\n[OK] Yayinlandi! https://youtube.com/shorts/{response['id']}")
+        video_id = response['id']
+        print(f"\n[OK] Yayinlandi! https://youtube.com/shorts/{video_id}")
+        return video_id
     except Exception as e:
         print(f"[ERROR] YouTube yukleme hatasi: {e}")
+        return None
+
+
+# ─────────────────────────────────────────────────────────────
+# ÇALIŞMA LOGU
+# ─────────────────────────────────────────────────────────────
+def save_run_log(status, video_id=None, title=None, error=None):
+    from datetime import datetime
+    log_path = os.path.join(script_dir, "run_log.json")
+    try:
+        with open(log_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except:
+        data = {"bot": "purdyblog", "runs": []}
+    entry = {"ts": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S"), "status": status}
+    if video_id: entry["video_id"] = video_id
+    if title:    entry["title"]    = title[:80]
+    if error:    entry["error"]    = str(error)[:200]
+    data["runs"].append(entry)
+    data["runs"] = data["runs"][-20:]
+    with open(log_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 # ─────────────────────────────────────────────────────────────
@@ -553,18 +638,28 @@ if __name__ == "__main__":
     img = create_card(haber_kisa, foto_paths)
 
     # Başlık + müzik seçimi
-    title          = generate_title(haber_metni)
-    secilen_muzik  = pick_muzik_online(haber_metni)
-    description    = haber_metni[:300] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
+    title                  = generate_title(haber_metni)
+    secilen_muzik, volume  = pick_muzik_local(haber_metni)
+    description            = haber_metni[:300] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
 
     # Video
-    create_video(img, secilen_muzik)
+    create_video(img, secilen_muzik, volume=volume)
 
     # YouTube
     if TEST_MODE:
         print("\n[TEST] YouTube yuklemesi atlandi.")
         print(f"[TEST] Video: {OUTPUT_VIDEO}")
     else:
-        upload_to_youtube(title, description)
+        video_id = upload_to_youtube(title, description)
+        if video_id:
+            save_run_log("ok", video_id=video_id, title=title)
+            send_telegram(
+                f"✅ <b>purdyblog</b> video yayınlandı!\n"
+                f"🎬 {title}\n"
+                f"🔗 https://youtube.com/shorts/{video_id}"
+            )
+        else:
+            save_run_log("error", error="YouTube upload failed")
+            send_telegram("❌ <b>purdyblog</b> YouTube yüklemesi başarısız!")
 
     print("\n=== Tamamlandi! ===")
