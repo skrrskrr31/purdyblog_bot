@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-07T13:51:54",
-      "status": "ok",
-      "video_id": "6kItn3bkWXg",
-      "title": "Teoman'ın Skandali! #shorts"
-    },
-    {
       "ts": "2026-03-07T15:46:51",
       "status": "ok",
       "video_id": "IC24B-nZ2yE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4QvubNwdHRA",
       "title": "Hasan Can Kaya'da Büyük Sürpriz! #shorts"
+    },
+    {
+      "ts": "2026-03-11T17:39:09",
+      "status": "ok",
+      "video_id": "lhOjTdcgEAg",
+      "title": "Ünlü çiftin garip kutlaması! #shorts"
     }
   ]
 }
