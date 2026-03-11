@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-07T15:46:51",
-      "status": "ok",
-      "video_id": "IC24B-nZ2yE",
-      "title": "Bryan Cranston'un şok eden hali! #shorts"
-    },
-    {
       "ts": "2026-03-07T18:59:42",
       "status": "ok",
       "video_id": "mSBN9_l26yI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "lhOjTdcgEAg",
       "title": "Ünlü çiftin garip kutlaması! #shorts"
+    },
+    {
+      "ts": "2026-03-11T19:53:33",
+      "status": "ok",
+      "video_id": "stohEbPP0Ss",
+      "title": "Nükhet Duru'nun Sıradışı Açıklaması #shorts"
     }
   ]
 }
