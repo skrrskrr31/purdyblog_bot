@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-08T15:47:59",
-      "status": "ok",
-      "video_id": "lysBU78gHyQ",
-      "title": "Hasan Can Kaya'nın skandal sözleri! #shorts"
-    },
-    {
       "ts": "2026-03-08T19:01:42",
       "status": "ok",
       "video_id": "e7VAfZF6Ajo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "77U2W1zsZ7U",
       "title": "Ünlü oyuncunun sürpriz itirafları #shorts"
+    },
+    {
+      "ts": "2026-03-12T19:55:16",
+      "status": "ok",
+      "video_id": "pnJuxlFkwio",
+      "title": "Seda Sayan değişti! #shorts"
     }
   ]
 }
