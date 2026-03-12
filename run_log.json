@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-08T09:54:26",
-      "status": "ok",
-      "video_id": "QeXtzF5lP18",
-      "title": "Ceza'ya sürprizattack! #shorts"
-    },
-    {
       "ts": "2026-03-08T13:52:56",
       "status": "ok",
       "video_id": "dXETJA-WqaM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YPNmt-238ss",
       "title": "Melek Mosso'ya Büyük Tepki! #shorts"
+    },
+    {
+      "ts": "2026-03-12T14:38:52",
+      "status": "ok",
+      "video_id": "e59bhXjFx7I",
+      "title": "Müge Anlı'nın şok açıklaması! #shorts"
     }
   ]
 }
