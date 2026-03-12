@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-08T13:52:56",
-      "status": "ok",
-      "video_id": "dXETJA-WqaM",
-      "title": "Ozan Akbaba'nın eşine sürpriz! #shorts"
-    },
-    {
       "ts": "2026-03-08T15:47:59",
       "status": "ok",
       "video_id": "lysBU78gHyQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "e59bhXjFx7I",
       "title": "Müge Anlı'nın şok açıklaması! #shorts"
+    },
+    {
+      "ts": "2026-03-12T17:59:59",
+      "status": "ok",
+      "video_id": "77U2W1zsZ7U",
+      "title": "Ünlü oyuncunun sürpriz itirafları #shorts"
     }
   ]
 }
