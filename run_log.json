@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-07T18:59:42",
-      "status": "ok",
-      "video_id": "mSBN9_l26yI",
-      "title": "Hande Yener'in İfadesi Alınıyor! #shorts"
-    },
-    {
       "ts": "2026-03-08T09:54:26",
       "status": "ok",
       "video_id": "QeXtzF5lP18",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "stohEbPP0Ss",
       "title": "Nükhet Duru'nun Sıradışı Açıklaması #shorts"
+    },
+    {
+      "ts": "2026-03-12T13:53:25",
+      "status": "ok",
+      "video_id": "YPNmt-238ss",
+      "title": "Melek Mosso'ya Büyük Tepki! #shorts"
     }
   ]
 }
