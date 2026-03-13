@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-08T19:01:42",
-      "status": "ok",
-      "video_id": "e7VAfZF6Ajo",
-      "title": "Cem Yılmaz'ın Sırrı Ne? #shorts"
-    },
-    {
       "ts": "2026-03-09T07:55:51",
       "status": "ok",
       "video_id": "gfBl9MfX4zc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "pnJuxlFkwio",
       "title": "Seda Sayan değişti! #shorts"
+    },
+    {
+      "ts": "2026-03-13T07:35:36",
+      "status": "ok",
+      "video_id": "p8MF1CrvyNQ",
+      "title": "Ünlü Oyuncunun Çarpıcı İtirafları #shorts"
     }
   ]
 }
