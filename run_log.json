@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-09T17:37:58",
-      "status": "ok",
-      "video_id": "SSH0g_oixpo",
-      "title": "Kıvanç Tatlıtuğ'un yeni hali! #shorts"
-    },
-    {
       "ts": "2026-03-09T19:54:01",
       "status": "ok",
       "video_id": "pxtb0SBOCh4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4wW1K0WgSNk",
       "title": "Göksel tanınmaz hale geldi! #shorts"
+    },
+    {
+      "ts": "2026-03-13T19:46:17",
+      "status": "ok",
+      "video_id": "dFMEbpXzmlw",
+      "title": "Ünlü Oyuncu Beykoz'ta Neler Yaşadı? #shorts"
     }
   ]
 }
