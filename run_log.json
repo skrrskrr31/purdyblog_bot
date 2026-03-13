@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-09T15:14:51",
-      "status": "ok",
-      "video_id": "dPxVozf50CM",
-      "title": "Boran Kuzum ne giymiş? #shorts"
-    },
-    {
       "ts": "2026-03-09T17:37:58",
       "status": "ok",
       "video_id": "SSH0g_oixpo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "FTMn0x_TxrI",
       "title": "Dünyanın en güzel kızı nişanlandı! #shorts"
+    },
+    {
+      "ts": "2026-03-13T17:06:43",
+      "status": "ok",
+      "video_id": "4wW1K0WgSNk",
+      "title": "Göksel tanınmaz hale geldi! #shorts"
     }
   ]
 }
