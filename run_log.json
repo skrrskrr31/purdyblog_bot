@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-09T19:54:01",
-      "status": "ok",
-      "video_id": "pxtb0SBOCh4",
-      "title": "Mbappe ile Ester Exposito'nun Sırrı! #shorts"
-    },
-    {
       "ts": "2026-03-10T07:28:54",
       "status": "ok",
       "video_id": "2FDirc7VABA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "dFMEbpXzmlw",
       "title": "Ünlü Oyuncu Beykoz'ta Neler Yaşadı? #shorts"
+    },
+    {
+      "ts": "2026-03-14T07:23:30",
+      "status": "ok",
+      "video_id": "fHd_KS3IpiE",
+      "title": "Celal Karatüre'nin tuhaf talebi! #shorts"
     }
   ]
 }
