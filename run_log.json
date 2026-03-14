@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-10T17:36:06",
-      "status": "ok",
-      "video_id": "7t--sK0b-Q4",
-      "title": "Adem Kılıçcı'ya sürpriz! #shorts"
-    },
-    {
       "ts": "2026-03-10T19:54:08",
       "status": "ok",
       "video_id": "JBEirlF0tJo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "onyPlNwMfgg",
       "title": "Burcu Güneş'in şok itirafı #shorts"
+    },
+    {
+      "ts": "2026-03-14T19:17:14",
+      "status": "ok",
+      "video_id": "xDWyvySmunI",
+      "title": "Ünlü oyuncudan bomba eleştiri! #shorts"
     }
   ]
 }
