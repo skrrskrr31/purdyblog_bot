@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-10T11:08:03",
-      "status": "ok",
-      "video_id": "soVPrBY897c",
-      "title": "Ufuk Bayraktar'ın sırları ortaya çıktı #shorts"
-    },
-    {
       "ts": "2026-03-10T14:37:20",
       "status": "ok",
       "video_id": "vVDtE8GA8qA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AaBHnPdIgFA",
       "title": "Acun'dan Şaşırtan Hamle! #shorts"
+    },
+    {
+      "ts": "2026-03-14T13:58:14",
+      "status": "ok",
+      "video_id": "kGqbewZQlDE",
+      "title": "İrem Derici'nin Şok Açıklaması #shorts"
     }
   ]
 }
