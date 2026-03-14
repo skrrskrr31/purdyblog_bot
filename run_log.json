@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-10T07:28:54",
-      "status": "ok",
-      "video_id": "2FDirc7VABA",
-      "title": "Celal Karatüre'nin iddialara yanıtı! #shorts"
-    },
-    {
       "ts": "2026-03-10T11:08:03",
       "status": "ok",
       "video_id": "soVPrBY897c",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "fHd_KS3IpiE",
       "title": "Celal Karatüre'nin tuhaf talebi! #shorts"
+    },
+    {
+      "ts": "2026-03-14T09:58:41",
+      "status": "ok",
+      "video_id": "AaBHnPdIgFA",
+      "title": "Acun'dan Şaşırtan Hamle! #shorts"
     }
   ]
 }
