@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-11T14:38:31",
-      "status": "ok",
-      "video_id": "4QvubNwdHRA",
-      "title": "Hasan Can Kaya'da Büyük Sürpriz! #shorts"
-    },
-    {
       "ts": "2026-03-11T17:39:09",
       "status": "ok",
       "video_id": "lhOjTdcgEAg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "K71DpuVI0bc",
       "title": "Acun Ilıcalı'nın Şok Açıklaması #shorts"
+    },
+    {
+      "ts": "2026-03-15T15:55:22",
+      "status": "ok",
+      "video_id": "OfCx8Thy5hw",
+      "title": "Mustafa Topaloğlu sahneyi niye terk etti? #shorts"
     }
   ]
 }
