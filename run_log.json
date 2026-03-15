@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-10T19:54:08",
-      "status": "ok",
-      "video_id": "JBEirlF0tJo",
-      "title": "Rıza Baba'nın sırrı ne? #shorts"
-    },
-    {
       "ts": "2026-03-11T07:33:44",
       "status": "ok",
       "video_id": "7-I9eL_lqKc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xDWyvySmunI",
       "title": "Ünlü oyuncudan bomba eleştiri! #shorts"
+    },
+    {
+      "ts": "2026-03-15T07:35:55",
+      "status": "ok",
+      "video_id": "_ohD0oL8PBo",
+      "title": "Ozan Akbaba'nın eşine sürpriz! #shorts"
     }
   ]
 }
