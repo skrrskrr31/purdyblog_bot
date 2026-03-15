@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-11T17:39:09",
-      "status": "ok",
-      "video_id": "lhOjTdcgEAg",
-      "title": "Ünlü çiftin garip kutlaması! #shorts"
-    },
-    {
       "ts": "2026-03-11T19:53:33",
       "status": "ok",
       "video_id": "stohEbPP0Ss",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OfCx8Thy5hw",
       "title": "Mustafa Topaloğlu sahneyi niye terk etti? #shorts"
+    },
+    {
+      "ts": "2026-03-15T19:18:51",
+      "status": "ok",
+      "video_id": "bgkskQ6t6Cc",
+      "title": "Katy Perry Ateşiyle Dans Etti! #shorts"
     }
   ]
 }
