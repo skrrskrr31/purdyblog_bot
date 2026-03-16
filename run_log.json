@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-11T19:53:33",
-      "status": "ok",
-      "video_id": "stohEbPP0Ss",
-      "title": "Nükhet Duru'nun Sıradışı Açıklaması #shorts"
-    },
-    {
       "ts": "2026-03-12T13:53:25",
       "status": "ok",
       "video_id": "YPNmt-238ss",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bgkskQ6t6Cc",
       "title": "Katy Perry Ateşiyle Dans Etti! #shorts"
+    },
+    {
+      "ts": "2026-03-16T08:16:55",
+      "status": "ok",
+      "video_id": "MLEOBE3TkUc",
+      "title": "Adriana Lima'nın Şaşırtan Sözleri! #shorts"
     }
   ]
 }
