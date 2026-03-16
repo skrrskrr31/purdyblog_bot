@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-12T17:59:59",
-      "status": "ok",
-      "video_id": "77U2W1zsZ7U",
-      "title": "Ünlü oyuncunun sürpriz itirafları #shorts"
-    },
-    {
       "ts": "2026-03-12T19:55:16",
       "status": "ok",
       "video_id": "pnJuxlFkwio",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cKWXpp44egU",
       "title": "Rapçi Blok3 Ne Yaptı? #shorts"
+    },
+    {
+      "ts": "2026-03-16T18:11:15",
+      "status": "ok",
+      "video_id": "T2O7PTuoytE",
+      "title": "Oscar kazandı, sonra ne yaptı? #shorts"
     }
   ]
 }
