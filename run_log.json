@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-12T13:53:25",
-      "status": "ok",
-      "video_id": "YPNmt-238ss",
-      "title": "Melek Mosso'ya Büyük Tepki! #shorts"
-    },
-    {
       "ts": "2026-03-12T14:38:52",
       "status": "ok",
       "video_id": "e59bhXjFx7I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MLEOBE3TkUc",
       "title": "Adriana Lima'nın Şaşırtan Sözleri! #shorts"
+    },
+    {
+      "ts": "2026-03-16T11:36:34",
+      "status": "ok",
+      "video_id": "YxWiYrB0w-w",
+      "title": "Uzak Şehir Neden Bu Hafta Gelmiyor? #shorts"
     }
   ]
 }
