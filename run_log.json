@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-12T14:38:52",
-      "status": "ok",
-      "video_id": "e59bhXjFx7I",
-      "title": "Müge Anlı'nın şok açıklaması! #shorts"
-    },
-    {
       "ts": "2026-03-12T17:59:59",
       "status": "ok",
       "video_id": "77U2W1zsZ7U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YxWiYrB0w-w",
       "title": "Uzak Şehir Neden Bu Hafta Gelmiyor? #shorts"
+    },
+    {
+      "ts": "2026-03-16T15:45:59",
+      "status": "ok",
+      "video_id": "cKWXpp44egU",
+      "title": "Rapçi Blok3 Ne Yaptı? #shorts"
     }
   ]
 }
