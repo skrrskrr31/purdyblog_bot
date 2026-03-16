@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-12T19:55:16",
-      "status": "ok",
-      "video_id": "pnJuxlFkwio",
-      "title": "Seda Sayan değişti! #shorts"
-    },
-    {
       "ts": "2026-03-13T07:35:36",
       "status": "ok",
       "video_id": "p8MF1CrvyNQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "T2O7PTuoytE",
       "title": "Oscar kazandı, sonra ne yaptı? #shorts"
+    },
+    {
+      "ts": "2026-03-16T19:58:12",
+      "status": "ok",
+      "video_id": "utqAZPqsJCI",
+      "title": "Cezaevinde milyar kazanıyor #shorts"
     }
   ]
 }
