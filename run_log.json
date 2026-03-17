@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-13T14:31:27",
-      "status": "ok",
-      "video_id": "FTMn0x_TxrI",
-      "title": "Dünyanın en güzel kızı nişanlandı! #shorts"
-    },
-    {
       "ts": "2026-03-13T17:06:43",
       "status": "ok",
       "video_id": "4wW1K0WgSNk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YzNrNpOhSJE",
       "title": "Ünlü oyuncunun şoke eden itirafı! #shorts"
+    },
+    {
+      "ts": "2026-03-17T15:45:22",
+      "status": "ok",
+      "video_id": "06ZI0ldvXHs",
+      "title": "Ebru Gündeş'in gizli harekâtı! #shorts"
     }
   ]
 }
