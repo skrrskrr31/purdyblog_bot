@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-13T07:35:36",
-      "status": "ok",
-      "video_id": "p8MF1CrvyNQ",
-      "title": "Ünlü Oyuncunun Çarpıcı İtirafları #shorts"
-    },
-    {
       "ts": "2026-03-13T11:02:27",
       "status": "ok",
       "video_id": "4oMrJOWSCuE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "utqAZPqsJCI",
       "title": "Cezaevinde milyar kazanıyor #shorts"
+    },
+    {
+      "ts": "2026-03-17T08:00:47",
+      "status": "ok",
+      "video_id": "i1Jm3KVMXrA",
+      "title": "Edis'ten şok açıklama! #shorts"
     }
   ]
 }
