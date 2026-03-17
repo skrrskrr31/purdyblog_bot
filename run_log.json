@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-13T11:02:27",
-      "status": "ok",
-      "video_id": "4oMrJOWSCuE",
-      "title": "Murat Övüç'ün Son Durumu! #shorts"
-    },
-    {
       "ts": "2026-03-13T14:31:27",
       "status": "ok",
       "video_id": "FTMn0x_TxrI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "i1Jm3KVMXrA",
       "title": "Edis'ten şok açıklama! #shorts"
+    },
+    {
+      "ts": "2026-03-17T11:33:20",
+      "status": "ok",
+      "video_id": "YzNrNpOhSJE",
+      "title": "Ünlü oyuncunun şoke eden itirafı! #shorts"
     }
   ]
 }
