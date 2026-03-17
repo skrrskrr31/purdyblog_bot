@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-13T17:06:43",
-      "status": "ok",
-      "video_id": "4wW1K0WgSNk",
-      "title": "Göksel tanınmaz hale geldi! #shorts"
-    },
-    {
       "ts": "2026-03-13T19:46:17",
       "status": "ok",
       "video_id": "dFMEbpXzmlw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "06ZI0ldvXHs",
       "title": "Ebru Gündeş'in gizli harekâtı! #shorts"
+    },
+    {
+      "ts": "2026-03-17T18:10:11",
+      "status": "ok",
+      "video_id": "X-gZqFAxRns",
+      "title": "O Ses Türkiye'nin Kayıp Şampiyonu! #shorts"
     }
   ]
 }
