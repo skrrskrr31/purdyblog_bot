@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-14T07:23:30",
-      "status": "ok",
-      "video_id": "fHd_KS3IpiE",
-      "title": "Celal Karatüre'nin tuhaf talebi! #shorts"
-    },
-    {
       "ts": "2026-03-14T09:58:41",
       "status": "ok",
       "video_id": "AaBHnPdIgFA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "g4TsKo3nuCI",
       "title": "Sibel Can'ın Gizli Sevgilisi! #shorts"
+    },
+    {
+      "ts": "2026-03-18T07:59:19",
+      "status": "ok",
+      "video_id": "gf0C6h9k_ko",
+      "title": "Ünlü Çiftin Şaşırtan Kutlaması #shorts"
     }
   ]
 }
