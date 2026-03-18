@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-14T19:17:14",
-      "status": "ok",
-      "video_id": "xDWyvySmunI",
-      "title": "Ünlü oyuncudan bomba eleştiri! #shorts"
-    },
-    {
       "ts": "2026-03-15T07:35:55",
       "status": "ok",
       "video_id": "_ohD0oL8PBo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "EAGYIZojayY",
       "title": "Yasemin Yürük'ün Acı Gecesi #shorts"
+    },
+    {
+      "ts": "2026-03-18T19:55:03",
+      "status": "ok",
+      "video_id": "1G5bVwArc08",
+      "title": "Kıvanç Tatlıtuğ'un Yeni Projesi Krizde! #shorts"
     }
   ]
 }
