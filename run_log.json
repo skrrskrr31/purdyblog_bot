@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-14T09:58:41",
-      "status": "ok",
-      "video_id": "AaBHnPdIgFA",
-      "title": "Acun'dan Şaşırtan Hamle! #shorts"
-    },
-    {
       "ts": "2026-03-14T13:58:14",
       "status": "ok",
       "video_id": "kGqbewZQlDE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gf0C6h9k_ko",
       "title": "Ünlü Çiftin Şaşırtan Kutlaması #shorts"
+    },
+    {
+      "ts": "2026-03-18T11:34:30",
+      "status": "ok",
+      "video_id": "pOivFxVmxgY",
+      "title": "Cansel Ayanoğlu'nun aşk sırrı #shorts"
     }
   ]
 }
