@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-15T15:55:22",
-      "status": "ok",
-      "video_id": "OfCx8Thy5hw",
-      "title": "Mustafa Topaloğlu sahneyi niye terk etti? #shorts"
-    },
-    {
       "ts": "2026-03-15T19:18:51",
       "status": "ok",
       "video_id": "bgkskQ6t6Cc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "sD3mnxnDVkc",
       "title": "Mehmet Ali Erbil'in Şaşırtan İddiası! #shorts"
+    },
+    {
+      "ts": "2026-03-19T19:56:04",
+      "status": "ok",
+      "video_id": "4GZ0S5IkBKc",
+      "title": "Hülya Avşar'a sürpriz yanıt #shorts"
     }
   ]
 }
