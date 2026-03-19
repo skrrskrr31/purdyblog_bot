@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-15T10:00:17",
-      "status": "ok",
-      "video_id": "OmF9Zaz4drM",
-      "title": "Zuhal Topal'a Ziel! #shorts"
-    },
-    {
       "ts": "2026-03-15T14:00:55",
       "status": "ok",
       "video_id": "K71DpuVI0bc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "qdWCxJUqGGQ",
       "title": "Ava Yaman'in iftar kıyafeti neydi? #shorts"
+    },
+    {
+      "ts": "2026-03-19T11:10:05",
+      "status": "ok",
+      "video_id": "dKAxv_xmAYU",
+      "title": "Adalet Bakanı'nın Gizli Geçmişi! #shorts"
     }
   ]
 }
