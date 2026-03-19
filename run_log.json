@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-15T07:35:55",
-      "status": "ok",
-      "video_id": "_ohD0oL8PBo",
-      "title": "Ozan Akbaba'nın eşine sürpriz! #shorts"
-    },
-    {
       "ts": "2026-03-15T10:00:17",
       "status": "ok",
       "video_id": "OmF9Zaz4drM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "1G5bVwArc08",
       "title": "Kıvanç Tatlıtuğ'un Yeni Projesi Krizde! #shorts"
+    },
+    {
+      "ts": "2026-03-19T07:37:52",
+      "status": "ok",
+      "video_id": "qdWCxJUqGGQ",
+      "title": "Ava Yaman'in iftar kıyafeti neydi? #shorts"
     }
   ]
 }
