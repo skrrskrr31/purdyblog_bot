@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-16T15:45:59",
-      "status": "ok",
-      "video_id": "cKWXpp44egU",
-      "title": "Rapçi Blok3 Ne Yaptı? #shorts"
-    },
-    {
       "ts": "2026-03-16T18:11:15",
       "status": "ok",
       "video_id": "T2O7PTuoytE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ajtyoUm-b4I",
       "title": "Göksel'i Tanıyan Yok! #shorts"
+    },
+    {
+      "ts": "2026-03-20T14:33:16",
+      "status": "ok",
+      "video_id": "0XnbW22zd9I",
+      "title": "Murat Övüç'e ne oldu? #shorts"
     }
   ]
 }
