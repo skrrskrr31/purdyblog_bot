@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-15T19:18:51",
-      "status": "ok",
-      "video_id": "bgkskQ6t6Cc",
-      "title": "Katy Perry Ateşiyle Dans Etti! #shorts"
-    },
-    {
       "ts": "2026-03-16T08:16:55",
       "status": "ok",
       "video_id": "MLEOBE3TkUc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4GZ0S5IkBKc",
       "title": "Hülya Avşar'a sürpriz yanıt #shorts"
+    },
+    {
+      "ts": "2026-03-20T07:37:05",
+      "status": "ok",
+      "video_id": "JQd96LNUWrE",
+      "title": "Ünlü modelle aktörün gizli nişanı #shorts"
     }
   ]
 }
