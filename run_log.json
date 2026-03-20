@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-16T11:36:34",
-      "status": "ok",
-      "video_id": "YxWiYrB0w-w",
-      "title": "Uzak Şehir Neden Bu Hafta Gelmiyor? #shorts"
-    },
-    {
       "ts": "2026-03-16T15:45:59",
       "status": "ok",
       "video_id": "cKWXpp44egU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vtEkQJ39Ltw",
       "title": "Oktay Kaynarca'nın_daydıgı_seskolik! #shorts"
+    },
+    {
+      "ts": "2026-03-20T14:12:26",
+      "status": "ok",
+      "video_id": "ajtyoUm-b4I",
+      "title": "Göksel'i Tanıyan Yok! #shorts"
     }
   ]
 }
