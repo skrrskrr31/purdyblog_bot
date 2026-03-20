@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-16T18:11:15",
-      "status": "ok",
-      "video_id": "T2O7PTuoytE",
-      "title": "Oscar kazandı, sonra ne yaptı? #shorts"
-    },
-    {
       "ts": "2026-03-16T19:58:12",
       "status": "ok",
       "video_id": "utqAZPqsJCI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0XnbW22zd9I",
       "title": "Murat Övüç'e ne oldu? #shorts"
+    },
+    {
+      "ts": "2026-03-20T17:24:07",
+      "status": "ok",
+      "video_id": "gyjIbrQIooQ",
+      "title": "Ünlü oyuncuyla futbolcu arasında neler oldu? #shorts"
     }
   ]
 }
