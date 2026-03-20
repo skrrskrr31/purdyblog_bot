@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-16T19:58:12",
-      "status": "ok",
-      "video_id": "utqAZPqsJCI",
-      "title": "Cezaevinde milyar kazanıyor #shorts"
-    },
-    {
       "ts": "2026-03-17T08:00:47",
       "status": "ok",
       "video_id": "i1Jm3KVMXrA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gyjIbrQIooQ",
       "title": "Ünlü oyuncuyla futbolcu arasında neler oldu? #shorts"
+    },
+    {
+      "ts": "2026-03-20T19:50:12",
+      "status": "ok",
+      "video_id": "qYe1ov3YG1Q",
+      "title": "Ünlü Şarkıcıya Neler Oluyor? #shorts"
     }
   ]
 }
