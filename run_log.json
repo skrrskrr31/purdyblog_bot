@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-17T11:33:20",
-      "status": "ok",
-      "video_id": "YzNrNpOhSJE",
-      "title": "Ünlü oyuncunun şoke eden itirafı! #shorts"
-    },
-    {
       "ts": "2026-03-17T15:45:22",
       "status": "ok",
       "video_id": "06ZI0ldvXHs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "neR6u3u1B9A",
       "title": "Hülya Avşar'a Tuhaflık! #shorts"
+    },
+    {
+      "ts": "2026-03-21T09:57:22",
+      "status": "ok",
+      "video_id": "cLikSMrl0R4",
+      "title": "Hande Ataizi'nin sert sözleri! #shorts"
     }
   ]
 }
