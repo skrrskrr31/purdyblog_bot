@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-17T18:10:11",
-      "status": "ok",
-      "video_id": "X-gZqFAxRns",
-      "title": "O Ses Türkiye'nin Kayıp Şampiyonu! #shorts"
-    },
-    {
       "ts": "2026-03-17T20:01:32",
       "status": "ok",
       "video_id": "g4TsKo3nuCI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "aO5g_yoXCZU",
       "title": "Zuhal Topal'a yapılan ağır yorumlar! #shorts"
+    },
+    {
+      "ts": "2026-03-21T15:51:50",
+      "status": "ok",
+      "video_id": "kSZYUENWbAw",
+      "title": "Acun Ilıcalı'nın Şok İtirafı! #shorts"
     }
   ]
 }
