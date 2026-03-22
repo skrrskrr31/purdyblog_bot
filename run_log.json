@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-18T07:59:19",
-      "status": "ok",
-      "video_id": "gf0C6h9k_ko",
-      "title": "Ünlü Çiftin Şaşırtan Kutlaması #shorts"
-    },
-    {
       "ts": "2026-03-18T11:34:30",
       "status": "ok",
       "video_id": "pOivFxVmxgY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "w0rgfVsXfVQ",
       "title": "Müge Anlı'dan Şok Açıklama! #shorts"
+    },
+    {
+      "ts": "2026-03-22T07:28:37",
+      "status": "ok",
+      "video_id": "IgDe1D6LcH4",
+      "title": "Katy Perry'nin Korkunç Kaza! #shorts"
     }
   ]
 }
