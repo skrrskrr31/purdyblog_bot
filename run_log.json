@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-18T19:55:03",
-      "status": "ok",
-      "video_id": "1G5bVwArc08",
-      "title": "Kıvanç Tatlıtuğ'un Yeni Projesi Krizde! #shorts"
-    },
-    {
       "ts": "2026-03-19T07:37:52",
       "status": "ok",
       "video_id": "qdWCxJUqGGQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Xv-ZeyEjLN4",
       "title": "Uzak Şehir Bu Hafta Yok! #shorts"
+    },
+    {
+      "ts": "2026-03-22T19:05:42",
+      "status": "ok",
+      "video_id": "LxZGlQhafSg",
+      "title": "Oscar kazandı, sonra ne yaptı? #shorts"
     }
   ]
 }
