@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-18T11:34:30",
-      "status": "ok",
-      "video_id": "pOivFxVmxgY",
-      "title": "Cansel Ayanoğlu'nun aşk sırrı #shorts"
-    },
-    {
       "ts": "2026-03-18T15:56:58",
       "status": "ok",
       "video_id": "Q0f7pa2WLzk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "IgDe1D6LcH4",
       "title": "Katy Perry'nin Korkunç Kaza! #shorts"
+    },
+    {
+      "ts": "2026-03-22T09:58:18",
+      "status": "ok",
+      "video_id": "sOjNJkI7Vi8",
+      "title": "Cinayetin Arka Yüzü: Şok Görüntüler! #shorts"
     }
   ]
 }
