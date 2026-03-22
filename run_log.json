@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-18T18:12:17",
-      "status": "ok",
-      "video_id": "EAGYIZojayY",
-      "title": "Yasemin Yürük'ün Acı Gecesi #shorts"
-    },
-    {
       "ts": "2026-03-18T19:55:03",
       "status": "ok",
       "video_id": "1G5bVwArc08",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CBzT4-GEMvw",
       "title": "Gülşen'in Pantolonu Ne? #shorts"
+    },
+    {
+      "ts": "2026-03-22T15:52:30",
+      "status": "ok",
+      "video_id": "Xv-ZeyEjLN4",
+      "title": "Uzak Şehir Bu Hafta Yok! #shorts"
     }
   ]
 }
