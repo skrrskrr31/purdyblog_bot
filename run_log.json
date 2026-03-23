@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-19T07:37:52",
-      "status": "ok",
-      "video_id": "qdWCxJUqGGQ",
-      "title": "Ava Yaman'in iftar kıyafeti neydi? #shorts"
-    },
-    {
       "ts": "2026-03-19T11:10:05",
       "status": "ok",
       "video_id": "dKAxv_xmAYU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LxZGlQhafSg",
       "title": "Oscar kazandı, sonra ne yaptı? #shorts"
+    },
+    {
+      "ts": "2026-03-23T08:09:22",
+      "status": "ok",
+      "video_id": "tlq0icyeN3c",
+      "title": "Rapçi Blok3'e 25 Yıl Hapis! #shorts"
     }
   ]
 }
