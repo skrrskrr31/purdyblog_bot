@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-19T18:01:06",
-      "status": "ok",
-      "video_id": "sD3mnxnDVkc",
-      "title": "Mehmet Ali Erbil'in Şaşırtan İddiası! #shorts"
-    },
-    {
       "ts": "2026-03-19T19:56:04",
       "status": "ok",
       "video_id": "4GZ0S5IkBKc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "y9l5tTpcu9Y",
       "title": "Zeynep Atılgan'ın Çorabındaki Sır #shorts"
+    },
+    {
+      "ts": "2026-03-23T15:41:14",
+      "status": "ok",
+      "video_id": "_rEQa9WC9tM",
+      "title": "Ünlü ismin Dramatik Ölümü! #shorts"
     }
   ]
 }
