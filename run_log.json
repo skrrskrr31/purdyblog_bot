@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-19T11:10:05",
-      "status": "ok",
-      "video_id": "dKAxv_xmAYU",
-      "title": "Adalet Bakanı'nın Gizli Geçmişi! #shorts"
-    },
-    {
       "ts": "2026-03-19T18:01:06",
       "status": "ok",
       "video_id": "sD3mnxnDVkc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tlq0icyeN3c",
       "title": "Rapçi Blok3'e 25 Yıl Hapis! #shorts"
+    },
+    {
+      "ts": "2026-03-23T11:33:35",
+      "status": "ok",
+      "video_id": "y9l5tTpcu9Y",
+      "title": "Zeynep Atılgan'ın Çorabındaki Sır #shorts"
     }
   ]
 }
