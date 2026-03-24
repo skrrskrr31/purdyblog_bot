@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-20T14:12:26",
-      "status": "ok",
-      "video_id": "ajtyoUm-b4I",
-      "title": "Göksel'i Tanıyan Yok! #shorts"
-    },
-    {
       "ts": "2026-03-20T14:33:16",
       "status": "ok",
       "video_id": "0XnbW22zd9I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "olMGUyCU0SQ",
       "title": "Erol Köse'ye neler dediler? #shorts"
+    },
+    {
+      "ts": "2026-03-24T11:34:50",
+      "status": "ok",
+      "video_id": "1-n2iMvILGA",
+      "title": "Erol Köse'nin Son Anları #shorts"
     }
   ]
 }
