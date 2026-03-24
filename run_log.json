@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-20T17:24:07",
-      "status": "ok",
-      "video_id": "gyjIbrQIooQ",
-      "title": "Ünlü oyuncuyla futbolcu arasında neler oldu? #shorts"
-    },
-    {
       "ts": "2026-03-20T19:50:12",
       "status": "ok",
       "video_id": "qYe1ov3YG1Q",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4kikEIjHglA",
       "title": "Polat Yağcı'nın sırrı ne? #shorts"
+    },
+    {
+      "ts": "2026-03-24T18:09:35",
+      "status": "ok",
+      "video_id": "QS2E6L195Ho",
+      "title": "Meksikalı spiker ne yaptı? #shorts"
     }
   ]
 }
