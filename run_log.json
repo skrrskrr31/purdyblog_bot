@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-21T09:57:22",
-      "status": "ok",
-      "video_id": "cLikSMrl0R4",
-      "title": "Hande Ataizi'nin sert sözleri! #shorts"
-    },
-    {
       "ts": "2026-03-21T13:55:15",
       "status": "ok",
       "video_id": "aO5g_yoXCZU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4dTwDhwLOuE",
       "title": "Ünlü Dizi Oyuncusu Gözaltında! #shorts"
+    },
+    {
+      "ts": "2026-03-25T11:29:25",
+      "status": "ok",
+      "video_id": "-Z8VLROzGi4",
+      "title": "Kubilay'ın Katili mi? #shorts"
     }
   ]
 }
