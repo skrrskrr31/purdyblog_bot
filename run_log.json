@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-21T15:51:50",
-      "status": "ok",
-      "video_id": "kSZYUENWbAw",
-      "title": "Acun Ilıcalı'nın Şok İtirafı! #shorts"
-    },
-    {
       "ts": "2026-03-21T19:03:02",
       "status": "ok",
       "video_id": "w0rgfVsXfVQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "wwZJgVnjYCc",
       "title": "Kübra Karaaslan'a neler oldu? #shorts"
+    },
+    {
+      "ts": "2026-03-25T18:10:54",
+      "status": "ok",
+      "video_id": "XrkT4RjELaE",
+      "title": "Boğaz'da Neler Oluyor? #shorts"
     }
   ]
 }
