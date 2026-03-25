@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-21T13:55:15",
-      "status": "ok",
-      "video_id": "aO5g_yoXCZU",
-      "title": "Zuhal Topal'a yapılan ağır yorumlar! #shorts"
-    },
-    {
       "ts": "2026-03-21T15:51:50",
       "status": "ok",
       "video_id": "kSZYUENWbAw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-Z8VLROzGi4",
       "title": "Kubilay'ın Katili mi? #shorts"
+    },
+    {
+      "ts": "2026-03-25T15:54:39",
+      "status": "ok",
+      "video_id": "wwZJgVnjYCc",
+      "title": "Kübra Karaaslan'a neler oldu? #shorts"
     }
   ]
 }
