@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-22T07:28:37",
-      "status": "ok",
-      "video_id": "IgDe1D6LcH4",
-      "title": "Katy Perry'nin Korkunç Kaza! #shorts"
-    },
-    {
       "ts": "2026-03-22T09:58:18",
       "status": "ok",
       "video_id": "sOjNJkI7Vi8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "EUSoOmjORXs",
       "title": "Aleyna Kalaycıoğlu'nun şarkısı neden kaldırıldı? #shorts"
+    },
+    {
+      "ts": "2026-03-26T08:09:26",
+      "status": "ok",
+      "video_id": "9tZhvf0yWeA",
+      "title": "Fatma Soydaş'ın gizli hali ortaya çıktı #shorts"
     }
   ]
 }
