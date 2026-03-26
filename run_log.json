@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-22T19:05:42",
-      "status": "ok",
-      "video_id": "LxZGlQhafSg",
-      "title": "Oscar kazandı, sonra ne yaptı? #shorts"
-    },
-    {
       "ts": "2026-03-23T08:09:22",
       "status": "ok",
       "video_id": "tlq0icyeN3c",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JXdu42Jzak0",
       "title": "İcardi'nin sevgilisi neler yapıyor? #shorts"
+    },
+    {
+      "ts": "2026-03-26T18:46:41",
+      "status": "ok",
+      "video_id": "Nkj7N4eg6eI",
+      "title": "Sabancı Ailesi Sırrı Çıktı! #shorts"
     }
   ]
 }
