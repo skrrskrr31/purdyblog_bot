@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-23T11:33:35",
-      "status": "ok",
-      "video_id": "y9l5tTpcu9Y",
-      "title": "Zeynep Atılgan'ın Çorabındaki Sır #shorts"
-    },
-    {
       "ts": "2026-03-23T15:41:14",
       "status": "ok",
       "video_id": "_rEQa9WC9tM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hxvOFrQ3r6A",
       "title": "Kubilay Kaan Kundakçı Cinayeti #shorts"
+    },
+    {
+      "ts": "2026-03-27T09:54:55",
+      "status": "ok",
+      "video_id": "PBxLfPXAX-c",
+      "title": "Ünlü sanatçı Ansızın Ölür! #shorts"
     }
   ]
 }
