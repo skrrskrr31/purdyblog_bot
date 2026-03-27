@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-23T20:00:24",
-      "status": "ok",
-      "video_id": "z5L1YTkrP6c",
-      "title": "Futbolcu Cinayeti #shorts"
-    },
-    {
       "ts": "2026-03-24T08:00:42",
       "status": "ok",
       "video_id": "olMGUyCU0SQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9vmOAVg2CWY",
       "title": "Erol Köse'nin ölümüne yakın garip adım #shorts"
+    },
+    {
+      "ts": "2026-03-27T18:39:48",
+      "status": "ok",
+      "video_id": "LtjoRsLsE4g",
+      "title": "Ünlü Yapımcı Neden Düştü? #shorts"
     }
   ]
 }
