@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-23T18:04:07",
-      "status": "ok",
-      "video_id": "A4dKuNu-l_k",
-      "title": "Seda Sayan'ın Erol Köse için sözleri #shorts"
-    },
-    {
       "ts": "2026-03-23T20:00:24",
       "status": "ok",
       "video_id": "z5L1YTkrP6c",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "zjCUuznBgTE",
       "title": "Rober Hatemo Şok İddia! #shorts"
+    },
+    {
+      "ts": "2026-03-27T15:58:03",
+      "status": "ok",
+      "video_id": "9vmOAVg2CWY",
+      "title": "Erol Köse'nin ölümüne yakın garip adım #shorts"
     }
   ]
 }
