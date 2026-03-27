@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-23T15:41:14",
-      "status": "ok",
-      "video_id": "_rEQa9WC9tM",
-      "title": "Ünlü ismin Dramatik Ölümü! #shorts"
-    },
-    {
       "ts": "2026-03-23T18:04:07",
       "status": "ok",
       "video_id": "A4dKuNu-l_k",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "PBxLfPXAX-c",
       "title": "Ünlü sanatçı Ansızın Ölür! #shorts"
+    },
+    {
+      "ts": "2026-03-27T13:25:08",
+      "status": "ok",
+      "video_id": "zjCUuznBgTE",
+      "title": "Rober Hatemo Şok İddia! #shorts"
     }
   ]
 }
