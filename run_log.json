@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-23T08:09:22",
-      "status": "ok",
-      "video_id": "tlq0icyeN3c",
-      "title": "Rapçi Blok3'e 25 Yıl Hapis! #shorts"
-    },
-    {
       "ts": "2026-03-23T11:33:35",
       "status": "ok",
       "video_id": "y9l5tTpcu9Y",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Nkj7N4eg6eI",
       "title": "Sabancı Ailesi Sırrı Çıktı! #shorts"
+    },
+    {
+      "ts": "2026-03-27T06:10:00",
+      "status": "ok",
+      "video_id": "hxvOFrQ3r6A",
+      "title": "Kubilay Kaan Kundakçı Cinayeti #shorts"
     }
   ]
 }
