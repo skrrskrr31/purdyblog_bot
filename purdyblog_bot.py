@@ -104,6 +104,38 @@ def draw_verified(draw, x, y, size=30):
     draw.line([p2, p3], fill="white", width=max(2, int(size*0.13)))
 
 
+def draw_button(draw, x, y, w, h, text, bg_color, text_color, font, radius=14):
+    """Yuvarlatılmış köşeli buton çiz."""
+    draw.rounded_rectangle([x, y, x+w, y+h], radius=radius, fill=bg_color)
+    bbox = draw.textbbox((0, 0), text, font=font)
+    tw = bbox[2] - bbox[0]
+    th = bbox[3] - bbox[1]
+    draw.text((x + (w - tw) // 2, y + (h - th) // 2 - bbox[1]), text, font=font, fill=text_color)
+
+
+def draw_like_button(img, draw, x, y, w, h, color=(48, 48, 48), radius=23):
+    """YouTube tarzı like butonu: yuvarlak pill + 👍 emoji."""
+    from PIL import Image as _Image, ImageDraw as _IDraw, ImageFont as _IFont
+    draw.rounded_rectangle([x, y, x+w, y+h], radius=radius, fill=color)
+
+    emoji_size = int(h * 0.72)
+    try:
+        ef = _IFont.truetype("C:\\Windows\\Fonts\\seguiemj.ttf", emoji_size)
+    except Exception:
+        return
+
+    # Emoji'yi ayrı RGBA katmana çiz, sonra yapıştır
+    em_img = _Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    em_draw = _IDraw.Draw(em_img)
+    bbox = em_draw.textbbox((0, 0), "👍", font=ef, embedded_color=True)
+    ew = bbox[2] - bbox[0]
+    eh = bbox[3] - bbox[1]
+    ex = (w - ew) // 2 - bbox[0]
+    ey = (h - eh) // 2 - bbox[1]
+    em_draw.text((ex, ey), "👍", font=ef, embedded_color=True)
+    img.paste(em_img, (x, y), em_img)
+
+
 def paste_circular_logo(img, logo_path, x, y, size):
     """Yuvarlak logo yapıştır."""
     try:
@@ -151,6 +183,7 @@ def create_card(haber_metni, foto_paths):
     f_name   = load_font(46, bold=True)
     f_handle = load_font(34, bold=False)
     f_text   = load_font(43, bold=False)
+    f_btn    = load_font(30, bold=True)
 
     logo_size  = 88
     line_h     = 62
@@ -185,6 +218,21 @@ def create_card(haber_metni, foto_paths):
 
     ty_handle = ty_name + draw.textbbox((0, 0), CHANNEL_NAME, font=f_name)[3] + 6
     draw.text((tx, ty_handle), CHANNEL_HANDLE, font=f_handle, fill=(140, 140, 140))
+
+    # ── Butonlar (tik'in hemen yanı) ─────────────────────────
+    # Tik, tx+nw+10 konumunda başlar, genişliği 32px → bitiş: tx+nw+10+32
+    tick_end_x = tx + nw + 10 + 32
+    btn_h      = 46
+    btn_sub_w  = 195
+    btn_lik_w  = 62   # sadece ikon, kare'ye yakın pill
+    btn_gap    = 12
+    btn_x_sub  = tick_end_x + 16
+    btn_x_lik  = btn_x_sub + btn_sub_w + btn_gap
+    btn_y      = ty_name + 4
+    draw_button(draw, btn_x_sub, btn_y, btn_sub_w, btn_h,
+                "ABONE OL", (255, 0, 0), "white", f_btn, radius=23)
+    draw_like_button(img, draw, btn_x_lik, btn_y, btn_lik_w, btn_h,
+                     color=(48, 48, 48), radius=23)
 
     # ── Haber Metni ──────────────────────────────────────────
     text_y = start_y + header_h
