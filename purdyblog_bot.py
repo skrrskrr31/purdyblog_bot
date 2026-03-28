@@ -601,8 +601,9 @@ def upload_to_youtube(title, description):
             'categoryId':  '24'  # Entertainment
         },
         'status': {
-            'privacyStatus':          'public',
-            'selfDeclaredMadeForKids': False
+            'privacyStatus':           'public',
+            'selfDeclaredMadeForKids': False,
+            'containsSyntheticMedia':  False
         }
     }
 
