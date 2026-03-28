@@ -114,26 +114,21 @@ def draw_button(draw, x, y, w, h, text, bg_color, text_color, font, radius=14):
 
 
 def draw_like_button(img, draw, x, y, w, h, color=(48, 48, 48), radius=23):
-    """YouTube tarzı like butonu: yuvarlak pill + 👍 emoji."""
-    from PIL import Image as _Image, ImageDraw as _IDraw, ImageFont as _IFont
+    """YouTube tarzı like butonu: yuvarlak pill + thumbs-up PNG ikonu."""
+    from PIL import Image as _Image
     draw.rounded_rectangle([x, y, x+w, y+h], radius=radius, fill=color)
 
-    emoji_size = int(h * 0.72)
+    icon_path = os.path.join(script_dir, "like_icon.png")
     try:
-        ef = _IFont.truetype("C:\\Windows\\Fonts\\seguiemj.ttf", emoji_size)
-    except Exception:
-        return
-
-    # Emoji'yi ayrı RGBA katmana çiz, sonra yapıştır
-    em_img = _Image.new("RGBA", (w, h), (0, 0, 0, 0))
-    em_draw = _IDraw.Draw(em_img)
-    bbox = em_draw.textbbox((0, 0), "👍", font=ef, embedded_color=True)
-    ew = bbox[2] - bbox[0]
-    eh = bbox[3] - bbox[1]
-    ex = (w - ew) // 2 - bbox[0]
-    ey = (h - eh) // 2 - bbox[1]
-    em_draw.text((ex, ey), "👍", font=ef, embedded_color=True)
-    img.paste(em_img, (x, y), em_img)
+        icon_size = int(h * 0.68)
+        icon = _Image.open(icon_path).convert("RGBA").resize(
+            (icon_size, icon_size), _Image.Resampling.LANCZOS
+        )
+        ix = x + (w - icon_size) // 2
+        iy = y + (h - icon_size) // 2
+        img.paste(icon, (ix, iy), icon)
+    except Exception as e:
+        print(f"[WARN] like_icon yuklenemedi: {e}")
 
 
 def paste_circular_logo(img, logo_path, x, y, size):
