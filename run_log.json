@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-24T20:00:42",
-      "status": "ok",
-      "video_id": "FEPLuWnGPy4",
-      "title": "Erol Köse'nin çalışanının şok itirafı #shorts"
-    },
-    {
       "ts": "2026-03-25T07:59:53",
       "status": "ok",
       "video_id": "4dTwDhwLOuE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "oH-0CNc0Y7o",
       "title": "Safiye Soyman Domuzu Besledi #shorts"
+    },
+    {
+      "ts": "2026-03-28T18:22:34",
+      "status": "ok",
+      "video_id": "FcVtO90u0o0",
+      "title": "İzzet Yıldızhan Neden Gözaltına Alındı? #shorts"
     }
   ]
 }
