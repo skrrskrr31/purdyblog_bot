@@ -444,7 +444,7 @@ def metin_ozet(haber_metni):
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
                 f'Şu haberi Türkçe olarak maksimum 2-3 kısa cümleyle özetle. '
-                f'Toplam 200 karakteri geçme. Sansasyonel ve merak uyandırıcı yaz. '
+                f'Toplam 200 karakteri geçme. Haberin tonuna uygun (ciddi ise saygılı, eğlenceli ise enerjik) ama akıcı bir dil kullan. Zorlama clickbait ifadelerden kaçın. '
                 f'Sadece özet metni yaz, başka hiçbir şey ekleme:\n\n{haber_metni[:1000]}'}]
         )
         ozet = resp.choices[0].message.content.strip()
@@ -466,10 +466,11 @@ def generate_title(haber_metni):
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
-                f'Sen Türkiye\'nin en iyi magazin sayfası editörüsün. '
-                f'Şu haberi oku: "{haber_metni[:400]}"\n\n'
-                f'İnsanların kaydırırken durmasını sağlayacak, merak uyandırıcı bir YouTube Shorts başlığı yaz. '
-                f'Max 60 karakter. Olayın sırrını tamamen verme. Sonda #shorts yaz. '
+                f'Sen başarılı bir sosyal medya editörüsün. '
+                f'Şu haberi oku: "{haber_metni[:600]}"\n\n'
+                f'Bu habere uygun, ilgi çekici bir YouTube Shorts başlığı yaz. '
+                f'ÇOK ÖNEMLİ: Haberin konusuna uygun bir ton kullan (örneğin tarihi/milli haberde saygılı, magazin haberinde dinamik ol). Haberde geçmeyen "bilinmeyen yönü", "büyük sır" gibi yapay ve alakasız clickbait ifadeler ASLA uydurma. Olayı doğru yansıt. '
+                f'Maksimum 60 karakter. Sonda #shorts yaz. '
                 f'SADECE BAŞLIĞI YAZ:'}]
         )
         title = resp.choices[0].message.content.strip().replace('"', '').strip()
@@ -640,7 +641,7 @@ if __name__ == "__main__":
     # Başlık + müzik seçimi
     title                  = generate_title(haber_metni)
     secilen_muzik, volume  = pick_muzik_local(haber_metni)
-    description            = haber_metni[:300] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
+    description            = haber_metni[:4800] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
 
     # Video
     create_video(img, secilen_muzik, volume=volume)
