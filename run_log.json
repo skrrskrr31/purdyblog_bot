@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-25T19:57:39",
-      "status": "ok",
-      "video_id": "EUSoOmjORXs",
-      "title": "Aleyna Kalaycıoğlu'nun şarkısı neden kaldırıldı? #shorts"
-    },
-    {
       "ts": "2026-03-26T08:09:26",
       "status": "ok",
       "video_id": "9tZhvf0yWeA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RYmfJHoCgP0",
       "title": "Atilla Taş'tan Erol Köse'ye Sert Yanıt #shorts"
+    },
+    {
+      "ts": "2026-03-29T18:23:44",
+      "status": "ok",
+      "video_id": "sfCtC-IsWcc",
+      "title": "Blok3'ün Şoke Eden Sevgili Kriterleri #shorts"
     }
   ]
 }
