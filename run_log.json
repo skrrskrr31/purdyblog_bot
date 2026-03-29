@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-25T18:10:54",
-      "status": "ok",
-      "video_id": "XrkT4RjELaE",
-      "title": "Boğaz'da Neler Oluyor? #shorts"
-    },
-    {
       "ts": "2026-03-25T19:57:39",
       "status": "ok",
       "video_id": "EUSoOmjORXs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "sty04OdbuHg",
       "title": "Zeynep Atılgan'ın Çorabında Ne Var? #shorts"
+    },
+    {
+      "ts": "2026-03-29T15:38:01",
+      "status": "ok",
+      "video_id": "RYmfJHoCgP0",
+      "title": "Atilla Taş'tan Erol Köse'ye Sert Yanıt #shorts"
     }
   ]
 }
