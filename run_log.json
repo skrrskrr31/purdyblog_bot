@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-25T15:54:39",
-      "status": "ok",
-      "video_id": "wwZJgVnjYCc",
-      "title": "Kübra Karaaslan'a neler oldu? #shorts"
-    },
-    {
       "ts": "2026-03-25T18:10:54",
       "status": "ok",
       "video_id": "XrkT4RjELaE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "rXPTdt7a4B4",
       "title": "Cengiz Kurtoğlu Hastaneye Kaldırıldı #shorts"
+    },
+    {
+      "ts": "2026-03-29T13:14:42",
+      "status": "ok",
+      "video_id": "sty04OdbuHg",
+      "title": "Zeynep Atılgan'ın Çorabında Ne Var? #shorts"
     }
   ]
 }
