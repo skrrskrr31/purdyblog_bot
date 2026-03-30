@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-26T18:46:41",
-      "status": "ok",
-      "video_id": "Nkj7N4eg6eI",
-      "title": "Sabancı Ailesi Sırrı Çıktı! #shorts"
-    },
-    {
       "ts": "2026-03-27T06:10:00",
       "status": "ok",
       "video_id": "hxvOFrQ3r6A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0AMaETXeb7I",
       "title": "Erol Köse'nin Vasiyeti #shorts"
+    },
+    {
+      "ts": "2026-03-30T18:42:51",
+      "status": "ok",
+      "video_id": "SNxnpVjWXW8",
+      "title": "Kuşum Aydın'ın Yüzü Değişti #shorts"
     }
   ]
 }
