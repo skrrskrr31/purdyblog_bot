@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-26T18:12:34",
-      "status": "ok",
-      "video_id": "JXdu42Jzak0",
-      "title": "İcardi'nin sevgilisi neler yapıyor? #shorts"
-    },
-    {
       "ts": "2026-03-26T18:46:41",
       "status": "ok",
       "video_id": "Nkj7N4eg6eI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Hs1hEpXGXZs",
       "title": "Rober Hatemo: 2012'de öldüğümü düşünüyorum #shorts"
+    },
+    {
+      "ts": "2026-03-30T16:09:23",
+      "status": "ok",
+      "video_id": "0AMaETXeb7I",
+      "title": "Erol Köse'nin Vasiyeti #shorts"
     }
   ]
 }
