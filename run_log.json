@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-26T16:21:07",
-      "status": "ok",
-      "video_id": "58cKsHGIb6U",
-      "title": "Tuba Büyüküstün'ün şok performansı! #shorts"
-    },
-    {
       "ts": "2026-03-26T18:12:34",
       "status": "ok",
       "video_id": "JXdu42Jzak0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ysyUDOh6VFQ",
       "title": "Tazminat davasıyla sarsıldı: İş insanı eşi ve basketbolcular #shorts"
+    },
+    {
+      "ts": "2026-03-30T13:54:19",
+      "status": "ok",
+      "video_id": "Hs1hEpXGXZs",
+      "title": "Rober Hatemo: 2012'de öldüğümü düşünüyorum #shorts"
     }
   ]
 }
