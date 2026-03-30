@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-26T08:09:26",
-      "status": "ok",
-      "video_id": "9tZhvf0yWeA",
-      "title": "Fatma Soydaş'ın gizli hali ortaya çıktı #shorts"
-    },
-    {
       "ts": "2026-03-26T11:38:35",
       "status": "ok",
       "video_id": "fc4TApgJe-U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "sfCtC-IsWcc",
       "title": "Blok3'ün Şoke Eden Sevgili Kriterleri #shorts"
+    },
+    {
+      "ts": "2026-03-30T06:27:44",
+      "status": "ok",
+      "video_id": "EKpuQ0IZJbk",
+      "title": "Arda Güler Panikledi #shorts"
     }
   ]
 }
