@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-26T11:38:35",
-      "status": "ok",
-      "video_id": "fc4TApgJe-U",
-      "title": "TikTok'ta tanınan, köprüden... #shorts"
-    },
-    {
       "ts": "2026-03-26T16:21:07",
       "status": "ok",
       "video_id": "58cKsHGIb6U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "EKpuQ0IZJbk",
       "title": "Arda Güler Panikledi #shorts"
+    },
+    {
+      "ts": "2026-03-30T10:17:05",
+      "status": "ok",
+      "video_id": "ysyUDOh6VFQ",
+      "title": "Tazminat davasıyla sarsıldı: İş insanı eşi ve basketbolcular #shorts"
     }
   ]
 }
