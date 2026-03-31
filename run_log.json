@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-27T15:58:03",
-      "status": "ok",
-      "video_id": "9vmOAVg2CWY",
-      "title": "Erol Köse'nin ölümüne yakın garip adım #shorts"
-    },
-    {
       "ts": "2026-03-27T18:39:48",
       "status": "ok",
       "video_id": "LtjoRsLsE4g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_qAU5A32KYY",
       "title": "Kubilay Kaan Kundakçı Cinayeti #shorts"
+    },
+    {
+      "ts": "2026-03-31T16:09:04",
+      "status": "ok",
+      "video_id": "84zFLDpczOk",
+      "title": "TikTok Fenomeni Kübra Karaaslan'ın Acı Sonu #shorts"
     }
   ]
 }
