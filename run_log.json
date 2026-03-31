@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-27T09:54:55",
-      "status": "ok",
-      "video_id": "PBxLfPXAX-c",
-      "title": "Ünlü sanatçı Ansızın Ölür! #shorts"
-    },
-    {
       "ts": "2026-03-27T13:25:08",
       "status": "ok",
       "video_id": "zjCUuznBgTE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AGiljneHQHQ",
       "title": "Yeşim Salkım Konuştu #shorts"
+    },
+    {
+      "ts": "2026-03-31T10:05:47",
+      "status": "ok",
+      "video_id": "k5j2jvQRfh0",
+      "title": "Pınar Gözaltında #shorts"
     }
   ]
 }
