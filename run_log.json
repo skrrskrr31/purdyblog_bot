@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-27T18:39:48",
-      "status": "ok",
-      "video_id": "LtjoRsLsE4g",
-      "title": "Ünlü Yapımcı Neden Düştü? #shorts"
-    },
-    {
       "ts": "2026-03-28T05:53:18",
       "status": "ok",
       "video_id": "7mDAYt99udY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "84zFLDpczOk",
       "title": "TikTok Fenomeni Kübra Karaaslan'ın Acı Sonu #shorts"
+    },
+    {
+      "ts": "2026-03-31T18:43:07",
+      "status": "ok",
+      "video_id": "jyMppKQPNow",
+      "title": "Ünlülerin Uyuşturucu Operasyonu #shorts"
     }
   ]
 }
