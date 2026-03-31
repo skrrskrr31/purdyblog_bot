@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-27T13:25:08",
-      "status": "ok",
-      "video_id": "zjCUuznBgTE",
-      "title": "Rober Hatemo Şok İddia! #shorts"
-    },
-    {
       "ts": "2026-03-27T15:58:03",
       "status": "ok",
       "video_id": "9vmOAVg2CWY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "k5j2jvQRfh0",
       "title": "Pınar Gözaltında #shorts"
+    },
+    {
+      "ts": "2026-03-31T13:54:23",
+      "status": "ok",
+      "video_id": "_qAU5A32KYY",
+      "title": "Kubilay Kaan Kundakçı Cinayeti #shorts"
     }
   ]
 }
