@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-28T10:42:45",
-      "status": "ok",
-      "video_id": "nKI7OgNNyMs",
-      "title": "Erol Köse'nin Son Dakikaları #shorts"
-    },
-    {
       "ts": "2026-03-28T15:56:04",
       "status": "ok",
       "video_id": "oH-0CNc0Y7o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VEPJqEyGMT8",
       "title": "Fatma Soydaş'ın eski hali #shorts"
+    },
+    {
+      "ts": "2026-04-01T13:56:37",
+      "status": "ok",
+      "video_id": "Zt3HCGR-tWs",
+      "title": "Megan Thee Stallion Sağlık Sorunu #shorts"
     }
   ]
 }
