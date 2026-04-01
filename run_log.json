@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-28T15:56:04",
-      "status": "ok",
-      "video_id": "oH-0CNc0Y7o",
-      "title": "Safiye Soyman Domuzu Besledi #shorts"
-    },
-    {
       "ts": "2026-03-28T18:22:34",
       "status": "ok",
       "video_id": "FcVtO90u0o0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Zt3HCGR-tWs",
       "title": "Megan Thee Stallion Sağlık Sorunu #shorts"
+    },
+    {
+      "ts": "2026-04-01T16:08:58",
+      "status": "ok",
+      "video_id": "TbIZB15gvL4",
+      "title": "Kübra Karaaslan'ın Babası Konuştu #shorts"
     }
   ]
 }
