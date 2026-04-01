@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-28T18:22:34",
-      "status": "ok",
-      "video_id": "FcVtO90u0o0",
-      "title": "İzzet Yıldızhan Neden Gözaltına Alındı? #shorts"
-    },
-    {
       "ts": "2026-03-29T06:09:20",
       "status": "ok",
       "video_id": "n9EfbyAjzxI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "TbIZB15gvL4",
       "title": "Kübra Karaaslan'ın Babası Konuştu #shorts"
+    },
+    {
+      "ts": "2026-04-01T18:42:06",
+      "status": "ok",
+      "video_id": "DorlM4sW13c",
+      "title": "Tuba Büyüküstün'ün 3 Ayda Öğrentiği Direk Dansı #shorts"
     }
   ]
 }
