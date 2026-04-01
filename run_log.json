@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-28T05:53:18",
-      "status": "ok",
-      "video_id": "7mDAYt99udY",
-      "title": "Sıla Türkoğlu'nun Geçmişteki Hali #shorts"
-    },
-    {
       "ts": "2026-03-28T09:36:54",
       "status": "ok",
       "video_id": "omZ-SdlrAPA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jyMppKQPNow",
       "title": "Ünlülerin Uyuşturucu Operasyonu #shorts"
+    },
+    {
+      "ts": "2026-04-01T06:25:11",
+      "status": "ok",
+      "video_id": "qy4eccuxON8",
+      "title": "Aleyna'nın şarkısı yayından kaldırıldı #shorts"
     }
   ]
 }
