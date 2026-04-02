@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-29T15:38:01",
-      "status": "ok",
-      "video_id": "RYmfJHoCgP0",
-      "title": "Atilla Taş'tan Erol Köse'ye Sert Yanıt #shorts"
-    },
-    {
       "ts": "2026-03-29T18:23:44",
       "status": "ok",
       "video_id": "sfCtC-IsWcc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ahXfZ4I9PkY",
       "title": "Eren Bakıcı 2. kez anne oluyor #shorts"
+    },
+    {
+      "ts": "2026-04-02T16:04:42",
+      "status": "ok",
+      "video_id": "JIdoBXuLy6w",
+      "title": "Emine'nin Yeni Hali #shorts"
     }
   ]
 }
