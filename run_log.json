@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-29T06:09:20",
-      "status": "ok",
-      "video_id": "n9EfbyAjzxI",
-      "title": "Kadayıfçıoğlu'nun şok geçmişi #shorts"
-    },
-    {
       "ts": "2026-03-29T09:37:06",
       "status": "ok",
       "video_id": "rXPTdt7a4B4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "DorlM4sW13c",
       "title": "Tuba Büyüküstün'ün 3 Ayda Öğrentiği Direk Dansı #shorts"
+    },
+    {
+      "ts": "2026-04-02T06:08:32",
+      "status": "ok",
+      "video_id": "7LrC258zCc8",
+      "title": "Didem Soydan Konuştu #shorts"
     }
   ]
 }
