@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-29T18:23:44",
-      "status": "ok",
-      "video_id": "sfCtC-IsWcc",
-      "title": "Blok3'ün Şoke Eden Sevgili Kriterleri #shorts"
-    },
-    {
       "ts": "2026-03-30T06:27:44",
       "status": "ok",
       "video_id": "EKpuQ0IZJbk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JIdoBXuLy6w",
       "title": "Emine'nin Yeni Hali #shorts"
+    },
+    {
+      "ts": "2026-04-02T18:38:38",
+      "status": "ok",
+      "video_id": "myBVj2fAIo8",
+      "title": "Volkan Konak Anıldı #shorts"
     }
   ]
 }
