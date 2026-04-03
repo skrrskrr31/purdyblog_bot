@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-30T10:17:05",
-      "status": "ok",
-      "video_id": "ysyUDOh6VFQ",
-      "title": "Tazminat davasıyla sarsıldı: İş insanı eşi ve basketbolcular #shorts"
-    },
-    {
       "ts": "2026-03-30T13:54:19",
       "status": "ok",
       "video_id": "Hs1hEpXGXZs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "f_JZ6Pm1ltQ",
       "title": "Megan Thee Stallion Hastaneye Kaldırıldı #shorts"
+    },
+    {
+      "ts": "2026-04-03T09:53:09",
+      "status": "ok",
+      "video_id": "-pSmuuB1mkY",
+      "title": "Manon Bannerman KATSEYE'den Ayrıldı #shorts"
     }
   ]
 }
