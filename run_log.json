@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-30T16:09:23",
-      "status": "ok",
-      "video_id": "0AMaETXeb7I",
-      "title": "Erol Köse'nin Vasiyeti #shorts"
-    },
-    {
       "ts": "2026-03-30T18:42:51",
       "status": "ok",
       "video_id": "SNxnpVjWXW8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "lI8YUwbFvjU",
       "title": "Manon Bannerman KATSEYE'den çıkarıldı #shorts"
+    },
+    {
+      "ts": "2026-04-03T15:43:13",
+      "status": "ok",
+      "video_id": "VwKbRFQhTYY",
+      "title": "Manon Bannerman Grubunu Bıraktı #shorts"
     }
   ]
 }
