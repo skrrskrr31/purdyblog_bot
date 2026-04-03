@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-30T18:42:51",
-      "status": "ok",
-      "video_id": "SNxnpVjWXW8",
-      "title": "Kuşum Aydın'ın Yüzü Değişti #shorts"
-    },
-    {
       "ts": "2026-03-31T06:13:46",
       "status": "ok",
       "video_id": "AGiljneHQHQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VwKbRFQhTYY",
       "title": "Manon Bannerman Grubunu Bıraktı #shorts"
+    },
+    {
+      "ts": "2026-04-03T18:29:32",
+      "status": "ok",
+      "video_id": "kTPlZHQRi0o",
+      "title": "Manon Bannerman'dan sürpriz adım #shorts"
     }
   ]
 }
