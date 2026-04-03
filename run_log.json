@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-30T13:54:19",
-      "status": "ok",
-      "video_id": "Hs1hEpXGXZs",
-      "title": "Rober Hatemo: 2012'de öldüğümü düşünüyorum #shorts"
-    },
-    {
       "ts": "2026-03-30T16:09:23",
       "status": "ok",
       "video_id": "0AMaETXeb7I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-pSmuuB1mkY",
       "title": "Manon Bannerman KATSEYE'den Ayrıldı #shorts"
+    },
+    {
+      "ts": "2026-04-03T13:22:33",
+      "status": "ok",
+      "video_id": "lI8YUwbFvjU",
+      "title": "Manon Bannerman KATSEYE'den çıkarıldı #shorts"
     }
   ]
 }
