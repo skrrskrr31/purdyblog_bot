@@ -278,6 +278,26 @@ def create_card(haber_metni, foto_paths):
 KULLANILAN_PATH = os.path.join(script_dir, "kullanilan_haberler.json")
 
 
+def kisi_cıkar(baslik):
+    """Başlıktan kişi adını çıkar: ardışık büyük harfle başlayan kelimeler."""
+    import re
+    words = baslik.split()
+    isimler = []
+    current = []
+    for word in words:
+        clean = re.sub(r'[^\w]', '', word)
+        if clean and clean[0].isupper() and not word.startswith('#') and len(clean) > 2:
+            current.append(clean)
+        else:
+            if len(current) >= 2:
+                isimler.append(' '.join(current))
+            current = []
+    if len(current) >= 2:
+        isimler.append(' '.join(current))
+    # İlk bulunan isim grubunu döndür (genellikle haberin konusu)
+    return isimler[0].lower() if isimler else ""
+
+
 def haber_cek():
     """haberler.com/magazin'den en son kullanılmamış haberi çek."""
     import requests
@@ -320,13 +340,17 @@ def haber_cek():
                 gecmis = json.load(f)
         except: pass
 
-    # gecmis artık [{"url":..., "baslik":...}] formatında, eski format [str] de desteklenir
+    # gecmis artık [{"url":..., "baslik":..., "kisi":...}] formatında
     gecmis_urls = set()
     gecmis_basliklar = []
+    gecmis_kisiler = set()  # son 30 videoda çıkan kişiler
     for item in gecmis:
         if isinstance(item, dict):
             gecmis_urls.add(item.get("url", ""))
             gecmis_basliklar.append(item.get("baslik", "").lower())
+            kisi = item.get("kisi", "")
+            if kisi:
+                gecmis_kisiler.add(kisi.lower())
         else:
             gecmis_urls.add(item)
 
@@ -339,14 +363,30 @@ def haber_cek():
         oran = len(k1 & k2) / min(len(k1), len(k2))
         return oran >= esik
 
+    def kisi_kullanildi(baslik):
+        """Haberin kişisi son 30 videoda çıktı mı?"""
+        kisi = kisi_cıkar(baslik)
+        if not kisi:
+            return False
+        return kisi in gecmis_kisiler
+
     def url_veya_baslik_kullanildi(baslik, url):
         if url in gecmis_urls:
             return True
-        return any(baslik_benzer(baslik, gb) for gb in gecmis_basliklar)
+        if any(baslik_benzer(baslik, gb) for gb in gecmis_basliklar):
+            return True
+        if kisi_kullanildi(baslik):
+            kisi = kisi_cıkar(baslik)
+            print(f"[SKIP] '{kisi}' son 30 videoda zaten var.")
+            return True
+        return False
 
     yeni = [(b, u) for b, u in haberler if not url_veya_baslik_kullanildi(b, u)]
     if not yeni:
-        print("[INFO] Tum haberler kullanildi, sifirlaniyor.")
+        print("[INFO] Tum haberler/kisiler kullanildi, sadece URL filtresi uygulanıyor.")
+        yeni = [(b, u) for b, u in haberler if u not in gecmis_urls]
+    if not yeni:
+        print("[INFO] Tum URL'ler kullanildi, sifirlaniyor.")
         yeni = haberler
 
     secilen_baslik, secilen_url = yeni[0]
@@ -394,13 +434,16 @@ def haber_cek():
         except Exception as e:
             print(f"[WARN] Foto indirilemedi: {e}")
 
-    # Geçmişe kaydet (yeni format: {"url":..., "baslik":...})
-    yeni_kayit = {"url": secilen_url, "baslik": secilen_baslik}
+    # Geçmişe kaydet (yeni format: {"url":..., "baslik":..., "kisi":...})
+    secilen_kisi = kisi_cıkar(secilen_baslik)
+    yeni_kayit = {"url": secilen_url, "baslik": secilen_baslik, "kisi": secilen_kisi}
+    if secilen_kisi:
+        print(f"[OK] Kisi kaydedildi: {secilen_kisi}")
     # Eski format uyumu: string olanları objeye çevir
     gecmis_normalize = []
     for item in gecmis:
         if isinstance(item, str):
-            gecmis_normalize.append({"url": item, "baslik": ""})
+            gecmis_normalize.append({"url": item, "baslik": "", "kisi": ""})
         else:
             gecmis_normalize.append(item)
     gecmis_normalize.append(yeni_kayit)
