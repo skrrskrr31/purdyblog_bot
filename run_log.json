@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-31T13:54:23",
-      "status": "ok",
-      "video_id": "_qAU5A32KYY",
-      "title": "Kubilay Kaan Kundakçı Cinayeti #shorts"
-    },
-    {
       "ts": "2026-03-31T16:09:04",
       "status": "ok",
       "video_id": "84zFLDpczOk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tQOzfEyYH88",
       "title": "Manon Bannerman KATSEYE'den Ayrıldı #shorts"
+    },
+    {
+      "ts": "2026-04-04T13:15:02",
+      "status": "ok",
+      "video_id": "KebDVEErRwc",
+      "title": "Manon Bannerman Grubuyla Yollarını Ayırdı #shorts"
     }
   ]
 }
