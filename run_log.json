@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-31T06:13:46",
-      "status": "ok",
-      "video_id": "AGiljneHQHQ",
-      "title": "Yeşim Salkım Konuştu #shorts"
-    },
-    {
       "ts": "2026-03-31T10:05:47",
       "status": "ok",
       "video_id": "k5j2jvQRfh0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "kTPlZHQRi0o",
       "title": "Manon Bannerman'dan sürpriz adım #shorts"
+    },
+    {
+      "ts": "2026-04-04T05:53:12",
+      "status": "ok",
+      "video_id": "MdXZbVtdj7E",
+      "title": "Manon Bannerman Grubunu Bıraktı #shorts"
     }
   ]
 }
