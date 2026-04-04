@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-31T16:09:04",
-      "status": "ok",
-      "video_id": "84zFLDpczOk",
-      "title": "TikTok Fenomeni Kübra Karaaslan'ın Acı Sonu #shorts"
-    },
-    {
       "ts": "2026-03-31T18:43:07",
       "status": "ok",
       "video_id": "jyMppKQPNow",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KebDVEErRwc",
       "title": "Manon Bannerman Grubuyla Yollarını Ayırdı #shorts"
+    },
+    {
+      "ts": "2026-04-04T15:37:50",
+      "status": "ok",
+      "video_id": "ujTb8IPKzh8",
+      "title": "Manon Bannerman gruptan atıldı #shorts"
     }
   ]
 }
