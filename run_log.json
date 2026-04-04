@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-31T10:05:47",
-      "status": "ok",
-      "video_id": "k5j2jvQRfh0",
-      "title": "Pınar Gözaltında #shorts"
-    },
-    {
       "ts": "2026-03-31T13:54:23",
       "status": "ok",
       "video_id": "_qAU5A32KYY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MdXZbVtdj7E",
       "title": "Manon Bannerman Grubunu Bıraktı #shorts"
+    },
+    {
+      "ts": "2026-04-04T09:38:03",
+      "status": "ok",
+      "video_id": "tQOzfEyYH88",
+      "title": "Manon Bannerman KATSEYE'den Ayrıldı #shorts"
     }
   ]
 }
