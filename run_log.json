@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-03-31T18:43:07",
-      "status": "ok",
-      "video_id": "jyMppKQPNow",
-      "title": "Ünlülerin Uyuşturucu Operasyonu #shorts"
-    },
-    {
       "ts": "2026-04-01T06:25:11",
       "status": "ok",
       "video_id": "qy4eccuxON8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ujTb8IPKzh8",
       "title": "Manon Bannerman gruptan atıldı #shorts"
+    },
+    {
+      "ts": "2026-04-05T09:51:57",
+      "status": "ok",
+      "video_id": "xA4rqvNOIJo",
+      "title": "Çılgın Sedat'ın Gözyaşları #shorts"
     }
   ]
 }
