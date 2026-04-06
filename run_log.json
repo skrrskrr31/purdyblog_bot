@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-02T10:01:45",
-      "status": "ok",
-      "video_id": "eVdA1noFGb0",
-      "title": "Yeraltı zirvede #shorts"
-    },
-    {
       "ts": "2026-04-02T13:47:05",
       "status": "ok",
       "video_id": "ahXfZ4I9PkY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "sz4ERuIImoM",
       "title": "Nilay Erdönmez Berlin'e Niçin Gitti? #shorts"
+    },
+    {
+      "ts": "2026-04-06T15:54:35",
+      "status": "ok",
+      "video_id": "WLSJVgeDR9w",
+      "title": "Dilara Kurtulmuş'a evlilik teklifi #shorts"
     }
   ]
 }
