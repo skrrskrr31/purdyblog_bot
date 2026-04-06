@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-02T06:08:32",
-      "status": "ok",
-      "video_id": "7LrC258zCc8",
-      "title": "Didem Soydan Konuştu #shorts"
-    },
-    {
       "ts": "2026-04-02T10:01:45",
       "status": "ok",
       "video_id": "eVdA1noFGb0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CMk0dwxXRho",
       "title": "Öğretmenlikten Influencer'a #shorts"
+    },
+    {
+      "ts": "2026-04-06T13:39:36",
+      "status": "ok",
+      "video_id": "sz4ERuIImoM",
+      "title": "Nilay Erdönmez Berlin'e Niçin Gitti? #shorts"
     }
   ]
 }
