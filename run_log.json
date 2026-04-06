@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-01T16:08:58",
-      "status": "ok",
-      "video_id": "TbIZB15gvL4",
-      "title": "Kübra Karaaslan'ın Babası Konuştu #shorts"
-    },
-    {
       "ts": "2026-04-01T18:42:06",
       "status": "ok",
       "video_id": "DorlM4sW13c",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0j94v13m_UY",
       "title": "Sinan Burhan'dan Hadise'ye tepki #shorts"
+    },
+    {
+      "ts": "2026-04-06T06:28:16",
+      "status": "ok",
+      "video_id": "oXn4qE52zAk",
+      "title": "Ünlülerin Estetik Sırları #shorts"
     }
   ]
 }
