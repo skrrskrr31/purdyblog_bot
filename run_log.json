@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-02T18:38:38",
-      "status": "ok",
-      "video_id": "myBVj2fAIo8",
-      "title": "Volkan Konak Anıldı #shorts"
-    },
-    {
       "ts": "2026-04-03T06:09:13",
       "status": "ok",
       "video_id": "f_JZ6Pm1ltQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xvG0BF_gszg",
       "title": "Khaby Lame'nin şok eden boşanması #shorts"
+    },
+    {
+      "ts": "2026-04-07T10:07:05",
+      "status": "ok",
+      "video_id": "R60vW4CN_L8",
+      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
     }
   ]
 }
