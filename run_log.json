@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-03T09:53:09",
-      "status": "ok",
-      "video_id": "-pSmuuB1mkY",
-      "title": "Manon Bannerman KATSEYE'den Ayrıldı #shorts"
-    },
-    {
       "ts": "2026-04-03T13:22:33",
       "status": "ok",
       "video_id": "lI8YUwbFvjU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LXbsbySf0t4",
       "title": "Hasan Can Kaya Nişanlandı #shorts"
+    },
+    {
+      "ts": "2026-04-07T16:13:04",
+      "status": "ok",
+      "video_id": "wzOaR3ZG9eU",
+      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
     }
   ]
 }
