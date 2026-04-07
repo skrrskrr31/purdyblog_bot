@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-02T16:04:42",
-      "status": "ok",
-      "video_id": "JIdoBXuLy6w",
-      "title": "Emine'nin Yeni Hali #shorts"
-    },
-    {
       "ts": "2026-04-02T18:38:38",
       "status": "ok",
       "video_id": "myBVj2fAIo8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KPS4QnvG1KM",
       "title": "6ix9ine'ın sevgilisi canlı yayında hamilelik itirafı #shorts"
+    },
+    {
+      "ts": "2026-04-07T06:16:55",
+      "status": "ok",
+      "video_id": "xvG0BF_gszg",
+      "title": "Khaby Lame'nin şok eden boşanması #shorts"
     }
   ]
 }
