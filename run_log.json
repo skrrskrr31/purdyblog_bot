@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-04T05:53:12",
-      "status": "ok",
-      "video_id": "MdXZbVtdj7E",
-      "title": "Manon Bannerman Grubunu Bıraktı #shorts"
-    },
-    {
       "ts": "2026-04-04T09:38:03",
       "status": "ok",
       "video_id": "tQOzfEyYH88",
@@ -119,6 +113,12 @@
       "ts": "2026-04-08T10:07:45",
       "status": "ok",
       "video_id": "FrKpxkwJZPU",
+      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
+    },
+    {
+      "ts": "2026-04-08T13:53:59",
+      "status": "ok",
+      "video_id": "U5M7SwCiEAo",
       "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
     }
   ]
