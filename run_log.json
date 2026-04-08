@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-03T18:29:32",
-      "status": "ok",
-      "video_id": "kTPlZHQRi0o",
-      "title": "Manon Bannerman'dan sürpriz adım #shorts"
-    },
-    {
       "ts": "2026-04-04T05:53:12",
       "status": "ok",
       "video_id": "MdXZbVtdj7E",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CfgysnzOnmY",
       "title": "Cardi B'nin Türkçe Şarkı Paylaşımları #shorts"
+    },
+    {
+      "ts": "2026-04-08T10:07:45",
+      "status": "ok",
+      "video_id": "FrKpxkwJZPU",
+      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
     }
   ]
 }
