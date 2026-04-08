@@ -286,13 +286,13 @@ def kisi_cıkar(baslik):
     current = []
     for word in words:
         clean = re.sub(r'[^\w]', '', word)
-        if clean and clean[0].isupper() and not word.startswith('#') and len(clean) > 2:
+        if clean and clean[0].isupper() and not word.startswith('#'):
             current.append(clean)
         else:
-            if len(current) >= 2:
+            if len(current) >= 2 and any(len(w) > 2 for w in current):
                 isimler.append(' '.join(current))
             current = []
-    if len(current) >= 2:
+    if len(current) >= 2 and any(len(w) > 2 for w in current):
         isimler.append(' '.join(current))
     # İlk bulunan isim grubunu döndür (genellikle haberin konusu)
     return isimler[0].lower() if isimler else ""
@@ -354,7 +354,7 @@ def haber_cek():
         else:
             gecmis_urls.add(item)
 
-    def baslik_benzer(b1, b2, esik=0.5):
+    def baslik_benzer(b1, b2, esik=0.35):
         """İki başlık arasındaki kelime örtüşmesini kontrol et."""
         k1 = set(w for w in b1.lower().split() if len(w) > 3)
         k2 = set(w for w in b2.lower().split() if len(w) > 3)
