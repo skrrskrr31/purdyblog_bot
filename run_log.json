@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-05T09:51:57",
-      "status": "ok",
-      "video_id": "xA4rqvNOIJo",
-      "title": "Çılgın Sedat'ın Gözyaşları #shorts"
-    },
-    {
       "ts": "2026-04-05T13:15:57",
       "status": "ok",
       "video_id": "jfXfOr2w2EI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Qjv-BmAyLe8",
       "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
+    },
+    {
+      "ts": "2026-04-09T10:13:21",
+      "status": "ok",
+      "video_id": "hVuIjMDZiLU",
+      "title": "İhsan Gedik'in Hali Yürek Burktu #shorts"
     }
   ]
 }
