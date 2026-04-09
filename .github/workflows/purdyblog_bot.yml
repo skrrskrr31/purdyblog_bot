@@ -9,6 +9,10 @@ on:
     - cron: '0 18 * * *'  # 21:00 Türkiye
   workflow_dispatch:
 
+concurrency:
+  group: purdyblog-bot-run
+  cancel-in-progress: false
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
@@ -45,4 +49,8 @@ jobs:
           git config user.email "bot@purdyblog.com"
           git add kullanilan_haberler.json run_log.json || true
           git diff --staged --quiet || git commit -m "update: kullanilan haberler ve run log guncellendi"
-          git pull --rebase origin main && git push || git push || true
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && echo "Push basarili." && break
+            echo "Push denemesi $i basarisiz, tekrar deneniyor..."
+            sleep 5
+          done

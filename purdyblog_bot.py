@@ -389,7 +389,7 @@ def haber_cek():
         print("[INFO] Tum URL'ler kullanildi, sifirlaniyor.")
         yeni = haberler
 
-    secilen_baslik, secilen_url = yeni[0]
+    secilen_baslik, secilen_url = random.choice(yeni[:5]) if len(yeni) >= 5 else yeni[0]
     print(f"[OK] Haber secildi: {secilen_baslik[:60]}")
 
     # Haber sayfasına gir
