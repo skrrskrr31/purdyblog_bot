@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-05T15:38:46",
-      "status": "ok",
-      "video_id": "Q6TCvAvDT1k",
-      "title": "Sinan Burhan'dan skandal sözler #shorts"
-    },
-    {
       "ts": "2026-04-05T18:25:00",
       "status": "ok",
       "video_id": "0j94v13m_UY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "nEmw2pTl2HM",
       "title": "Çelik Borçları Ödedi #shorts"
+    },
+    {
+      "ts": "2026-04-09T16:21:10",
+      "status": "ok",
+      "video_id": "kBX2aw8wYnc",
+      "title": "Ünlüler Gözaltında #shorts"
     }
   ]
 }
