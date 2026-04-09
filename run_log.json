@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-05T13:15:57",
-      "status": "ok",
-      "video_id": "jfXfOr2w2EI",
-      "title": "Çılgın Sedat'ın Gözyaşı Dolu Anı #shorts"
-    },
-    {
       "ts": "2026-04-05T15:38:46",
       "status": "ok",
       "video_id": "Q6TCvAvDT1k",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hVuIjMDZiLU",
       "title": "İhsan Gedik'in Hali Yürek Burktu #shorts"
+    },
+    {
+      "ts": "2026-04-09T14:04:09",
+      "status": "ok",
+      "video_id": "nEmw2pTl2HM",
+      "title": "Çelik Borçları Ödedi #shorts"
     }
   ]
 }
