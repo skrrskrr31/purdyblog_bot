@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-06T10:09:17",
-      "status": "ok",
-      "video_id": "CMk0dwxXRho",
-      "title": "Öğretmenlikten Influencer'a #shorts"
-    },
-    {
       "ts": "2026-04-06T13:39:36",
       "status": "ok",
       "video_id": "sz4ERuIImoM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "L2IdLyw_MAo",
       "title": "Çimen şimdi avukat #shorts"
+    },
+    {
+      "ts": "2026-04-10T10:07:54",
+      "status": "ok",
+      "video_id": "XkBoT9g6M4M",
+      "title": "Reynmen'e eşinden sürpriz makyaj #shorts"
     }
   ]
 }
