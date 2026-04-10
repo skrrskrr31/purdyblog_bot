@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-06T15:54:35",
-      "status": "ok",
-      "video_id": "WLSJVgeDR9w",
-      "title": "Dilara Kurtulmuş'a evlilik teklifi #shorts"
-    },
-    {
       "ts": "2026-04-06T18:39:12",
       "status": "ok",
       "video_id": "KPS4QnvG1KM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "dRk1Unv1bTI",
       "title": "Çimen Avukat Oldu #shorts"
+    },
+    {
+      "ts": "2026-04-10T15:59:33",
+      "status": "ok",
+      "video_id": "sHJNdZ5s3Y8",
+      "title": "Reynmen'e eşi makyaj yaptı #shorts"
     }
   ]
 }
