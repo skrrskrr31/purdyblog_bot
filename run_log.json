@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-07T10:07:05",
-      "status": "ok",
-      "video_id": "R60vW4CN_L8",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-07T13:51:32",
       "status": "ok",
       "video_id": "LXbsbySf0t4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9uONkrYVOEw",
       "title": "Işın Karaca Yunanistan'a Giriş Yasağı #shorts"
+    },
+    {
+      "ts": "2026-04-11T09:39:36",
+      "status": "ok",
+      "video_id": "xNfU81Oks64",
+      "title": "IShowSpeed'in taksicilere sürprizi #shorts"
     }
   ]
 }
