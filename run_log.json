@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-07T13:51:32",
-      "status": "ok",
-      "video_id": "LXbsbySf0t4",
-      "title": "Hasan Can Kaya Nişanlandı #shorts"
-    },
-    {
       "ts": "2026-04-07T16:13:04",
       "status": "ok",
       "video_id": "wzOaR3ZG9eU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xNfU81Oks64",
       "title": "IShowSpeed'in taksicilere sürprizi #shorts"
+    },
+    {
+      "ts": "2026-04-11T13:16:56",
+      "status": "ok",
+      "video_id": "RYFPFOrT_mY",
+      "title": "Cardi B'nin Çocuğunun Babası Kim? #shorts"
     }
   ]
 }
