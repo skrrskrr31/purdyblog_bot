@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-07T06:16:55",
-      "status": "ok",
-      "video_id": "xvG0BF_gszg",
-      "title": "Khaby Lame'nin şok eden boşanması #shorts"
-    },
-    {
       "ts": "2026-04-07T10:07:05",
       "status": "ok",
       "video_id": "R60vW4CN_L8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XHzrfq8t2gk",
       "title": "Ünlüler Gözaltına Alındı #shorts"
+    },
+    {
+      "ts": "2026-04-11T05:56:36",
+      "status": "ok",
+      "video_id": "9uONkrYVOEw",
+      "title": "Işın Karaca Yunanistan'a Giriş Yasağı #shorts"
     }
   ]
 }
