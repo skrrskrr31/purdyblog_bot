@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-07T18:43:17",
-      "status": "ok",
-      "video_id": "gX-HknNOzZU",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-08T06:18:30",
       "status": "ok",
       "video_id": "CfgysnzOnmY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "fltmdxNHWlk",
       "title": "Sezgi Sena Akay Evlendi #shorts"
+    },
+    {
+      "ts": "2026-04-11T18:25:24",
+      "status": "ok",
+      "video_id": "-9MoRJrx-lY",
+      "title": "Karaköy'de fenomen kestaneçi #shorts"
     }
   ]
 }
