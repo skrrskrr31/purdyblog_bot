@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-07T16:13:04",
-      "status": "ok",
-      "video_id": "wzOaR3ZG9eU",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-07T18:43:17",
       "status": "ok",
       "video_id": "gX-HknNOzZU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RYFPFOrT_mY",
       "title": "Cardi B'nin Çocuğunun Babası Kim? #shorts"
+    },
+    {
+      "ts": "2026-04-11T15:39:11",
+      "status": "ok",
+      "video_id": "fltmdxNHWlk",
+      "title": "Sezgi Sena Akay Evlendi #shorts"
     }
   ]
 }
