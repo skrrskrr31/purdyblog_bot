@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-08T06:18:30",
-      "status": "ok",
-      "video_id": "CfgysnzOnmY",
-      "title": "Cardi B'nin Türkçe Şarkı Paylaşımları #shorts"
-    },
-    {
       "ts": "2026-04-08T10:07:45",
       "status": "ok",
       "video_id": "FrKpxkwJZPU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-9MoRJrx-lY",
       "title": "Karaköy'de fenomen kestaneçi #shorts"
+    },
+    {
+      "ts": "2026-04-12T06:22:02",
+      "status": "ok",
+      "video_id": "gPFrslSSKkM",
+      "title": "Murat Ceylan ve Sude Zülal Ayrıldı #shorts"
     }
   ]
 }
