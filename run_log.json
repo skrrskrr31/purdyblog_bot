@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-08T10:07:45",
-      "status": "ok",
-      "video_id": "FrKpxkwJZPU",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-08T13:53:59",
       "status": "ok",
       "video_id": "U5M7SwCiEAo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gPFrslSSKkM",
       "title": "Murat Ceylan ve Sude Zülal Ayrıldı #shorts"
+    },
+    {
+      "ts": "2026-04-12T09:44:09",
+      "status": "ok",
+      "video_id": "zf8dKR9COUY",
+      "title": "Ava Yaman'dan Net Antwort #shorts"
     }
   ]
 }
