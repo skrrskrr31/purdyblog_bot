@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-08T13:53:59",
-      "status": "ok",
-      "video_id": "U5M7SwCiEAo",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-08T16:17:41",
       "status": "ok",
       "video_id": "8eo6LyoU-jI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "zf8dKR9COUY",
       "title": "Ava Yaman'dan Net Antwort #shorts"
+    },
+    {
+      "ts": "2026-04-13T14:07:46",
+      "status": "ok",
+      "video_id": "LW_fWO_2zaE",
+      "title": "Jeff Bezos'un Eşi Hamile Mi? #shorts"
     }
   ]
 }
