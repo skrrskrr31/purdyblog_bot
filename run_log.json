@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-08T16:17:41",
-      "status": "ok",
-      "video_id": "8eo6LyoU-jI",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-08T18:58:55",
       "status": "ok",
       "video_id": "Yio-KGM__2w",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LW_fWO_2zaE",
       "title": "Jeff Bezos'un Eşi Hamile Mi? #shorts"
+    },
+    {
+      "ts": "2026-04-13T16:18:23",
+      "status": "ok",
+      "video_id": "g-Q6Evg3oJs",
+      "title": "Ruby Rose'nin Şok İddiası #shorts"
     }
   ]
 }
