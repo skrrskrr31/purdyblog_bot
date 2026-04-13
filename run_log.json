@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-08T18:58:55",
-      "status": "ok",
-      "video_id": "Yio-KGM__2w",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-09T06:18:08",
       "status": "ok",
       "video_id": "Qjv-BmAyLe8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "g-Q6Evg3oJs",
       "title": "Ruby Rose'nin Şok İddiası #shorts"
+    },
+    {
+      "ts": "2026-04-13T18:56:57",
+      "status": "ok",
+      "video_id": "Y-5nN52AaOc",
+      "title": "Başak Gümülcinelioğlu Zorbalığa Karşı Çıkıyor #shorts"
     }
   ]
 }
