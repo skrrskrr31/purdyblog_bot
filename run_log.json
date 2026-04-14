@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-09T18:43:35",
-      "status": "ok",
-      "video_id": "snoNmgNtgFs",
-      "title": "Reynmen'e eşi makyaj yaptı #shorts"
-    },
-    {
       "ts": "2026-04-10T06:51:00",
       "status": "ok",
       "video_id": "L2IdLyw_MAo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "w4g8da1Og_k",
       "title": "Yakışıklı Mısırcı Alper #shorts"
+    },
+    {
+      "ts": "2026-04-14T18:54:46",
+      "status": "ok",
+      "video_id": "XPyoTLjJ-KI",
+      "title": "Roman Tekstil Ailesi Büyük Acıya Ügrendi #shorts"
     }
   ]
 }
