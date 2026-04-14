@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-09T06:18:08",
-      "status": "ok",
-      "video_id": "Qjv-BmAyLe8",
-      "title": "Cardi B Türkçe Şarkı Paylaştı #shorts"
-    },
-    {
       "ts": "2026-04-09T10:13:21",
       "status": "ok",
       "video_id": "hVuIjMDZiLU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Y-5nN52AaOc",
       "title": "Başak Gümülcinelioğlu Zorbalığa Karşı Çıkıyor #shorts"
+    },
+    {
+      "ts": "2026-04-14T06:28:37",
+      "status": "ok",
+      "video_id": "SBNjd_AN79k",
+      "title": "Cem Öcal Vefat Etti #shorts"
     }
   ]
 }
