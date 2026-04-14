@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-09T14:04:09",
-      "status": "ok",
-      "video_id": "nEmw2pTl2HM",
-      "title": "Çelik Borçları Ödedi #shorts"
-    },
-    {
       "ts": "2026-04-09T16:21:10",
       "status": "ok",
       "video_id": "kBX2aw8wYnc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OQL7WcYT0UY",
       "title": "Esra Ezmeci: Para harcamayan kadın terk edilir #shorts"
+    },
+    {
+      "ts": "2026-04-14T14:04:32",
+      "status": "ok",
+      "video_id": "a8O4yBcm2dk",
+      "title": "Seray Kaya Tepkilere Karşı Direniyor #shorts"
     }
   ]
 }
