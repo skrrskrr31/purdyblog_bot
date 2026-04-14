@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-09T16:21:10",
-      "status": "ok",
-      "video_id": "kBX2aw8wYnc",
-      "title": "Ünlüler Gözaltında #shorts"
-    },
-    {
       "ts": "2026-04-09T18:43:35",
       "status": "ok",
       "video_id": "snoNmgNtgFs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "a8O4yBcm2dk",
       "title": "Seray Kaya Tepkilere Karşı Direniyor #shorts"
+    },
+    {
+      "ts": "2026-04-14T16:12:03",
+      "status": "ok",
+      "video_id": "w4g8da1Og_k",
+      "title": "Yakışıklı Mısırcı Alper #shorts"
     }
   ]
 }
