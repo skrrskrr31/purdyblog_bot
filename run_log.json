@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-10T10:07:54",
-      "status": "ok",
-      "video_id": "XkBoT9g6M4M",
-      "title": "Reynmen'e eşinden sürpriz makyaj #shorts"
-    },
-    {
       "ts": "2026-04-10T13:41:54",
       "status": "ok",
       "video_id": "dRk1Unv1bTI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ayh3Krp-ojg",
       "title": "Elif Karaarslan'ın İlk İfadesi #shorts"
+    },
+    {
+      "ts": "2026-04-15T10:16:26",
+      "status": "ok",
+      "video_id": "njjGafLa4gA",
+      "title": "Hanife Gürdal'ın yeni aşkı #shorts"
     }
   ]
 }
