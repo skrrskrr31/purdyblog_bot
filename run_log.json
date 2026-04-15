@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-10T13:41:54",
-      "status": "ok",
-      "video_id": "dRk1Unv1bTI",
-      "title": "Çimen Avukat Oldu #shorts"
-    },
-    {
       "ts": "2026-04-10T15:59:33",
       "status": "ok",
       "video_id": "sHJNdZ5s3Y8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "njjGafLa4gA",
       "title": "Hanife Gürdal'ın yeni aşkı #shorts"
+    },
+    {
+      "ts": "2026-04-15T13:57:47",
+      "status": "ok",
+      "video_id": "BdvyOQyU9JI",
+      "title": "Sophie Rain'den Şok İtiraf #shorts"
     }
   ]
 }
