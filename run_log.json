@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-10T18:36:40",
-      "status": "ok",
-      "video_id": "XHzrfq8t2gk",
-      "title": "Ünlüler Gözaltına Alındı #shorts"
-    },
-    {
       "ts": "2026-04-11T05:56:36",
       "status": "ok",
       "video_id": "9uONkrYVOEw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XNavEZyaWL0",
       "title": "Esra Ezmeci: Para harcatmayan terk edilir #shorts"
+    },
+    {
+      "ts": "2026-04-15T18:56:36",
+      "status": "ok",
+      "video_id": "wEF-Xg1i2Uo",
+      "title": "Esra Ezmeci'nin şok sözleri #shorts"
     }
   ]
 }
