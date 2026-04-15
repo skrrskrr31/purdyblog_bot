@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-10T15:59:33",
-      "status": "ok",
-      "video_id": "sHJNdZ5s3Y8",
-      "title": "Reynmen'e eşi makyaj yaptı #shorts"
-    },
-    {
       "ts": "2026-04-10T18:36:40",
       "status": "ok",
       "video_id": "XHzrfq8t2gk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BdvyOQyU9JI",
       "title": "Sophie Rain'den Şok İtiraf #shorts"
+    },
+    {
+      "ts": "2026-04-15T16:09:47",
+      "status": "ok",
+      "video_id": "XNavEZyaWL0",
+      "title": "Esra Ezmeci: Para harcatmayan terk edilir #shorts"
     }
   ]
 }
