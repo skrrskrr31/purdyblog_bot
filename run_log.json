@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-10T06:51:00",
-      "status": "ok",
-      "video_id": "L2IdLyw_MAo",
-      "title": "Çimen şimdi avukat #shorts"
-    },
-    {
       "ts": "2026-04-10T10:07:54",
       "status": "ok",
       "video_id": "XkBoT9g6M4M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XPyoTLjJ-KI",
       "title": "Roman Tekstil Ailesi Büyük Acıya Ügrendi #shorts"
+    },
+    {
+      "ts": "2026-04-15T06:51:54",
+      "status": "ok",
+      "video_id": "ayh3Krp-ojg",
+      "title": "Elif Karaarslan'ın İlk İfadesi #shorts"
     }
   ]
 }
