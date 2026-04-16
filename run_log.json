@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-11T05:56:36",
-      "status": "ok",
-      "video_id": "9uONkrYVOEw",
-      "title": "Işın Karaca Yunanistan'a Giriş Yasağı #shorts"
-    },
-    {
       "ts": "2026-04-11T09:39:36",
       "status": "ok",
       "video_id": "xNfU81Oks64",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "wEF-Xg1i2Uo",
       "title": "Esra Ezmeci'nin şok sözleri #shorts"
+    },
+    {
+      "ts": "2026-04-16T06:54:38",
+      "status": "ok",
+      "video_id": "R_Y_7MPl-cU",
+      "title": "Roman Tekstil ailesinin büyük acısı #shorts"
     }
   ]
 }
