@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-11T18:25:24",
-      "status": "ok",
-      "video_id": "-9MoRJrx-lY",
-      "title": "Karaköy'de fenomen kestaneçi #shorts"
-    },
-    {
       "ts": "2026-04-12T06:22:02",
       "status": "ok",
       "video_id": "gPFrslSSKkM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "A6pzWuHrVnU",
       "title": "Aleyna Bozok Skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-16T18:55:00",
+      "status": "ok",
+      "video_id": "bIgtRFhpXpc",
+      "title": "Yakışıklı Mısırcı #shorts"
     }
   ]
 }
