@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-11T15:39:11",
-      "status": "ok",
-      "video_id": "fltmdxNHWlk",
-      "title": "Sezgi Sena Akay Evlendi #shorts"
-    },
-    {
       "ts": "2026-04-11T18:25:24",
       "status": "ok",
       "video_id": "-9MoRJrx-lY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "nPb18NUNbO0",
       "title": "Aytaç Şaşmaz Helin Kandemir'Aşık #shorts"
+    },
+    {
+      "ts": "2026-04-16T16:25:28",
+      "status": "ok",
+      "video_id": "A6pzWuHrVnU",
+      "title": "Aleyna Bozok Skandalı #shorts"
     }
   ]
 }
