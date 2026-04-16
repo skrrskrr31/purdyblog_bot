@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-11T13:16:56",
-      "status": "ok",
-      "video_id": "RYFPFOrT_mY",
-      "title": "Cardi B'nin Çocuğunun Babası Kim? #shorts"
-    },
-    {
       "ts": "2026-04-11T15:39:11",
       "status": "ok",
       "video_id": "fltmdxNHWlk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NS8yZ1kiC8o",
       "title": "Aleyna Bozok Skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-16T14:06:20",
+      "status": "ok",
+      "video_id": "nPb18NUNbO0",
+      "title": "Aytaç Şaşmaz Helin Kandemir'Aşık #shorts"
     }
   ]
 }
