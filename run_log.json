@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-13T14:07:46",
-      "status": "ok",
-      "video_id": "LW_fWO_2zaE",
-      "title": "Jeff Bezos'un Eşi Hamile Mi? #shorts"
-    },
-    {
       "ts": "2026-04-13T16:18:23",
       "status": "ok",
       "video_id": "g-Q6Evg3oJs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "1ZqBoeGcgFk",
       "title": "Dizilere reklam yasağı #shorts"
+    },
+    {
+      "ts": "2026-04-17T13:49:38",
+      "status": "ok",
+      "video_id": "b-vU3uQvEVg",
+      "title": "Aytaç ve Helin Aşka mı Dönüştü? #shorts"
     }
   ]
 }
