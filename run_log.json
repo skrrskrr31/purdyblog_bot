@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-13T16:18:23",
-      "status": "ok",
-      "video_id": "g-Q6Evg3oJs",
-      "title": "Ruby Rose'nin Şok İddiası #shorts"
-    },
-    {
       "ts": "2026-04-13T18:56:57",
       "status": "ok",
       "video_id": "Y-5nN52AaOc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "b-vU3uQvEVg",
       "title": "Aytaç ve Helin Aşka mı Dönüştü? #shorts"
+    },
+    {
+      "ts": "2026-04-17T16:04:53",
+      "status": "ok",
+      "video_id": "JLJfs3p7EJ4",
+      "title": "İrem Helvacıoğlu Boşandı #shorts"
     }
   ]
 }
