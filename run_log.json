@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-13T18:56:57",
-      "status": "ok",
-      "video_id": "Y-5nN52AaOc",
-      "title": "Başak Gümülcinelioğlu Zorbalığa Karşı Çıkıyor #shorts"
-    },
-    {
       "ts": "2026-04-14T06:28:37",
       "status": "ok",
       "video_id": "SBNjd_AN79k",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JLJfs3p7EJ4",
       "title": "İrem Helvacıoğlu Boşandı #shorts"
+    },
+    {
+      "ts": "2026-04-17T18:39:18",
+      "status": "ok",
+      "video_id": "bktrYczRLvU",
+      "title": "Aleyna Bozok skandalı #shorts"
     }
   ]
 }
