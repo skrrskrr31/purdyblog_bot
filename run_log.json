@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-12T06:22:02",
-      "status": "ok",
-      "video_id": "gPFrslSSKkM",
-      "title": "Murat Ceylan ve Sude Zülal Ayrıldı #shorts"
-    },
-    {
       "ts": "2026-04-12T09:44:09",
       "status": "ok",
       "video_id": "zf8dKR9COUY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bIgtRFhpXpc",
       "title": "Yakışıklı Mısırcı #shorts"
+    },
+    {
+      "ts": "2026-04-17T06:55:45",
+      "status": "ok",
+      "video_id": "O0O-6RhKg18",
+      "title": "Şiddeti Azaltma Kararı #shorts"
     }
   ]
 }
