@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-12T09:44:09",
-      "status": "ok",
-      "video_id": "zf8dKR9COUY",
-      "title": "Ava Yaman'dan Net Antwort #shorts"
-    },
-    {
       "ts": "2026-04-13T14:07:46",
       "status": "ok",
       "video_id": "LW_fWO_2zaE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "O0O-6RhKg18",
       "title": "Şiddeti Azaltma Kararı #shorts"
+    },
+    {
+      "ts": "2026-04-17T10:13:59",
+      "status": "ok",
+      "video_id": "1ZqBoeGcgFk",
+      "title": "Dizilere reklam yasağı #shorts"
     }
   ]
 }
