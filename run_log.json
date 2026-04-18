@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-14T06:28:37",
-      "status": "ok",
-      "video_id": "SBNjd_AN79k",
-      "title": "Cem Öcal Vefat Etti #shorts"
-    },
-    {
       "ts": "2026-04-14T10:15:21",
       "status": "ok",
       "video_id": "OQL7WcYT0UY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bktrYczRLvU",
       "title": "Aleyna Bozok skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-18T06:10:13",
+      "status": "ok",
+      "video_id": "EoFAzUSrxlY",
+      "title": "Aleyna Bozok Skandalı #shorts"
     }
   ]
 }
