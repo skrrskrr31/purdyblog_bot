@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-14T18:54:46",
-      "status": "ok",
-      "video_id": "XPyoTLjJ-KI",
-      "title": "Roman Tekstil Ailesi Büyük Acıya Ügrendi #shorts"
-    },
-    {
       "ts": "2026-04-15T06:51:54",
       "status": "ok",
       "video_id": "ayh3Krp-ojg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "U6BrhaN-VZY",
       "title": "Hanife Gürdal'ın Yeni Aşk #shorts"
+    },
+    {
+      "ts": "2026-04-18T18:29:17",
+      "status": "ok",
+      "video_id": "tKcH5Y-V1Y4",
+      "title": "İrem Helvacıoğlu Boşandı #shorts"
     }
   ]
 }
