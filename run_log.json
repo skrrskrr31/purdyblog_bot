@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-14T16:12:03",
-      "status": "ok",
-      "video_id": "w4g8da1Og_k",
-      "title": "Yakışıklı Mısırcı Alper #shorts"
-    },
-    {
       "ts": "2026-04-14T18:54:46",
       "status": "ok",
       "video_id": "XPyoTLjJ-KI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ZGhfWv-o058",
       "title": "Aleyna Bozok Skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-18T15:42:08",
+      "status": "ok",
+      "video_id": "U6BrhaN-VZY",
+      "title": "Hanife Gürdal'ın Yeni Aşk #shorts"
     }
   ]
 }
