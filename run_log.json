@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-15T06:51:54",
-      "status": "ok",
-      "video_id": "ayh3Krp-ojg",
-      "title": "Elif Karaarslan'ın İlk İfadesi #shorts"
-    },
-    {
       "ts": "2026-04-15T10:16:26",
       "status": "ok",
       "video_id": "njjGafLa4gA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tKcH5Y-V1Y4",
       "title": "İrem Helvacıoğlu Boşandı #shorts"
+    },
+    {
+      "ts": "2026-04-19T06:26:51",
+      "status": "ok",
+      "video_id": "weHbfTK6kbs",
+      "title": "Şiddet içerikli dizilere reklam yasağı #shorts"
     }
   ]
 }
