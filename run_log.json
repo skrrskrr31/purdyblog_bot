@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-15T16:09:47",
-      "status": "ok",
-      "video_id": "XNavEZyaWL0",
-      "title": "Esra Ezmeci: Para harcatmayan terk edilir #shorts"
-    },
-    {
       "ts": "2026-04-15T18:56:36",
       "status": "ok",
       "video_id": "wEF-Xg1i2Uo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OKpzLTujxQE",
       "title": "Fırat Tanış Diziden Çıkarıldı #shorts"
+    },
+    {
+      "ts": "2026-04-19T15:42:11",
+      "status": "ok",
+      "video_id": "MNqMhw_0_0w",
+      "title": "Aleyna Bozok Skandalı #shorts"
     }
   ]
 }
