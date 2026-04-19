@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-15T13:57:47",
-      "status": "ok",
-      "video_id": "BdvyOQyU9JI",
-      "title": "Sophie Rain'den Şok İtiraf #shorts"
-    },
-    {
       "ts": "2026-04-15T16:09:47",
       "status": "ok",
       "video_id": "XNavEZyaWL0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jbXBpBW8QbY",
       "title": "İrem Helvacıoğlu Boşandı #shorts"
+    },
+    {
+      "ts": "2026-04-19T13:20:31",
+      "status": "ok",
+      "video_id": "OKpzLTujxQE",
+      "title": "Fırat Tanış Diziden Çıkarıldı #shorts"
     }
   ]
 }
