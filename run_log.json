@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-15T18:56:36",
-      "status": "ok",
-      "video_id": "wEF-Xg1i2Uo",
-      "title": "Esra Ezmeci'nin şok sözleri #shorts"
-    },
-    {
       "ts": "2026-04-16T06:54:38",
       "status": "ok",
       "video_id": "R_Y_7MPl-cU",
@@ -119,6 +113,12 @@
       "ts": "2026-04-19T15:42:11",
       "status": "ok",
       "video_id": "MNqMhw_0_0w",
+      "title": "Aleyna Bozok Skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-19T18:30:39",
+      "status": "ok",
+      "video_id": "O2gPfckCYeQ",
       "title": "Aleyna Bozok Skandalı #shorts"
     }
   ]
