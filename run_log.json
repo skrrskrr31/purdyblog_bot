@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-16T06:54:38",
-      "status": "ok",
-      "video_id": "R_Y_7MPl-cU",
-      "title": "Roman Tekstil ailesinin büyük acısı #shorts"
-    },
-    {
       "ts": "2026-04-16T10:15:30",
       "status": "ok",
       "video_id": "NS8yZ1kiC8o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "O2gPfckCYeQ",
       "title": "Aleyna Bozok Skandalı #shorts"
+    },
+    {
+      "ts": "2026-04-20T07:13:33",
+      "status": "ok",
+      "video_id": "-UHVA-B61hg",
+      "title": "Ebru Gündeş'in Sürpriz İtirafı #shorts"
     }
   ]
 }
