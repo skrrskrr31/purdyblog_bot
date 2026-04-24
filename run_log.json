@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-16T14:06:20",
-      "status": "ok",
-      "video_id": "nPb18NUNbO0",
-      "title": "Aytaç Şaşmaz Helin Kandemir'Aşık #shorts"
-    },
-    {
       "ts": "2026-04-16T16:25:28",
       "status": "ok",
       "video_id": "A6pzWuHrVnU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jZ2R6KgEUK8",
       "title": "Kadir Doğulu: Savaşmayın Sevişin #shorts"
+    },
+    {
+      "ts": "2026-04-24T18:45:55",
+      "status": "ok",
+      "video_id": "CT8YtSjhBNk",
+      "title": "Ferdi Atuner'in cenazesinde kavga! #shorts"
     }
   ]
 }
