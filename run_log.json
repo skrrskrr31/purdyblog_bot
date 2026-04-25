@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-17T13:49:38",
-      "status": "ok",
-      "video_id": "b-vU3uQvEVg",
-      "title": "Aytaç ve Helin Aşka mı Dönüştü? #shorts"
-    },
-    {
       "ts": "2026-04-17T16:04:53",
       "status": "ok",
       "video_id": "JLJfs3p7EJ4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LTb3yBTg5bI",
       "title": "Ferdi Atuner Vefat Etti #shorts"
+    },
+    {
+      "ts": "2026-04-25T18:32:11",
+      "status": "ok",
+      "video_id": "PLQQX_BYwvk",
+      "title": "Bertuğ Yıldırım nikah fotoğraflarını sildi #shorts"
     }
   ]
 }
