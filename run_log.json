@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-17T06:55:45",
-      "status": "ok",
-      "video_id": "O0O-6RhKg18",
-      "title": "Şiddeti Azaltma Kararı #shorts"
-    },
-    {
       "ts": "2026-04-17T10:13:59",
       "status": "ok",
       "video_id": "1ZqBoeGcgFk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RlF8eR_Nd_o",
       "title": "Tatlıses'in Asistanına Büyük İddia #shorts"
+    },
+    {
+      "ts": "2026-04-25T13:23:20",
+      "status": "ok",
+      "video_id": "SJlKOaeO764",
+      "title": "Tutuklu Hakem Elif Karaarslan 1.8 Milyon Kazandı #shorts"
     }
   ]
 }
