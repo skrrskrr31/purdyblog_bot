@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-16T18:55:00",
-      "status": "ok",
-      "video_id": "bIgtRFhpXpc",
-      "title": "Yakışıklı Mısırcı #shorts"
-    },
-    {
       "ts": "2026-04-17T06:55:45",
       "status": "ok",
       "video_id": "O0O-6RhKg18",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "zvW695vD0Qg",
       "title": "MasterChef Şefinin Oğlu Siyasete Girdi #shorts"
+    },
+    {
+      "ts": "2026-04-25T09:52:43",
+      "status": "ok",
+      "video_id": "RlF8eR_Nd_o",
+      "title": "Tatlıses'in Asistanına Büyük İddia #shorts"
     }
   ]
 }
