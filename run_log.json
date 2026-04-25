@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-17T10:13:59",
-      "status": "ok",
-      "video_id": "1ZqBoeGcgFk",
-      "title": "Dizilere reklam yasağı #shorts"
-    },
-    {
       "ts": "2026-04-17T13:49:38",
       "status": "ok",
       "video_id": "b-vU3uQvEVg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "SJlKOaeO764",
       "title": "Tutuklu Hakem Elif Karaarslan 1.8 Milyon Kazandı #shorts"
+    },
+    {
+      "ts": "2026-04-25T15:45:13",
+      "status": "ok",
+      "video_id": "LTb3yBTg5bI",
+      "title": "Ferdi Atuner Vefat Etti #shorts"
     }
   ]
 }
