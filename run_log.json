@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-17T18:39:18",
-      "status": "ok",
-      "video_id": "bktrYczRLvU",
-      "title": "Aleyna Bozok skandalı #shorts"
-    },
-    {
       "ts": "2026-04-18T06:10:13",
       "status": "ok",
       "video_id": "EoFAzUSrxlY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "uxhvizE122I",
       "title": "Kobra Murat yaşamıyor mu? #shorts"
+    },
+    {
+      "ts": "2026-04-26T09:53:39",
+      "status": "ok",
+      "video_id": "gd4JDKX6wS0",
+      "title": "Beste Açar'dan üvey annesine dava #shorts"
     }
   ]
 }
