@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-18T06:10:13",
-      "status": "ok",
-      "video_id": "EoFAzUSrxlY",
-      "title": "Aleyna Bozok Skandalı #shorts"
-    },
-    {
       "ts": "2026-04-18T09:49:02",
       "status": "ok",
       "video_id": "6REfq0UM11M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gd4JDKX6wS0",
       "title": "Beste Açar'dan üvey annesine dava #shorts"
+    },
+    {
+      "ts": "2026-04-26T13:24:38",
+      "status": "ok",
+      "video_id": "LsaxgfZ-lCE",
+      "title": "Tatlıses Mirasını Devlete Bıraktı #shorts"
     }
   ]
 }
