@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-18T13:20:14",
-      "status": "ok",
-      "video_id": "ZGhfWv-o058",
-      "title": "Aleyna Bozok Skandalı #shorts"
-    },
-    {
       "ts": "2026-04-18T15:42:08",
       "status": "ok",
       "video_id": "U6BrhaN-VZY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ExoY35YYceY",
       "title": "Hacı Sabancı Gratis'te #shorts"
+    },
+    {
+      "ts": "2026-04-26T18:33:14",
+      "status": "ok",
+      "video_id": "BEM2k5a29yo",
+      "title": "Gamze Özçelik Operasyon Alesta #shorts"
     }
   ]
 }
