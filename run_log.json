@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-18T09:49:02",
-      "status": "ok",
-      "video_id": "6REfq0UM11M",
-      "title": "Aleyna Bozok Skandalı #shorts"
-    },
-    {
       "ts": "2026-04-18T13:20:14",
       "status": "ok",
       "video_id": "ZGhfWv-o058",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LsaxgfZ-lCE",
       "title": "Tatlıses Mirasını Devlete Bıraktı #shorts"
+    },
+    {
+      "ts": "2026-04-26T15:49:18",
+      "status": "ok",
+      "video_id": "ExoY35YYceY",
+      "title": "Hacı Sabancı Gratis'te #shorts"
     }
   ]
 }
