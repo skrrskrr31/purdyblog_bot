@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-19T06:26:51",
-      "status": "ok",
-      "video_id": "weHbfTK6kbs",
-      "title": "Şiddet içerikli dizilere reklam yasağı #shorts"
-    },
-    {
       "ts": "2026-04-19T09:47:21",
       "status": "ok",
       "video_id": "jbXBpBW8QbY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "y54dtlkbTpM",
       "title": "Ünlü Çift 32 Milyon Dolandırıldı #shorts"
+    },
+    {
+      "ts": "2026-04-27T14:20:17",
+      "status": "ok",
+      "video_id": "CbtrTe08PzI",
+      "title": "Nusret'in Kardeşi Tutuklandı #shorts"
     }
   ]
 }
