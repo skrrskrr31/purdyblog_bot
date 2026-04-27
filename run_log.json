@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-19T09:47:21",
-      "status": "ok",
-      "video_id": "jbXBpBW8QbY",
-      "title": "İrem Helvacıoğlu Boşandı #shorts"
-    },
-    {
       "ts": "2026-04-19T13:20:31",
       "status": "ok",
       "video_id": "OKpzLTujxQE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CbtrTe08PzI",
       "title": "Nusret'in Kardeşi Tutuklandı #shorts"
+    },
+    {
+      "ts": "2026-04-27T16:45:04",
+      "status": "ok",
+      "video_id": "WaZOwXOysKQ",
+      "title": "Murat Övüç Oğluna Veto #shorts"
     }
   ]
 }
