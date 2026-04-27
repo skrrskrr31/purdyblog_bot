@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-18T15:42:08",
-      "status": "ok",
-      "video_id": "U6BrhaN-VZY",
-      "title": "Hanife Gürdal'ın Yeni Aşk #shorts"
-    },
-    {
       "ts": "2026-04-18T18:29:17",
       "status": "ok",
       "video_id": "tKcH5Y-V1Y4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BEM2k5a29yo",
       "title": "Gamze Özçelik Operasyon Alesta #shorts"
+    },
+    {
+      "ts": "2026-04-27T07:31:21",
+      "status": "ok",
+      "video_id": "f0fRvASB-aI",
+      "title": "Ajdar Öfkelendi #shorts"
     }
   ]
 }
