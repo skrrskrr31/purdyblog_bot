@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-19T13:20:31",
-      "status": "ok",
-      "video_id": "OKpzLTujxQE",
-      "title": "Fırat Tanış Diziden Çıkarıldı #shorts"
-    },
-    {
       "ts": "2026-04-19T15:42:11",
       "status": "ok",
       "video_id": "MNqMhw_0_0w",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "WaZOwXOysKQ",
       "title": "Murat Övüç Oğluna Veto #shorts"
+    },
+    {
+      "ts": "2026-04-27T19:01:17",
+      "status": "ok",
+      "video_id": "qKjXZ697ps0",
+      "title": "Selahattin Paşalı'nın ilişki iddiası #shorts"
     }
   ]
 }
