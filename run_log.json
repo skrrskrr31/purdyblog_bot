@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-18T18:29:17",
-      "status": "ok",
-      "video_id": "tKcH5Y-V1Y4",
-      "title": "İrem Helvacıoğlu Boşandı #shorts"
-    },
-    {
       "ts": "2026-04-19T06:26:51",
       "status": "ok",
       "video_id": "weHbfTK6kbs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "f0fRvASB-aI",
       "title": "Ajdar Öfkelendi #shorts"
+    },
+    {
+      "ts": "2026-04-27T11:03:37",
+      "status": "ok",
+      "video_id": "y54dtlkbTpM",
+      "title": "Ünlü Çift 32 Milyon Dolandırıldı #shorts"
     }
   ]
 }
