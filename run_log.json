@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-20T07:13:33",
-      "status": "ok",
-      "video_id": "-UHVA-B61hg",
-      "title": "Ebru Gündeş'in Sürpriz İtirafı #shorts"
-    },
-    {
       "ts": "2026-04-20T10:48:13",
       "status": "ok",
       "video_id": "jZ2R6KgEUK8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9r_94tw9QO0",
       "title": "18 Yaşında 1 Milyonluk Soruya #shorts"
+    },
+    {
+      "ts": "2026-04-28T14:35:18",
+      "status": "ok",
+      "video_id": "evKw6YkjF3M",
+      "title": "Ezgi Kılıç'ın Kıyafeti Tartışılır #shorts"
     }
   ]
 }
