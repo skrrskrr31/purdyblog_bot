@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-19T15:42:11",
-      "status": "ok",
-      "video_id": "MNqMhw_0_0w",
-      "title": "Aleyna Bozok Skandalı #shorts"
-    },
-    {
       "ts": "2026-04-19T18:30:39",
       "status": "ok",
       "video_id": "O2gPfckCYeQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "qKjXZ697ps0",
       "title": "Selahattin Paşalı'nın ilişki iddiası #shorts"
+    },
+    {
+      "ts": "2026-04-28T07:28:35",
+      "status": "ok",
+      "video_id": "JIFtUMFssxU",
+      "title": "Hakkı Bulut'un Evini Gördünüz mü? #shorts"
     }
   ]
 }
