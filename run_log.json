@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-24T18:45:55",
-      "status": "ok",
-      "video_id": "CT8YtSjhBNk",
-      "title": "Ferdi Atuner'in cenazesinde kavga! #shorts"
-    },
-    {
       "ts": "2026-04-25T06:18:07",
       "status": "ok",
       "video_id": "zvW695vD0Qg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MzCAf0gqkP4",
       "title": "Seda Sayan: İstanbul'a Pasaportla Girilmeli #shorts"
+    },
+    {
+      "ts": "2026-04-28T19:14:32",
+      "status": "ok",
+      "video_id": "LN2YAy723Xk",
+      "title": "Fatih Ürek'in Mirası #shorts"
     }
   ]
 }
