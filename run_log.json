@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-20T10:48:13",
-      "status": "ok",
-      "video_id": "jZ2R6KgEUK8",
-      "title": "Kadir Doğulu: Savaşmayın Sevişin #shorts"
-    },
-    {
       "ts": "2026-04-24T18:45:55",
       "status": "ok",
       "video_id": "CT8YtSjhBNk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "evKw6YkjF3M",
       "title": "Ezgi Kılıç'ın Kıyafeti Tartışılır #shorts"
+    },
+    {
+      "ts": "2026-04-28T16:56:41",
+      "status": "ok",
+      "video_id": "MzCAf0gqkP4",
+      "title": "Seda Sayan: İstanbul'a Pasaportla Girilmeli #shorts"
     }
   ]
 }
