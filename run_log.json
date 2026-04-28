@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-19T18:30:39",
-      "status": "ok",
-      "video_id": "O2gPfckCYeQ",
-      "title": "Aleyna Bozok Skandalı #shorts"
-    },
-    {
       "ts": "2026-04-20T07:13:33",
       "status": "ok",
       "video_id": "-UHVA-B61hg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JIFtUMFssxU",
       "title": "Hakkı Bulut'un Evini Gördünüz mü? #shorts"
+    },
+    {
+      "ts": "2026-04-28T11:05:12",
+      "status": "ok",
+      "video_id": "9r_94tw9QO0",
+      "title": "18 Yaşında 1 Milyonluk Soruya #shorts"
     }
   ]
 }
