@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-25T09:52:43",
-      "status": "ok",
-      "video_id": "RlF8eR_Nd_o",
-      "title": "Tatlıses'in Asistanına Büyük İddia #shorts"
-    },
-    {
       "ts": "2026-04-25T13:23:20",
       "status": "ok",
       "video_id": "SJlKOaeO764",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "eBdWgb70iX0",
       "title": "Pelin Karahan ve Bedri Güntay Boşandı #shorts"
+    },
+    {
+      "ts": "2026-04-29T10:55:28",
+      "status": "ok",
+      "video_id": "RhqKfOG8rYg",
+      "title": "Ünlü Şarkıcı Köyüne 10 Milyon Dolar Yatırdı #shorts"
     }
   ]
 }
