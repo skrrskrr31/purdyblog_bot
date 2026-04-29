@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-25T15:45:13",
-      "status": "ok",
-      "video_id": "LTb3yBTg5bI",
-      "title": "Ferdi Atuner Vefat Etti #shorts"
-    },
-    {
       "ts": "2026-04-25T18:32:11",
       "status": "ok",
       "video_id": "PLQQX_BYwvk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "3F0wFeR9qWM",
       "title": "Seren Ay'ın sürpriz akrabası #shorts"
+    },
+    {
+      "ts": "2026-04-29T16:45:05",
+      "status": "ok",
+      "video_id": "zDsEPwNngJM",
+      "title": "Anne Hathaway Dünyanın En Güzel Kadını #shorts"
     }
   ]
 }
