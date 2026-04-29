@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-25T18:32:11",
-      "status": "ok",
-      "video_id": "PLQQX_BYwvk",
-      "title": "Bertuğ Yıldırım nikah fotoğraflarını sildi #shorts"
-    },
-    {
       "ts": "2026-04-26T06:57:00",
       "status": "ok",
       "video_id": "uxhvizE122I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "zDsEPwNngJM",
       "title": "Anne Hathaway Dünyanın En Güzel Kadını #shorts"
+    },
+    {
+      "ts": "2026-04-29T19:04:08",
+      "status": "ok",
+      "video_id": "J1NNBHkKKfY",
+      "title": "Sultana Film Setinde Seray Kaya #shorts"
     }
   ]
 }
