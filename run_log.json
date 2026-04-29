@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-25T13:23:20",
-      "status": "ok",
-      "video_id": "SJlKOaeO764",
-      "title": "Tutuklu Hakem Elif Karaarslan 1.8 Milyon Kazandı #shorts"
-    },
-    {
       "ts": "2026-04-25T15:45:13",
       "status": "ok",
       "video_id": "LTb3yBTg5bI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RhqKfOG8rYg",
       "title": "Ünlü Şarkıcı Köyüne 10 Milyon Dolar Yatırdı #shorts"
+    },
+    {
+      "ts": "2026-04-29T14:23:52",
+      "status": "ok",
+      "video_id": "3F0wFeR9qWM",
+      "title": "Seren Ay'ın sürpriz akrabası #shorts"
     }
   ]
 }
