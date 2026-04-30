@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-26T13:24:38",
-      "status": "ok",
-      "video_id": "LsaxgfZ-lCE",
-      "title": "Tatlıses Mirasını Devlete Bıraktı #shorts"
-    },
-    {
       "ts": "2026-04-26T15:49:18",
       "status": "ok",
       "video_id": "ExoY35YYceY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tqCMpEMqg7E",
       "title": "Enrique Iglesias'a şaşırtan öpücük #shorts"
+    },
+    {
+      "ts": "2026-04-30T14:19:42",
+      "status": "ok",
+      "video_id": "faaN168osx0",
+      "title": "Şafak Sezer'in Değişimi #shorts"
     }
   ]
 }
