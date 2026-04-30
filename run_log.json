@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-26T18:33:14",
-      "status": "ok",
-      "video_id": "BEM2k5a29yo",
-      "title": "Gamze Özçelik Operasyon Alesta #shorts"
-    },
-    {
       "ts": "2026-04-27T07:31:21",
       "status": "ok",
       "video_id": "f0fRvASB-aI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "aBo2_gi-P1E",
       "title": "Barış'ın Küfürü Yayında #shorts"
+    },
+    {
+      "ts": "2026-04-30T19:02:50",
+      "status": "ok",
+      "video_id": "mw30-f_0sUs",
+      "title": "Kadir Doğulu: Savaşmayın Sevişin #shorts"
     }
   ]
 }
