@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-26T09:53:39",
-      "status": "ok",
-      "video_id": "gd4JDKX6wS0",
-      "title": "Beste Açar'dan üvey annesine dava #shorts"
-    },
-    {
       "ts": "2026-04-26T13:24:38",
       "status": "ok",
       "video_id": "LsaxgfZ-lCE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Hl9u8JEHpLQ",
       "title": "Gülşen Tatlıses'in Ani Paylaşımı #shorts"
+    },
+    {
+      "ts": "2026-04-30T10:55:25",
+      "status": "ok",
+      "video_id": "tqCMpEMqg7E",
+      "title": "Enrique Iglesias'a şaşırtan öpücük #shorts"
     }
   ]
 }
