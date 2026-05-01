@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-27T16:45:04",
-      "status": "ok",
-      "video_id": "WaZOwXOysKQ",
-      "title": "Murat Övüç Oğluna Veto #shorts"
-    },
-    {
       "ts": "2026-04-27T19:01:17",
       "status": "ok",
       "video_id": "qKjXZ697ps0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "72qyhvj7T8g",
       "title": "Cem Yılmaz Fas Sultanı mı? #shorts"
+    },
+    {
+      "ts": "2026-05-01T16:01:27",
+      "status": "ok",
+      "video_id": "wvNTqhzYmik",
+      "title": "Civan Nilüfer'i Öptü! #shorts"
     }
   ]
 }
