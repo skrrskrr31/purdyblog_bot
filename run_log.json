@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-27T11:03:37",
-      "status": "ok",
-      "video_id": "y54dtlkbTpM",
-      "title": "Ünlü Çift 32 Milyon Dolandırıldı #shorts"
-    },
-    {
       "ts": "2026-04-27T14:20:17",
       "status": "ok",
       "video_id": "CbtrTe08PzI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XZjxs6T4Mo0",
       "title": "Düşen Yıldız #shorts"
+    },
+    {
+      "ts": "2026-05-01T10:22:47",
+      "status": "ok",
+      "video_id": "tOLbcWbg8h4",
+      "title": "Yılmaz Morgül Ebru Gündeş'e Söveledi #shorts"
     }
   ]
 }
