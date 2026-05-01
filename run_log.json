@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-27T07:31:21",
-      "status": "ok",
-      "video_id": "f0fRvASB-aI",
-      "title": "Ajdar Öfkelendi #shorts"
-    },
-    {
       "ts": "2026-04-27T11:03:37",
       "status": "ok",
       "video_id": "y54dtlkbTpM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mw30-f_0sUs",
       "title": "Kadir Doğulu: Savaşmayın Sevişin #shorts"
+    },
+    {
+      "ts": "2026-05-01T07:23:24",
+      "status": "ok",
+      "video_id": "XZjxs6T4Mo0",
+      "title": "Düşen Yıldız #shorts"
     }
   ]
 }
