@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-27T14:20:17",
-      "status": "ok",
-      "video_id": "CbtrTe08PzI",
-      "title": "Nusret'in Kardeşi Tutuklandı #shorts"
-    },
-    {
       "ts": "2026-04-27T16:45:04",
       "status": "ok",
       "video_id": "WaZOwXOysKQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tOLbcWbg8h4",
       "title": "Yılmaz Morgül Ebru Gündeş'e Söveledi #shorts"
+    },
+    {
+      "ts": "2026-05-01T13:46:14",
+      "status": "ok",
+      "video_id": "72qyhvj7T8g",
+      "title": "Cem Yılmaz Fas Sultanı mı? #shorts"
     }
   ]
 }
