@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-28T11:05:12",
-      "status": "ok",
-      "video_id": "9r_94tw9QO0",
-      "title": "18 Yaşında 1 Milyonluk Soruya #shorts"
-    },
-    {
       "ts": "2026-04-28T14:35:18",
       "status": "ok",
       "video_id": "evKw6YkjF3M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0iXEifY_65w",
       "title": "Yakışıklı Mısırcı Fatma Soydaş'ı reddetti #shorts"
+    },
+    {
+      "ts": "2026-05-02T13:39:25",
+      "status": "ok",
+      "video_id": "NFYnfan66Sg",
+      "title": "Ferdi Atuner'in cenazesinde gerginlik! #shorts"
     }
   ]
 }
