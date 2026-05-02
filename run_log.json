@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-28T16:56:41",
-      "status": "ok",
-      "video_id": "MzCAf0gqkP4",
-      "title": "Seda Sayan: İstanbul'a Pasaportla Girilmeli #shorts"
-    },
-    {
       "ts": "2026-04-28T19:14:32",
       "status": "ok",
       "video_id": "LN2YAy723Xk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cOpGG6RiHkQ",
       "title": "Eski Hakem Elif Karaarslan'ın Şaşırtan Geliri #shorts"
+    },
+    {
+      "ts": "2026-05-02T18:39:04",
+      "status": "ok",
+      "video_id": "apBIwrr8a14",
+      "title": "Bertuğ Yıldırım nikah fotoğraflarını sildi #shorts"
     }
   ]
 }
