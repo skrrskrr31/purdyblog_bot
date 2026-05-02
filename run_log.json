@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-28T14:35:18",
-      "status": "ok",
-      "video_id": "evKw6YkjF3M",
-      "title": "Ezgi Kılıç'ın Kıyafeti Tartışılır #shorts"
-    },
-    {
       "ts": "2026-04-28T16:56:41",
       "status": "ok",
       "video_id": "MzCAf0gqkP4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NFYnfan66Sg",
       "title": "Ferdi Atuner'in cenazesinde gerginlik! #shorts"
+    },
+    {
+      "ts": "2026-05-02T15:53:03",
+      "status": "ok",
+      "video_id": "cOpGG6RiHkQ",
+      "title": "Eski Hakem Elif Karaarslan'ın Şaşırtan Geliri #shorts"
     }
   ]
 }
