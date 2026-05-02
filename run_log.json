@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-28T07:28:35",
-      "status": "ok",
-      "video_id": "JIFtUMFssxU",
-      "title": "Hakkı Bulut'un Evini Gördünüz mü? #shorts"
-    },
-    {
       "ts": "2026-04-28T11:05:12",
       "status": "ok",
       "video_id": "9r_94tw9QO0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xwnhF0TGZDw",
       "title": "Mehmet Şef'in Oğlu Siyasete Girdi #shorts"
+    },
+    {
+      "ts": "2026-05-02T09:57:47",
+      "status": "ok",
+      "video_id": "0iXEifY_65w",
+      "title": "Yakışıklı Mısırcı Fatma Soydaş'ı reddetti #shorts"
     }
   ]
 }
