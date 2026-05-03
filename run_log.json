@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-29T07:19:31",
-      "status": "ok",
-      "video_id": "eBdWgb70iX0",
-      "title": "Pelin Karahan ve Bedri Güntay Boşandı #shorts"
-    },
-    {
       "ts": "2026-04-29T10:55:28",
       "status": "ok",
       "video_id": "RhqKfOG8rYg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YumtTbESDQo",
       "title": "Fatma Soydaş Skandal Açıklama #shorts"
+    },
+    {
+      "ts": "2026-05-03T10:04:01",
+      "status": "ok",
+      "video_id": "PE-DWCAhk3M",
+      "title": "Sabancı'nın surpriz alışverişi #shorts"
     }
   ]
 }
