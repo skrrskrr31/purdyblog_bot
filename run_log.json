@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-29T14:23:52",
-      "status": "ok",
-      "video_id": "3F0wFeR9qWM",
-      "title": "Seren Ay'ın sürpriz akrabası #shorts"
-    },
-    {
       "ts": "2026-04-29T16:45:05",
       "status": "ok",
       "video_id": "zDsEPwNngJM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0r-apsyCJTg",
       "title": "Shakira 2 Milyon Hayranla Pique'ye Küfür Etti #shorts"
+    },
+    {
+      "ts": "2026-05-03T15:53:21",
+      "status": "ok",
+      "video_id": "mkUyN31JqSs",
+      "title": "Devrim Özkan'dan Açıklama #shorts"
     }
   ]
 }
