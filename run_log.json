@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-28T19:14:32",
-      "status": "ok",
-      "video_id": "LN2YAy723Xk",
-      "title": "Fatih Ürek'in Mirası #shorts"
-    },
-    {
       "ts": "2026-04-29T07:19:31",
       "status": "ok",
       "video_id": "eBdWgb70iX0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "apBIwrr8a14",
       "title": "Bertuğ Yıldırım nikah fotoğraflarını sildi #shorts"
+    },
+    {
+      "ts": "2026-05-03T07:14:55",
+      "status": "ok",
+      "video_id": "YumtTbESDQo",
+      "title": "Fatma Soydaş Skandal Açıklama #shorts"
     }
   ]
 }
