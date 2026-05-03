@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-29T10:55:28",
-      "status": "ok",
-      "video_id": "RhqKfOG8rYg",
-      "title": "Ünlü Şarkıcı Köyüne 10 Milyon Dolar Yatırdı #shorts"
-    },
-    {
       "ts": "2026-04-29T14:23:52",
       "status": "ok",
       "video_id": "3F0wFeR9qWM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "PE-DWCAhk3M",
       "title": "Sabancı'nın surpriz alışverişi #shorts"
+    },
+    {
+      "ts": "2026-05-03T13:40:53",
+      "status": "ok",
+      "video_id": "0r-apsyCJTg",
+      "title": "Shakira 2 Milyon Hayranla Pique'ye Küfür Etti #shorts"
     }
   ]
 }
