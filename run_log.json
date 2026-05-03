@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-29T16:45:05",
-      "status": "ok",
-      "video_id": "zDsEPwNngJM",
-      "title": "Anne Hathaway Dünyanın En Güzel Kadını #shorts"
-    },
-    {
       "ts": "2026-04-29T19:04:08",
       "status": "ok",
       "video_id": "J1NNBHkKKfY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mkUyN31JqSs",
       "title": "Devrim Özkan'dan Açıklama #shorts"
+    },
+    {
+      "ts": "2026-05-03T18:39:30",
+      "status": "ok",
+      "video_id": "Y2d3WYwsoEA",
+      "title": "TV Spikerinin Kırmızı Ceket #shorts"
     }
   ]
 }
