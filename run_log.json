@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-29T19:04:08",
-      "status": "ok",
-      "video_id": "J1NNBHkKKfY",
-      "title": "Sultana Film Setinde Seray Kaya #shorts"
-    },
-    {
       "ts": "2026-04-30T07:25:23",
       "status": "ok",
       "video_id": "Hl9u8JEHpLQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Y2d3WYwsoEA",
       "title": "TV Spikerinin Kırmızı Ceket #shorts"
+    },
+    {
+      "ts": "2026-05-04T07:44:43",
+      "status": "ok",
+      "video_id": "6hv-mHF21uQ",
+      "title": "Bayhan Hastaneye Kaldırıldı #shorts"
     }
   ]
 }
