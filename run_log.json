@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-30T14:19:42",
-      "status": "ok",
-      "video_id": "faaN168osx0",
-      "title": "Şafak Sezer'in Değişimi #shorts"
-    },
-    {
       "ts": "2026-04-30T16:24:09",
       "status": "ok",
       "video_id": "aBo2_gi-P1E",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "U1FeAQMaHlg",
       "title": "Hakkı Bulut'un Mütevazı Evi #shorts"
+    },
+    {
+      "ts": "2026-05-04T16:51:27",
+      "status": "ok",
+      "video_id": "Os0GwTNEvHA",
+      "title": "Gökhan Kırdar'ın İYİ Parti konseri #shorts"
     }
   ]
 }
