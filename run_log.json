@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-04-30T16:24:09",
-      "status": "ok",
-      "video_id": "aBo2_gi-P1E",
-      "title": "Barış'ın Küfürü Yayında #shorts"
-    },
-    {
       "ts": "2026-04-30T19:02:50",
       "status": "ok",
       "video_id": "mw30-f_0sUs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Os0GwTNEvHA",
       "title": "Gökhan Kırdar'ın İYİ Parti konseri #shorts"
+    },
+    {
+      "ts": "2026-05-04T19:08:57",
+      "status": "ok",
+      "video_id": "DO4DAistYB0",
+      "title": "18 yaşındaki yarışmacı 1 milyon TL'lik soruyu açtırdı #shorts"
     }
   ]
 }
