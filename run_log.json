@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-01T10:22:47",
-      "status": "ok",
-      "video_id": "tOLbcWbg8h4",
-      "title": "Yılmaz Morgül Ebru Gündeş'e Söveledi #shorts"
-    },
-    {
       "ts": "2026-05-01T13:46:14",
       "status": "ok",
       "video_id": "72qyhvj7T8g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RkL_DdHQyjI",
       "title": "Seda Sayan: İstanbul'a Pasaportla Girmeli! #shorts"
+    },
+    {
+      "ts": "2026-05-05T14:16:41",
+      "status": "ok",
+      "video_id": "FUB1gxqTJ3o",
+      "title": "Kıskanmak Dizisi Final #shorts"
     }
   ]
 }
