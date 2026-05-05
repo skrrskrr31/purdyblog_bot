@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-01T07:23:24",
-      "status": "ok",
-      "video_id": "XZjxs6T4Mo0",
-      "title": "Düşen Yıldız #shorts"
-    },
-    {
       "ts": "2026-05-01T10:22:47",
       "status": "ok",
       "video_id": "tOLbcWbg8h4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vYZp73xXeJk",
       "title": "Murat Övüç Oğluyla Yollar Ayrıldı #shorts"
+    },
+    {
+      "ts": "2026-05-05T10:46:01",
+      "status": "ok",
+      "video_id": "RkL_DdHQyjI",
+      "title": "Seda Sayan: İstanbul'a Pasaportla Girmeli! #shorts"
     }
   ]
 }
