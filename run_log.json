@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-01T13:46:14",
-      "status": "ok",
-      "video_id": "72qyhvj7T8g",
-      "title": "Cem Yılmaz Fas Sultanı mı? #shorts"
-    },
-    {
       "ts": "2026-05-01T16:01:27",
       "status": "ok",
       "video_id": "wvNTqhzYmik",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "FUB1gxqTJ3o",
       "title": "Kıskanmak Dizisi Final #shorts"
+    },
+    {
+      "ts": "2026-05-05T16:28:04",
+      "status": "ok",
+      "video_id": "xM8ryF80XP8",
+      "title": "Ünlü Şarkıcı Köyüne 10 Milyon Dolar Yatırdı #shorts"
     }
   ]
 }
