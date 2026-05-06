@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-02T13:39:25",
-      "status": "ok",
-      "video_id": "NFYnfan66Sg",
-      "title": "Ferdi Atuner'in cenazesinde gerginlik! #shorts"
-    },
-    {
       "ts": "2026-05-02T15:53:03",
       "status": "ok",
       "video_id": "cOpGG6RiHkQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "WSDAE9NqNJY",
       "title": "Defne Samyeli sahnedeki iddialı görünümü #shorts"
+    },
+    {
+      "ts": "2026-05-06T14:36:13",
+      "status": "ok",
+      "video_id": "xiaQUqn2rYs",
+      "title": "Pelin Karahan'ın Kavak Yelleri'ndeki Gömülme Sahnesi #shorts"
     }
   ]
 }
