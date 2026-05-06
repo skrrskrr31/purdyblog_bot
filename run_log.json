@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-02T09:57:47",
-      "status": "ok",
-      "video_id": "0iXEifY_65w",
-      "title": "Yakışıklı Mısırcı Fatma Soydaş'ı reddetti #shorts"
-    },
-    {
       "ts": "2026-05-02T13:39:25",
       "status": "ok",
       "video_id": "NFYnfan66Sg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "L1xDCx1nrVY",
       "title": "Ezgi Kılıç'ın kıyafeti tartışma yarattı #shorts"
+    },
+    {
+      "ts": "2026-05-06T11:06:57",
+      "status": "ok",
+      "video_id": "WSDAE9NqNJY",
+      "title": "Defne Samyeli sahnedeki iddialı görünümü #shorts"
     }
   ]
 }
