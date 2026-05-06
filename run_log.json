@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-02T15:53:03",
-      "status": "ok",
-      "video_id": "cOpGG6RiHkQ",
-      "title": "Eski Hakem Elif Karaarslan'ın Şaşırtan Geliri #shorts"
-    },
-    {
       "ts": "2026-05-02T18:39:04",
       "status": "ok",
       "video_id": "apBIwrr8a14",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xiaQUqn2rYs",
       "title": "Pelin Karahan'ın Kavak Yelleri'ndeki Gömülme Sahnesi #shorts"
+    },
+    {
+      "ts": "2026-05-06T16:46:38",
+      "status": "ok",
+      "video_id": "IYaMjvNJAcc",
+      "title": "Pelin Karahan ve Bedri Güntay Boşandı #shorts"
     }
   ]
 }
