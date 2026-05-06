@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-02T18:39:04",
-      "status": "ok",
-      "video_id": "apBIwrr8a14",
-      "title": "Bertuğ Yıldırım nikah fotoğraflarını sildi #shorts"
-    },
-    {
       "ts": "2026-05-03T07:14:55",
       "status": "ok",
       "video_id": "YumtTbESDQo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "IYaMjvNJAcc",
       "title": "Pelin Karahan ve Bedri Güntay Boşandı #shorts"
+    },
+    {
+      "ts": "2026-05-06T19:16:36",
+      "status": "ok",
+      "video_id": "cE6ZwpA-q-g",
+      "title": "Seren Ay Çetin'in şok açıklaması #shorts"
     }
   ]
 }
