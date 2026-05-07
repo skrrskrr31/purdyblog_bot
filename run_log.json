@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-03T10:04:01",
-      "status": "ok",
-      "video_id": "PE-DWCAhk3M",
-      "title": "Sabancı'nın surpriz alışverişi #shorts"
-    },
-    {
       "ts": "2026-05-03T13:40:53",
       "status": "ok",
       "video_id": "0r-apsyCJTg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MhMiF5yCm9g",
       "title": "Enrique Iglesias'a şok öpücük #shorts"
+    },
+    {
+      "ts": "2026-05-07T11:09:32",
+      "status": "ok",
+      "video_id": "Ljuj_l3irVs",
+      "title": "Su Burcu Yazgı Coşkun'un Kayalık Pozları #shorts"
     }
   ]
 }
