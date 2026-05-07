@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-03T18:39:30",
-      "status": "ok",
-      "video_id": "Y2d3WYwsoEA",
-      "title": "TV Spikerinin Kırmızı Ceket #shorts"
-    },
-    {
       "ts": "2026-05-04T07:44:43",
       "status": "ok",
       "video_id": "6hv-mHF21uQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "h0pH1iNvkxI",
       "title": "Düşüşün Hikayesi #shorts"
+    },
+    {
+      "ts": "2026-05-07T19:21:39",
+      "status": "ok",
+      "video_id": "fbyDQRjipaI",
+      "title": "Cem Yılmaz Fas Sultanı'na benzemiş #shorts"
     }
   ]
 }
