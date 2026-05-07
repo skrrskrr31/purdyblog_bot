@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-03T07:14:55",
-      "status": "ok",
-      "video_id": "YumtTbESDQo",
-      "title": "Fatma Soydaş Skandal Açıklama #shorts"
-    },
-    {
       "ts": "2026-05-03T10:04:01",
       "status": "ok",
       "video_id": "PE-DWCAhk3M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cE6ZwpA-q-g",
       "title": "Seren Ay Çetin'in şok açıklaması #shorts"
+    },
+    {
+      "ts": "2026-05-07T07:39:34",
+      "status": "ok",
+      "video_id": "MhMiF5yCm9g",
+      "title": "Enrique Iglesias'a şok öpücük #shorts"
     }
   ]
 }
