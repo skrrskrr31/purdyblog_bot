@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-03T15:53:21",
-      "status": "ok",
-      "video_id": "mkUyN31JqSs",
-      "title": "Devrim Özkan'dan Açıklama #shorts"
-    },
-    {
       "ts": "2026-05-03T18:39:30",
       "status": "ok",
       "video_id": "Y2d3WYwsoEA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "7GSc4u5xwNg",
       "title": "Uzak Şehir'de ayrılık! #shorts"
+    },
+    {
+      "ts": "2026-05-07T16:55:55",
+      "status": "ok",
+      "video_id": "h0pH1iNvkxI",
+      "title": "Düşüşün Hikayesi #shorts"
     }
   ]
 }
