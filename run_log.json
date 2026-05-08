@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-04T07:44:43",
-      "status": "ok",
-      "video_id": "6hv-mHF21uQ",
-      "title": "Bayhan Hastaneye Kaldırıldı #shorts"
-    },
-    {
       "ts": "2026-05-04T11:04:48",
       "status": "ok",
       "video_id": "FZaDPLX9heM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "fbyDQRjipaI",
       "title": "Cem Yılmaz Fas Sultanı'na benzemiş #shorts"
+    },
+    {
+      "ts": "2026-05-08T06:28:41",
+      "status": "ok",
+      "video_id": "OgQWpDebqUY",
+      "title": "İbrahim Tatlıses'in Yeni Projesi #shorts"
     }
   ]
 }
