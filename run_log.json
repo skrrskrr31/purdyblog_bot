@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-04T19:08:57",
-      "status": "ok",
-      "video_id": "DO4DAistYB0",
-      "title": "18 yaşındaki yarışmacı 1 milyon TL'lik soruyu açtırdı #shorts"
-    },
-    {
       "ts": "2026-05-05T07:13:20",
       "status": "ok",
       "video_id": "vYZp73xXeJk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xnHL-oFqzQc",
       "title": "Delikanlı dizisi final yapıyor #shorts"
+    },
+    {
+      "ts": "2026-05-08T19:00:17",
+      "status": "ok",
+      "video_id": "q9q7yKmExBA",
+      "title": "Şebnem Ferah'ın İkinci Konseri! #shorts"
     }
   ]
 }
