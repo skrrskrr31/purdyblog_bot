@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-04T11:04:48",
-      "status": "ok",
-      "video_id": "FZaDPLX9heM",
-      "title": "Nesrin Cavadzade Evlendi! #shorts"
-    },
-    {
       "ts": "2026-05-04T14:23:00",
       "status": "ok",
       "video_id": "U1FeAQMaHlg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OgQWpDebqUY",
       "title": "İbrahim Tatlıses'in Yeni Projesi #shorts"
+    },
+    {
+      "ts": "2026-05-08T10:24:01",
+      "status": "ok",
+      "video_id": "YoAnIzhN_g8",
+      "title": "Nuri Alço'ya ilginç sözler #shorts"
     }
   ]
 }
