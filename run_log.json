@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-04T16:51:27",
-      "status": "ok",
-      "video_id": "Os0GwTNEvHA",
-      "title": "Gökhan Kırdar'ın İYİ Parti konseri #shorts"
-    },
-    {
       "ts": "2026-05-04T19:08:57",
       "status": "ok",
       "video_id": "DO4DAistYB0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "5KAoYbH341o",
       "title": "Tatlıses Kardeşler Çatıştı #shorts"
+    },
+    {
+      "ts": "2026-05-08T16:18:32",
+      "status": "ok",
+      "video_id": "xnHL-oFqzQc",
+      "title": "Delikanlı dizisi final yapıyor #shorts"
     }
   ]
 }
