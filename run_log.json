@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-04T14:23:00",
-      "status": "ok",
-      "video_id": "U1FeAQMaHlg",
-      "title": "Hakkı Bulut'un Mütevazı Evi #shorts"
-    },
-    {
       "ts": "2026-05-04T16:51:27",
       "status": "ok",
       "video_id": "Os0GwTNEvHA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YoAnIzhN_g8",
       "title": "Nuri Alço'ya ilginç sözler #shorts"
+    },
+    {
+      "ts": "2026-05-08T14:08:14",
+      "status": "ok",
+      "video_id": "5KAoYbH341o",
+      "title": "Tatlıses Kardeşler Çatıştı #shorts"
     }
   ]
 }
