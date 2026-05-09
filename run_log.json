@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-05T07:13:20",
-      "status": "ok",
-      "video_id": "vYZp73xXeJk",
-      "title": "Murat Övüç Oğluyla Yollar Ayrıldı #shorts"
-    },
-    {
       "ts": "2026-05-05T10:46:01",
       "status": "ok",
       "video_id": "RkL_DdHQyjI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "q9q7yKmExBA",
       "title": "Şebnem Ferah'ın İkinci Konseri! #shorts"
+    },
+    {
+      "ts": "2026-05-09T07:04:09",
+      "status": "ok",
+      "video_id": "QSWbScEcu1o",
+      "title": "Yakışıklı Mısırcı'nın şaşırtan kararı #shorts"
     }
   ]
 }
