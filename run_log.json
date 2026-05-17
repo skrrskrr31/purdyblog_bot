@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-05T19:01:06",
-      "status": "ok",
-      "video_id": "xxCU2j2G2yU",
-      "title": "Eda Sakız ve Burak Bulut Boşanıyor #shorts"
-    },
-    {
       "ts": "2026-05-06T07:32:45",
       "status": "ok",
       "video_id": "L1xDCx1nrVY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mx0TUBDl730",
       "title": "Kocaeli TV Spikeri Ecem Ercan'ın Cesur Paylaşımları #shorts"
+    },
+    {
+      "ts": "2026-05-17T13:50:28",
+      "status": "ok",
+      "video_id": "KZVK3A9os4A",
+      "title": "Ajdar Seyircilere Çıktı #shorts"
     }
   ]
 }
