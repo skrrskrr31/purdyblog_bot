@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-05T10:46:01",
-      "status": "ok",
-      "video_id": "RkL_DdHQyjI",
-      "title": "Seda Sayan: İstanbul'a Pasaportla Girmeli! #shorts"
-    },
-    {
       "ts": "2026-05-05T14:16:41",
       "status": "ok",
       "video_id": "FUB1gxqTJ3o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "QSWbScEcu1o",
       "title": "Yakışıklı Mısırcı'nın şaşırtan kararı #shorts"
+    },
+    {
+      "ts": "2026-05-17T06:47:45",
+      "status": "ok",
+      "video_id": "du83p2fQTps",
+      "title": "Sevcan Orhan Evleniyor! #shorts"
     }
   ]
 }
