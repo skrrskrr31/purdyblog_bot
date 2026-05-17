@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-05T14:16:41",
-      "status": "ok",
-      "video_id": "FUB1gxqTJ3o",
-      "title": "Kıskanmak Dizisi Final #shorts"
-    },
-    {
       "ts": "2026-05-05T16:28:04",
       "status": "ok",
       "video_id": "xM8ryF80XP8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "du83p2fQTps",
       "title": "Sevcan Orhan Evleniyor! #shorts"
+    },
+    {
+      "ts": "2026-05-17T07:30:50",
+      "status": "ok",
+      "video_id": "P6ZURgK24Kg",
+      "title": "Erkan ve Cansu Boşandı #shorts"
     }
   ]
 }
