@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-06T11:06:57",
-      "status": "ok",
-      "video_id": "WSDAE9NqNJY",
-      "title": "Defne Samyeli sahnedeki iddialı görünümü #shorts"
-    },
-    {
       "ts": "2026-05-06T14:36:13",
       "status": "ok",
       "video_id": "xiaQUqn2rYs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vvO9eQXq--8",
       "title": "Cemil İpekçi Vasiyetini Açıkladı #shorts"
+    },
+    {
+      "ts": "2026-05-17T18:48:00",
+      "status": "ok",
+      "video_id": "vc-oS3RfYiU",
+      "title": "Fatma Soydaş Skandal Açıklamalar #shorts"
     }
   ]
 }
