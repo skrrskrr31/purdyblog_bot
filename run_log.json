@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-07T11:09:32",
-      "status": "ok",
-      "video_id": "Ljuj_l3irVs",
-      "title": "Su Burcu Yazgı Coşkun'un Kayalık Pozları #shorts"
-    },
-    {
       "ts": "2026-05-07T14:39:32",
       "status": "ok",
       "video_id": "7GSc4u5xwNg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "6wDv_W7fZvQ",
       "title": "Oktay Çubuk Hayatını Kazandı #shorts"
+    },
+    {
+      "ts": "2026-05-18T19:19:48",
+      "status": "ok",
+      "video_id": "LEmFBoLk2wM",
+      "title": "Stavros Floros'a Kötü Haber #shorts"
     }
   ]
 }
