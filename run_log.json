@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-06T19:16:36",
-      "status": "ok",
-      "video_id": "cE6ZwpA-q-g",
-      "title": "Seren Ay Çetin'in şok açıklaması #shorts"
-    },
-    {
       "ts": "2026-05-07T07:39:34",
       "status": "ok",
       "video_id": "MhMiF5yCm9g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xEhQY1ZQWNQ",
       "title": "Survivor Stavros'un Son Hali #shorts"
+    },
+    {
+      "ts": "2026-05-18T15:51:46",
+      "status": "ok",
+      "video_id": "nvuNkAmFzd0",
+      "title": "Melek Bal'dan şok açıklama #shorts"
     }
   ]
 }
