@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-06T16:46:38",
-      "status": "ok",
-      "video_id": "IYaMjvNJAcc",
-      "title": "Pelin Karahan ve Bedri Güntay Boşandı #shorts"
-    },
-    {
       "ts": "2026-05-06T19:16:36",
       "status": "ok",
       "video_id": "cE6ZwpA-q-g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "zU4p1gmm4Ps",
       "title": "Umut Akyürek'in kızının tatsız TikTok videosu #shorts"
+    },
+    {
+      "ts": "2026-05-18T12:30:47",
+      "status": "ok",
+      "video_id": "xEhQY1ZQWNQ",
+      "title": "Survivor Stavros'un Son Hali #shorts"
     }
   ]
 }
