@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-07T07:39:34",
-      "status": "ok",
-      "video_id": "MhMiF5yCm9g",
-      "title": "Enrique Iglesias'a şok öpücük #shorts"
-    },
-    {
       "ts": "2026-05-07T11:09:32",
       "status": "ok",
       "video_id": "Ljuj_l3irVs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "nvuNkAmFzd0",
       "title": "Melek Bal'dan şok açıklama #shorts"
+    },
+    {
+      "ts": "2026-05-18T17:31:36",
+      "status": "ok",
+      "video_id": "6wDv_W7fZvQ",
+      "title": "Oktay Çubuk Hayatını Kazandı #shorts"
     }
   ]
 }
