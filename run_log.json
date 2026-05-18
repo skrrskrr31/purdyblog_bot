@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-06T14:36:13",
-      "status": "ok",
-      "video_id": "xiaQUqn2rYs",
-      "title": "Pelin Karahan'ın Kavak Yelleri'ndeki Gömülme Sahnesi #shorts"
-    },
-    {
       "ts": "2026-05-06T16:46:38",
       "status": "ok",
       "video_id": "IYaMjvNJAcc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vc-oS3RfYiU",
       "title": "Fatma Soydaş Skandal Açıklamalar #shorts"
+    },
+    {
+      "ts": "2026-05-18T08:41:40",
+      "status": "ok",
+      "video_id": "zU4p1gmm4Ps",
+      "title": "Umut Akyürek'in kızının tatsız TikTok videosu #shorts"
     }
   ]
 }
