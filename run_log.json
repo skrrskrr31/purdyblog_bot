@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-07T16:55:55",
-      "status": "ok",
-      "video_id": "h0pH1iNvkxI",
-      "title": "Düşüşün Hikayesi #shorts"
-    },
-    {
       "ts": "2026-05-07T19:21:39",
       "status": "ok",
       "video_id": "fbyDQRjipaI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "nUBv4OPDCbg",
       "title": "Kadir İnanır'ın Sağlık Durumu #shorts"
+    },
+    {
+      "ts": "2026-05-19T12:10:39",
+      "status": "ok",
+      "video_id": "6qY-a33p9kg",
+      "title": "Sezen Aksu ve Nazan Öncel Düştü! #shorts"
     }
   ]
 }
