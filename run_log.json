@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-07T19:21:39",
-      "status": "ok",
-      "video_id": "fbyDQRjipaI",
-      "title": "Cem Yılmaz Fas Sultanı'na benzemiş #shorts"
-    },
-    {
       "ts": "2026-05-08T06:28:41",
       "status": "ok",
       "video_id": "OgQWpDebqUY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "6qY-a33p9kg",
       "title": "Sezen Aksu ve Nazan Öncel Düştü! #shorts"
+    },
+    {
+      "ts": "2026-05-19T15:42:43",
+      "status": "ok",
+      "video_id": "MZBvssWLvWs",
+      "title": "Yaşar İpek 3 Yıl Hapis #shorts"
     }
   ]
 }
