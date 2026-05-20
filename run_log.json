@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-17T06:47:45",
-      "status": "ok",
-      "video_id": "du83p2fQTps",
-      "title": "Sevcan Orhan Evleniyor! #shorts"
-    },
-    {
       "ts": "2026-05-17T07:30:50",
       "status": "ok",
       "video_id": "P6ZURgK24Kg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xChvt5L8i9k",
       "title": "Beyza Sercan'a Gitti! #shorts"
+    },
+    {
+      "ts": "2026-05-20T19:58:31",
+      "status": "ok",
+      "video_id": "tjrzC0MP438",
+      "title": "Acun'u Çileden Çıkaran An #shorts"
     }
   ]
 }
