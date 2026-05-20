@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-08T14:08:14",
-      "status": "ok",
-      "video_id": "5KAoYbH341o",
-      "title": "Tatlıses Kardeşler Çatıştı #shorts"
-    },
-    {
       "ts": "2026-05-08T16:18:32",
       "status": "ok",
       "video_id": "xnHL-oFqzQc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hmNEXML1QSM",
       "title": "Alper Çankaya Uzak Şehir'den Ayrılıyor #shorts"
+    },
+    {
+      "ts": "2026-05-20T08:21:34",
+      "status": "ok",
+      "video_id": "ufHx7kz1PBw",
+      "title": "Songül Öden'in Gümüş'teki öpüşme #shorts"
     }
   ]
 }
