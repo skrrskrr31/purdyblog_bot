@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-08T19:00:17",
-      "status": "ok",
-      "video_id": "q9q7yKmExBA",
-      "title": "Şebnem Ferah'ın İkinci Konseri! #shorts"
-    },
-    {
       "ts": "2026-05-09T07:04:09",
       "status": "ok",
       "video_id": "QSWbScEcu1o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "T7mJR9ZjczM",
       "title": "Selena Gomez +18 Filmi #shorts"
+    },
+    {
+      "ts": "2026-05-20T15:49:54",
+      "status": "ok",
+      "video_id": "4DRe-5j4Hww",
+      "title": "Miray Daner Nişanlanıyor #shorts"
     }
   ]
 }
