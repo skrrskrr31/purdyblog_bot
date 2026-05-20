@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-09T07:04:09",
-      "status": "ok",
-      "video_id": "QSWbScEcu1o",
-      "title": "Yakışıklı Mısırcı'nın şaşırtan kararı #shorts"
-    },
-    {
       "ts": "2026-05-17T06:47:45",
       "status": "ok",
       "video_id": "du83p2fQTps",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "4DRe-5j4Hww",
       "title": "Miray Daner Nişanlanıyor #shorts"
+    },
+    {
+      "ts": "2026-05-20T17:55:23",
+      "status": "ok",
+      "video_id": "xChvt5L8i9k",
+      "title": "Beyza Sercan'a Gitti! #shorts"
     }
   ]
 }
