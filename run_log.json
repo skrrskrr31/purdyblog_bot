@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-17T07:30:50",
-      "status": "ok",
-      "video_id": "P6ZURgK24Kg",
-      "title": "Erkan ve Cansu Boşandı #shorts"
-    },
-    {
       "ts": "2026-05-17T10:22:07",
       "status": "ok",
       "video_id": "mx0TUBDl730",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tjrzC0MP438",
       "title": "Acun'u Çileden Çıkaran An #shorts"
+    },
+    {
+      "ts": "2026-05-21T08:29:06",
+      "status": "ok",
+      "video_id": "O4cIf20pj4I",
+      "title": "Ahu Tuğba'nın Mirası #shorts"
     }
   ]
 }
