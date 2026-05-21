@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-17T10:22:07",
-      "status": "ok",
-      "video_id": "mx0TUBDl730",
-      "title": "Kocaeli TV Spikeri Ecem Ercan'ın Cesur Paylaşımları #shorts"
-    },
-    {
       "ts": "2026-05-17T13:50:28",
       "status": "ok",
       "video_id": "KZVK3A9os4A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "O4cIf20pj4I",
       "title": "Ahu Tuğba'nın Mirası #shorts"
+    },
+    {
+      "ts": "2026-05-21T12:13:43",
+      "status": "ok",
+      "video_id": "UGgp23op5Dk",
+      "title": "Acun'dan Sercan'a imalı sözler #shorts"
     }
   ]
 }
