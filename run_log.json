@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-17T18:48:00",
-      "status": "ok",
-      "video_id": "vc-oS3RfYiU",
-      "title": "Fatma Soydaş Skandal Açıklamalar #shorts"
-    },
-    {
       "ts": "2026-05-18T08:41:40",
       "status": "ok",
       "video_id": "zU4p1gmm4Ps",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "azXZ6YkN5H8",
       "title": "Kadir İnanır Entübe Edildi #shorts"
+    },
+    {
+      "ts": "2026-05-21T19:40:09",
+      "status": "ok",
+      "video_id": "8Qwr4eeC8V4",
+      "title": "Survivor'da Skandal! #shorts"
     }
   ]
 }
