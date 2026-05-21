@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-17T13:50:28",
-      "status": "ok",
-      "video_id": "KZVK3A9os4A",
-      "title": "Ajdar Seyircilere Çıktı #shorts"
-    },
-    {
       "ts": "2026-05-17T16:02:09",
       "status": "ok",
       "video_id": "vvO9eQXq--8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "UGgp23op5Dk",
       "title": "Acun'dan Sercan'a imalı sözler #shorts"
+    },
+    {
+      "ts": "2026-05-21T15:47:00",
+      "status": "ok",
+      "video_id": "OvB24PLPpW4",
+      "title": "Temizlikçi 150bin tl maaş alıyor #shorts"
     }
   ]
 }
