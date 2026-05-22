@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-18T12:30:47",
-      "status": "ok",
-      "video_id": "xEhQY1ZQWNQ",
-      "title": "Survivor Stavros'un Son Hali #shorts"
-    },
-    {
       "ts": "2026-05-18T15:51:46",
       "status": "ok",
       "video_id": "nvuNkAmFzd0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "iVecFX8KupY",
       "title": "Müge Anlı Şoke Oldu! #shorts"
+    },
+    {
+      "ts": "2026-05-22T11:44:32",
+      "status": "ok",
+      "video_id": "8KrRvBURd04",
+      "title": "Kadir İnanır Hastanede #shorts"
     }
   ]
 }
