@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-18T08:41:40",
-      "status": "ok",
-      "video_id": "zU4p1gmm4Ps",
-      "title": "Umut Akyürek'in kızının tatsız TikTok videosu #shorts"
-    },
-    {
       "ts": "2026-05-18T12:30:47",
       "status": "ok",
       "video_id": "xEhQY1ZQWNQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8Qwr4eeC8V4",
       "title": "Survivor'da Skandal! #shorts"
+    },
+    {
+      "ts": "2026-05-22T08:18:41",
+      "status": "ok",
+      "video_id": "iVecFX8KupY",
+      "title": "Müge Anlı Şoke Oldu! #shorts"
     }
   ]
 }
