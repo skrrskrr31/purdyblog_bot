@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-18T15:51:46",
-      "status": "ok",
-      "video_id": "nvuNkAmFzd0",
-      "title": "Melek Bal'dan şok açıklama #shorts"
-    },
-    {
       "ts": "2026-05-18T17:31:36",
       "status": "ok",
       "video_id": "6wDv_W7fZvQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8KrRvBURd04",
       "title": "Kadir İnanır Hastanede #shorts"
+    },
+    {
+      "ts": "2026-05-22T14:56:24",
+      "status": "ok",
+      "video_id": "U8caJOTByvw",
+      "title": "Sıla Gençoğlu'nun Değişimi! #shorts"
     }
   ]
 }
