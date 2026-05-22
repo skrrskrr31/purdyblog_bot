@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-18T19:19:48",
-      "status": "ok",
-      "video_id": "LEmFBoLk2wM",
-      "title": "Stavros Floros'a Kötü Haber #shorts"
-    },
-    {
       "ts": "2026-05-19T08:22:14",
       "status": "ok",
       "video_id": "nUBv4OPDCbg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0SR4kirVyC8",
       "title": "Kadir İnanır Entübe Edildi #shorts"
+    },
+    {
+      "ts": "2026-05-22T19:18:57",
+      "status": "ok",
+      "video_id": "RfJCWkbbEns",
+      "title": "Sıla'nın şok hali! #shorts"
     }
   ]
 }
