@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-19T19:30:45",
-      "status": "ok",
-      "video_id": "hmNEXML1QSM",
-      "title": "Alper Çankaya Uzak Şehir'den Ayrılıyor #shorts"
-    },
-    {
       "ts": "2026-05-20T08:21:34",
       "status": "ok",
       "video_id": "ufHx7kz1PBw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cu7P18bUNfo",
       "title": "Sıla Gençoğlu'nun yeni hali! #shorts"
+    },
+    {
+      "ts": "2026-05-23T18:49:56",
+      "status": "ok",
+      "video_id": "AfOLQz_m5sU",
+      "title": "Beyza ve Sercan yakalandı #shorts"
     }
   ]
 }
