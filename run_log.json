@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-19T17:40:03",
-      "status": "ok",
-      "video_id": "lX7SXz2mgwk",
-      "title": "Survivor'da Korkunç Kaza! #shorts"
-    },
-    {
       "ts": "2026-05-19T19:30:45",
       "status": "ok",
       "video_id": "hmNEXML1QSM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Wp3Y_s0FEbQ",
       "title": "Sıla'nın Yeni Hali! #shorts"
+    },
+    {
+      "ts": "2026-05-23T16:04:42",
+      "status": "ok",
+      "video_id": "cu7P18bUNfo",
+      "title": "Sıla Gençoğlu'nun yeni hali! #shorts"
     }
   ]
 }
