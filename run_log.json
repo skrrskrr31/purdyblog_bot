@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-19T15:42:43",
-      "status": "ok",
-      "video_id": "MZBvssWLvWs",
-      "title": "Yaşar İpek 3 Yıl Hapis #shorts"
-    },
-    {
       "ts": "2026-05-19T17:40:03",
       "status": "ok",
       "video_id": "lX7SXz2mgwk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "DU0iHjrjUF0",
       "title": "İbrahim Tatlıses'in Son Hali #shorts"
+    },
+    {
+      "ts": "2026-05-23T13:56:05",
+      "status": "ok",
+      "video_id": "Wp3Y_s0FEbQ",
+      "title": "Sıla'nın Yeni Hali! #shorts"
     }
   ]
 }
