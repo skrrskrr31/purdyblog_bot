@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-19T08:22:14",
-      "status": "ok",
-      "video_id": "nUBv4OPDCbg",
-      "title": "Kadir İnanır'ın Sağlık Durumu #shorts"
-    },
-    {
       "ts": "2026-05-19T12:10:39",
       "status": "ok",
       "video_id": "6qY-a33p9kg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RfJCWkbbEns",
       "title": "Sıla'nın şok hali! #shorts"
+    },
+    {
+      "ts": "2026-05-23T07:27:05",
+      "status": "ok",
+      "video_id": "RlIaRBpLaLI",
+      "title": "Ahu Tuğba'nın Mirası #shorts"
     }
   ]
 }
