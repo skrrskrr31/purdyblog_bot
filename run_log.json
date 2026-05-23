@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-19T12:10:39",
-      "status": "ok",
-      "video_id": "6qY-a33p9kg",
-      "title": "Sezen Aksu ve Nazan Öncel Düştü! #shorts"
-    },
-    {
       "ts": "2026-05-19T15:42:43",
       "status": "ok",
       "video_id": "MZBvssWLvWs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RlIaRBpLaLI",
       "title": "Ahu Tuğba'nın Mirası #shorts"
+    },
+    {
+      "ts": "2026-05-23T10:25:50",
+      "status": "ok",
+      "video_id": "DU0iHjrjUF0",
+      "title": "İbrahim Tatlıses'in Son Hali #shorts"
     }
   ]
 }
