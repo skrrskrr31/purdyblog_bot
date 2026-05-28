@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-20T19:58:31",
-      "status": "ok",
-      "video_id": "tjrzC0MP438",
-      "title": "Acun'u Çileden Çıkaran An #shorts"
-    },
-    {
       "ts": "2026-05-21T08:29:06",
       "status": "ok",
       "video_id": "O4cIf20pj4I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "fkhx7zHwp2U",
       "title": "Jessica Alba'nın yeni aşkı #shorts"
+    },
+    {
+      "ts": "2026-05-28T20:00:03",
+      "status": "ok",
+      "video_id": "vRTZhsuVfJk",
+      "title": "Simge Sağın sevgilisiyle tatil #shorts"
     }
   ]
 }
