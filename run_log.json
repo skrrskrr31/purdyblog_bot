@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-20T08:21:34",
-      "status": "ok",
-      "video_id": "ufHx7kz1PBw",
-      "title": "Songül Öden'in Gümüş'teki öpüşme #shorts"
-    },
-    {
       "ts": "2026-05-20T11:48:45",
       "status": "ok",
       "video_id": "T7mJR9ZjczM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AfOLQz_m5sU",
       "title": "Beyza ve Sercan yakalandı #shorts"
+    },
+    {
+      "ts": "2026-05-28T08:39:08",
+      "status": "ok",
+      "video_id": "JO9BlkcCvFc",
+      "title": "Çağla Şıkel 13 Yaş Küçük Sevgilisini Gösterdi #shorts"
     }
   ]
 }
