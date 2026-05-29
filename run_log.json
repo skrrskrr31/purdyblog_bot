@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-21T12:13:43",
-      "status": "ok",
-      "video_id": "UGgp23op5Dk",
-      "title": "Acun'dan Sercan'a imalı sözler #shorts"
-    },
-    {
       "ts": "2026-05-21T15:47:00",
       "status": "ok",
       "video_id": "OvB24PLPpW4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "QHuJZcnp7lE",
       "title": "Alper Çankaya Aşk Yaşıyor #shorts"
+    },
+    {
+      "ts": "2026-05-29T12:15:22",
+      "status": "ok",
+      "video_id": "_cIWr4MAgwA",
+      "title": "Kanye West Hayranlarını Üzdü #shorts"
     }
   ]
 }
