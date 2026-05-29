@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-21T08:29:06",
-      "status": "ok",
-      "video_id": "O4cIf20pj4I",
-      "title": "Ahu Tuğba'nın Mirası #shorts"
-    },
-    {
       "ts": "2026-05-21T12:13:43",
       "status": "ok",
       "video_id": "UGgp23op5Dk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vRTZhsuVfJk",
       "title": "Simge Sağın sevgilisiyle tatil #shorts"
+    },
+    {
+      "ts": "2026-05-29T08:38:41",
+      "status": "ok",
+      "video_id": "QHuJZcnp7lE",
+      "title": "Alper Çankaya Aşk Yaşıyor #shorts"
     }
   ]
 }
