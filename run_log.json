@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-21T15:47:00",
-      "status": "ok",
-      "video_id": "OvB24PLPpW4",
-      "title": "Temizlikçi 150bin tl maaş alıyor #shorts"
-    },
-    {
       "ts": "2026-05-21T17:31:46",
       "status": "ok",
       "video_id": "azXZ6YkN5H8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_cIWr4MAgwA",
       "title": "Kanye West Hayranlarını Üzdü #shorts"
+    },
+    {
+      "ts": "2026-05-29T16:02:40",
+      "status": "ok",
+      "video_id": "o3mQeEG7Bok",
+      "title": "Beyza'yı Sercan'la Yakaladılar #shorts"
     }
   ]
 }
