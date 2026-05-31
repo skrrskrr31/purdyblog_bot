@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-23T16:04:42",
-      "status": "ok",
-      "video_id": "cu7P18bUNfo",
-      "title": "Sıla Gençoğlu'nun yeni hali! #shorts"
-    },
-    {
       "ts": "2026-05-23T18:49:56",
       "status": "ok",
       "video_id": "AfOLQz_m5sU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "SkagLzo-K58",
       "title": "Ozan Güven Konuştu #shorts"
+    },
+    {
+      "ts": "2026-05-31T16:15:08",
+      "status": "ok",
+      "video_id": "UVsIgdqoBt8",
+      "title": "Kanye West Çorap Kuyruğu #shorts"
     }
   ]
 }
