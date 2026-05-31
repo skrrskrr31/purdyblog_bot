@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-23T07:27:05",
-      "status": "ok",
-      "video_id": "RlIaRBpLaLI",
-      "title": "Ahu Tuğba'nın Mirası #shorts"
-    },
-    {
       "ts": "2026-05-23T10:25:50",
       "status": "ok",
       "video_id": "DU0iHjrjUF0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jBSXepL5ExY",
       "title": "Kanye West İstanbul'u Kilitledi #shorts"
+    },
+    {
+      "ts": "2026-05-31T08:10:52",
+      "status": "ok",
+      "video_id": "7c-Vc0qlqwc",
+      "title": "Reha Muhtar Hastanede #shorts"
     }
   ]
 }
