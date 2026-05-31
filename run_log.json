@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-23T13:56:05",
-      "status": "ok",
-      "video_id": "Wp3Y_s0FEbQ",
-      "title": "Sıla'nın Yeni Hali! #shorts"
-    },
-    {
       "ts": "2026-05-23T16:04:42",
       "status": "ok",
       "video_id": "cu7P18bUNfo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "s1ygWZcjiho",
       "title": "Celal Şengör 50 Kilo Verdı #shorts"
+    },
+    {
+      "ts": "2026-05-31T14:04:21",
+      "status": "ok",
+      "video_id": "SkagLzo-K58",
+      "title": "Ozan Güven Konuştu #shorts"
     }
   ]
 }
