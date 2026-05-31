@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-23T10:25:50",
-      "status": "ok",
-      "video_id": "DU0iHjrjUF0",
-      "title": "İbrahim Tatlıses'in Son Hali #shorts"
-    },
-    {
       "ts": "2026-05-23T13:56:05",
       "status": "ok",
       "video_id": "Wp3Y_s0FEbQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "7c-Vc0qlqwc",
       "title": "Reha Muhtar Hastanede #shorts"
+    },
+    {
+      "ts": "2026-05-31T10:56:39",
+      "status": "ok",
+      "video_id": "s1ygWZcjiho",
+      "title": "Celal Şengör 50 Kilo Verdı #shorts"
     }
   ]
 }
