@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-28T12:25:37",
-      "status": "ok",
-      "video_id": "DHsqKOcrWbk",
-      "title": "Serenay Sarıkaya Gözaltına Alındı #shorts"
-    },
-    {
       "ts": "2026-05-28T16:19:25",
       "status": "ok",
       "video_id": "rKCcx6N0iVA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bwoOibTWD40",
       "title": "Hakan Taşıyan ciğercide şarkı söyledi #shorts"
+    },
+    {
+      "ts": "2026-06-01T15:20:06",
+      "status": "ok",
+      "video_id": "NcCUfFvwOCw",
+      "title": "Selena Gomez yetişkin filmde #shorts"
     }
   ]
 }
