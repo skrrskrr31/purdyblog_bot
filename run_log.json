@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-28T08:39:08",
-      "status": "ok",
-      "video_id": "JO9BlkcCvFc",
-      "title": "Çağla Şıkel 13 Yaş Küçük Sevgilisini Gösterdi #shorts"
-    },
-    {
       "ts": "2026-05-28T12:25:37",
       "status": "ok",
       "video_id": "DHsqKOcrWbk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ZBLhe7m0mB4",
       "title": "Kanye West Çorapları 2,5 Km Kuyruk #shorts"
+    },
+    {
+      "ts": "2026-06-01T10:13:40",
+      "status": "ok",
+      "video_id": "bwoOibTWD40",
+      "title": "Hakan Taşıyan ciğercide şarkı söyledi #shorts"
     }
   ]
 }
