@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-28T16:19:25",
-      "status": "ok",
-      "video_id": "rKCcx6N0iVA",
-      "title": "Çağla Şıkel'in Kahvaltı Sırları #shorts"
-    },
-    {
       "ts": "2026-05-28T18:15:31",
       "status": "ok",
       "video_id": "fkhx7zHwp2U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NcCUfFvwOCw",
       "title": "Selena Gomez yetişkin filmde #shorts"
+    },
+    {
+      "ts": "2026-06-01T17:57:34",
+      "status": "ok",
+      "video_id": "KTXo720webk",
+      "title": "Yılmaz Morgül'ün Acun İlkalı Açıklamaları #shorts"
     }
   ]
 }
