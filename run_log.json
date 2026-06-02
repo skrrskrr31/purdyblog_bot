@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-29T12:15:22",
-      "status": "ok",
-      "video_id": "_cIWr4MAgwA",
-      "title": "Kanye West Hayranlarını Üzdü #shorts"
-    },
-    {
       "ts": "2026-05-29T16:02:40",
       "status": "ok",
       "video_id": "o3mQeEG7Bok",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "22dZv5fx6Y8",
       "title": "Esin Gündoğdu'nun 72 Kilo Verdi! #shorts"
+    },
+    {
+      "ts": "2026-06-02T16:49:40",
+      "status": "ok",
+      "video_id": "cOnvv4Frrd8",
+      "title": "Hakan Taşıyan Ciğercide #shorts"
     }
   ]
 }
