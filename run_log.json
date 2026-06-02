@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-29T18:13:49",
-      "status": "ok",
-      "video_id": "JGoG0tZzSjg",
-      "title": "Sibel Kekilli Evlendi #shorts"
-    },
-    {
       "ts": "2026-05-29T20:03:02",
       "status": "ok",
       "video_id": "vZmHY0bKb3M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "SQJUkJmx2wg",
       "title": "Rapçi Aishe hayatını kaybetti #shorts"
+    },
+    {
+      "ts": "2026-06-02T20:31:31",
+      "status": "ok",
+      "video_id": "nrjB0aAVlF8",
+      "title": "Hakan Taşıyan Ciğercide Şarkılar Söylüyor #shorts"
     }
   ]
 }
