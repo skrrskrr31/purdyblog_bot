@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-29T16:02:40",
-      "status": "ok",
-      "video_id": "o3mQeEG7Bok",
-      "title": "Beyza'yı Sercan'la Yakaladılar #shorts"
-    },
-    {
       "ts": "2026-05-29T18:13:49",
       "status": "ok",
       "video_id": "JGoG0tZzSjg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cOnvv4Frrd8",
       "title": "Hakan Taşıyan Ciğercide #shorts"
+    },
+    {
+      "ts": "2026-06-02T18:44:05",
+      "status": "ok",
+      "video_id": "SQJUkJmx2wg",
+      "title": "Rapçi Aishe hayatını kaybetti #shorts"
     }
   ]
 }
