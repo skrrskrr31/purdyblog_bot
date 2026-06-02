@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-29T08:38:41",
-      "status": "ok",
-      "video_id": "QHuJZcnp7lE",
-      "title": "Alper Çankaya Aşk Yaşıyor #shorts"
-    },
-    {
       "ts": "2026-05-29T12:15:22",
       "status": "ok",
       "video_id": "_cIWr4MAgwA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "W3VDhCAFCeU",
       "title": "Arda Kural Aşka Bağlandı #shorts"
+    },
+    {
+      "ts": "2026-06-02T09:02:34",
+      "status": "ok",
+      "video_id": "22dZv5fx6Y8",
+      "title": "Esin Gündoğdu'nun 72 Kilo Verdi! #shorts"
     }
   ]
 }
