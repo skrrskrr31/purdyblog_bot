@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-30T07:36:16",
-      "status": "ok",
-      "video_id": "tKhd1xvBMw4",
-      "title": "Reha Muhtar Hastaneye Kaldırıldı #shorts"
-    },
-    {
       "ts": "2026-05-30T10:46:58",
       "status": "ok",
       "video_id": "9VkDWuQ4Yt8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8wfwT0zi9Xs",
       "title": "Nazlı Bulum Evleniyor #shorts"
+    },
+    {
+      "ts": "2026-06-03T13:16:18",
+      "status": "ok",
+      "video_id": "gPkq7ydOQaA",
+      "title": "İpek Erdem'in Zamana Direnen Güzelliği #shorts"
     }
   ]
 }
