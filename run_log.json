@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-30T10:46:58",
-      "status": "ok",
-      "video_id": "9VkDWuQ4Yt8",
-      "title": "Arka Sokaklar'da Şehit! #shorts"
-    },
-    {
       "ts": "2026-05-30T13:58:08",
       "status": "ok",
       "video_id": "QFuihF9vk9o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gPkq7ydOQaA",
       "title": "İpek Erdem'in Zamana Direnen Güzelliği #shorts"
+    },
+    {
+      "ts": "2026-06-03T17:06:51",
+      "status": "ok",
+      "video_id": "JHXyLnnfLpk",
+      "title": "Reha Muhtar Nilüfer İlişkisi #shorts"
     }
   ]
 }
