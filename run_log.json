@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-30T18:54:29",
-      "status": "ok",
-      "video_id": "jBSXepL5ExY",
-      "title": "Kanye West İstanbul'u Kilitledi #shorts"
-    },
-    {
       "ts": "2026-05-31T08:10:52",
       "status": "ok",
       "video_id": "7c-Vc0qlqwc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "R8NaPs651J4",
       "title": "Çağla Şıkel'in Kahvaltı Sırları #shorts"
+    },
+    {
+      "ts": "2026-06-25T21:18:03",
+      "status": "ok",
+      "video_id": "-FltY3Bxjps",
+      "title": "Afra Saraçoğlu'nun Tatil Karesi #shorts"
     }
   ]
 }
