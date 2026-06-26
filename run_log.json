@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-31T18:58:18",
-      "status": "ok",
-      "video_id": "ZBLhe7m0mB4",
-      "title": "Kanye West Çorapları 2,5 Km Kuyruk #shorts"
-    },
-    {
       "ts": "2026-06-01T10:13:40",
       "status": "ok",
       "video_id": "bwoOibTWD40",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OUwo3kJDOQs",
       "title": "İbrahim Tatlıses'in Gelinin Muhteşem Görüntüsü #shorts"
+    },
+    {
+      "ts": "2026-06-26T19:25:05",
+      "status": "ok",
+      "video_id": "a67fsB8SLWE",
+      "title": "Fatih Ürek'in Mirası #shorts"
     }
   ]
 }
