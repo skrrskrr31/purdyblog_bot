@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-31T14:04:21",
-      "status": "ok",
-      "video_id": "SkagLzo-K58",
-      "title": "Ozan Güven Konuştu #shorts"
-    },
-    {
       "ts": "2026-05-31T16:15:08",
       "status": "ok",
       "video_id": "UVsIgdqoBt8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "V5XPWQm3AzE",
       "title": "Kadir İnanır'ın Son Durumu #shorts"
+    },
+    {
+      "ts": "2026-06-26T14:40:34",
+      "status": "ok",
+      "video_id": "UHYO2A2le5Y",
+      "title": "Nihat Doğan'a Tepki #shorts"
     }
   ]
 }
