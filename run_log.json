@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-31T10:56:39",
-      "status": "ok",
-      "video_id": "s1ygWZcjiho",
-      "title": "Celal Şengör 50 Kilo Verdı #shorts"
-    },
-    {
       "ts": "2026-05-31T14:04:21",
       "status": "ok",
       "video_id": "SkagLzo-K58",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XVVT1SS0Sm0",
       "title": "Kadir İnanır'ın Yitirdiği Sevgili Abla #shorts"
+    },
+    {
+      "ts": "2026-06-26T11:43:55",
+      "status": "ok",
+      "video_id": "V5XPWQm3AzE",
+      "title": "Kadir İnanır'ın Son Durumu #shorts"
     }
   ]
 }
