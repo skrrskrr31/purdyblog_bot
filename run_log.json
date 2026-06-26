@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-05-31T16:15:08",
-      "status": "ok",
-      "video_id": "UVsIgdqoBt8",
-      "title": "Kanye West Çorap Kuyruğu #shorts"
-    },
-    {
       "ts": "2026-05-31T18:58:18",
       "status": "ok",
       "video_id": "ZBLhe7m0mB4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "UHYO2A2le5Y",
       "title": "Nihat Doğan'a Tepki #shorts"
+    },
+    {
+      "ts": "2026-06-26T17:03:32",
+      "status": "ok",
+      "video_id": "OUwo3kJDOQs",
+      "title": "İbrahim Tatlıses'in Gelinin Muhteşem Görüntüsü #shorts"
     }
   ]
 }
