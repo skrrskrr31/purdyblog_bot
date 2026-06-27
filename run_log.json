@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-01T17:57:34",
-      "status": "ok",
-      "video_id": "KTXo720webk",
-      "title": "Yılmaz Morgül'ün Acun İlkalı Açıklamaları #shorts"
-    },
-    {
       "ts": "2026-06-01T19:56:23",
       "status": "ok",
       "video_id": "WmrmSnM_0bw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "DKikpCFS8Ng",
       "title": "Defne Samyeli'nin Kızı Kıbrıs'ta Romantik #shorts"
+    },
+    {
+      "ts": "2026-06-27T14:00:14",
+      "status": "ok",
+      "video_id": "pm4MUd0U40U",
+      "title": "Gezep Neden Ayrıldı? #shorts"
     }
   ]
 }
