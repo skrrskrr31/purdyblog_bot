@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-01T21:18:52",
-      "status": "ok",
-      "video_id": "W3VDhCAFCeU",
-      "title": "Arda Kural Aşka Bağlandı #shorts"
-    },
-    {
       "ts": "2026-06-02T09:02:34",
       "status": "ok",
       "video_id": "22dZv5fx6Y8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8PUpBjnJZQg",
       "title": "Kubilay Kaan Kundakçı Davası #shorts"
+    },
+    {
+      "ts": "2026-06-27T18:58:42",
+      "status": "ok",
+      "video_id": "0vAVqui7wS0",
+      "title": "Sahra Işık'ın Skandal İddiası #shorts"
     }
   ]
 }
