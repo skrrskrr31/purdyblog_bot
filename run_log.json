@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-01T19:56:23",
-      "status": "ok",
-      "video_id": "WmrmSnM_0bw",
-      "title": "Aishe Vefat Etti #shorts"
-    },
-    {
       "ts": "2026-06-01T21:18:52",
       "status": "ok",
       "video_id": "W3VDhCAFCeU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "pm4MUd0U40U",
       "title": "Gezep Neden Ayrıldı? #shorts"
+    },
+    {
+      "ts": "2026-06-27T16:09:19",
+      "status": "ok",
+      "video_id": "8PUpBjnJZQg",
+      "title": "Kubilay Kaan Kundakçı Davası #shorts"
     }
   ]
 }
