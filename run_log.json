@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-01T10:13:40",
-      "status": "ok",
-      "video_id": "bwoOibTWD40",
-      "title": "Hakan Taşıyan ciğercide şarkı söyledi #shorts"
-    },
-    {
       "ts": "2026-06-01T15:20:06",
       "status": "ok",
       "video_id": "NcCUfFvwOCw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "a67fsB8SLWE",
       "title": "Fatih Ürek'in Mirası #shorts"
+    },
+    {
+      "ts": "2026-06-27T07:44:20",
+      "status": "ok",
+      "video_id": "schyDvOXrI4",
+      "title": "Kadir İnanır'ın Cenaze #shorts"
     }
   ]
 }
