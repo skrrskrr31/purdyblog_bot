@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-01T15:20:06",
-      "status": "ok",
-      "video_id": "NcCUfFvwOCw",
-      "title": "Selena Gomez yetişkin filmde #shorts"
-    },
-    {
       "ts": "2026-06-01T17:57:34",
       "status": "ok",
       "video_id": "KTXo720webk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "schyDvOXrI4",
       "title": "Kadir İnanır'ın Cenaze #shorts"
+    },
+    {
+      "ts": "2026-06-27T10:57:09",
+      "status": "ok",
+      "video_id": "DKikpCFS8Ng",
+      "title": "Defne Samyeli'nin Kızı Kıbrıs'ta Romantik #shorts"
     }
   ]
 }
