@@ -171,7 +171,7 @@ def wrap_text(draw, text, font, max_width):
 # ─────────────────────────────────────────────────────────────
 # KART GÖRSELİ OLUŞTUR
 # ─────────────────────────────────────────────────────────────
-def create_card(haber_metni, foto_paths):
+def create_card(haber_metni, foto_paths, hook_text="", cta_text=""):
     img  = Image.new("RGB", (W, H), (0, 0, 0))
     draw = ImageDraw.Draw(img)
 
@@ -185,6 +185,8 @@ def create_card(haber_metni, foto_paths):
     text_maxw  = W - PAD * 2
     photo_h    = 520
     gap_2foto  = 14
+    hook_h     = 78 if hook_text else 0
+    cta_h      = 72 if cta_text else 0
 
     # ── Toplam içerik yüksekliğini hesapla (dikey ortalama için) ──
     header_h = logo_size + 28  # logo + alt boşluk
@@ -197,7 +199,7 @@ def create_card(haber_metni, foto_paths):
 
     foto_h_actual = photo_h if foto_paths else 0
 
-    total_h  = header_h + text_h + foto_h_actual
+    total_h  = header_h + hook_h + text_h + foto_h_actual + cta_h
     start_y  = (H - total_h) // 2  # dikey merkez
     start_y  = max(PAD, start_y)   # üstten en az PAD boşluk
 
@@ -229,8 +231,21 @@ def create_card(haber_metni, foto_paths):
     draw_like_button(img, draw, btn_x_lik, btn_y, btn_lik_w, btn_h,
                      color=(48, 48, 48), radius=23)
 
+    # ── Hook Banner ──────────────────────────────────────────
+    hook_y = start_y + header_h
+    if hook_text:
+        draw.rectangle([0, hook_y, W, hook_y + hook_h], fill=(200, 0, 0))
+        f_hook = load_font(52, bold=True)
+        hbbox = draw.textbbox((0, 0), hook_text, font=f_hook)
+        h_tw = hbbox[2] - hbbox[0]
+        h_th = hbbox[3] - hbbox[1]
+        draw.text(
+            ((W - h_tw) // 2, hook_y + (hook_h - h_th) // 2 - hbbox[1]),
+            hook_text, font=f_hook, fill=(255, 215, 0)
+        )
+
     # ── Haber Metni ──────────────────────────────────────────
-    text_y = start_y + header_h
+    text_y = hook_y + hook_h
     for line in lines:
         if line == "":
             text_y += line_h // 2
@@ -268,6 +283,27 @@ def create_card(haber_metni, foto_paths):
                 img.paste(slot, (PAD + idx * (each_w + gap_2foto), photos_top))
             except Exception as e:
                 print(f"[WARN] foto{idx+1} yuklenemedi: {e}")
+
+    # ── CTA Balonu ───────────────────────────────────────────
+    if cta_text:
+        cta_y = photos_top + foto_h_actual + 18
+        img_rgba = img.convert("RGBA")
+        overlay  = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        ov_draw  = ImageDraw.Draw(overlay)
+        ov_draw.rounded_rectangle(
+            [PAD, cta_y, W - PAD, cta_y + cta_h],
+            radius=20, fill=(20, 20, 20, 210)
+        )
+        img = Image.alpha_composite(img_rgba, overlay).convert("RGB")
+        draw = ImageDraw.Draw(img)
+        f_cta = load_font(38, bold=True)
+        cbbox = draw.textbbox((0, 0), cta_text, font=f_cta)
+        c_tw = cbbox[2] - cbbox[0]
+        c_th = cbbox[3] - cbbox[1]
+        draw.text(
+            ((W - c_tw) // 2, cta_y + (cta_h - c_th) // 2 - cbbox[1]),
+            cta_text, font=f_cta, fill=(255, 215, 0)
+        )
 
     return img
 
@@ -519,6 +555,52 @@ def pick_muzik_local(haber_metni):
 
 
 # ─────────────────────────────────────────────────────────────
+# GROQ HOOK & CTA
+# ─────────────────────────────────────────────────────────────
+def generate_hook(haber_metni):
+    """Habere uygun kısa kanca yazısı (hook banner için)."""
+    print("Hook yazisi uretiliyor...")
+    try:
+        client = Groq(api_key=GROQ_API_KEY)
+        resp = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content":
+                f'Şu magazin haberini oku:\n"{haber_metni[:400]}"\n\n'
+                f'Bu habere uygun, izleyiciyi durduracak KISA bir kanca yazısı yaz. '
+                f'Haberin tonunu yansıt: şok edici ise "ŞOKE ETTİ!", hüzünlü ise "HERKES AĞLADI", '
+                f'eğlenceli ise "İNANAMAZSINIZ!" gibi. '
+                f'Maksimum 4 kelime. Tamamen büyük harf. Sadece yazıyı yaz, başka hiçbir şey ekleme.'}]
+        )
+        hook = resp.choices[0].message.content.strip().strip('"').upper()
+        print(f"[OK] Hook: {hook}")
+        return hook
+    except Exception as e:
+        print(f"[WARN] Hook hatasi: {e}")
+        return random.choice(["ŞOKE ETTİ!", "HERKES KONUŞUYOR", "İNANILMAZ HABER", "KİMSE BEKLEMİYORDU"])
+
+
+def generate_cta(haber_metni):
+    """Habere uygun yorum teşvik sorusu (CTA balonu için)."""
+    print("CTA sorusu uretiliyor...")
+    try:
+        client = Groq(api_key=GROQ_API_KEY)
+        resp = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content":
+                f'Şu magazin haberini oku:\n"{haber_metni[:400]}"\n\n'
+                f'Bu habere uygun, izleyiciyi yorum yapmaya teşvik eden çok kısa bir soru yaz. '
+                f'Maksimum 6 kelime. Türkçe. Sadece soruyu yaz. '
+                f'Örnekler: "Siz ne düşünüyorsunuz?", "Haklı mı?", "Sizi şaşırttı mı?", "Ne düşündünüz?"'}]
+        )
+        cta = resp.choices[0].message.content.strip().strip('"')
+        print(f"[OK] CTA: {cta}")
+        return cta
+    except Exception as e:
+        print(f"[WARN] CTA hatasi: {e}")
+        return random.choice(["Siz ne düşünüyorsunuz?", "Haklı mı?", "Ne düşündünüz?", "Sizi şaşırttı mı?"])
+
+
+# ─────────────────────────────────────────────────────────────
 # GROQ METİN ÖZETİ
 # ─────────────────────────────────────────────────────────────
 def metin_ozet(haber_metni):
@@ -545,8 +627,10 @@ def metin_ozet(haber_metni):
 # ─────────────────────────────────────────────────────────────
 # GROQ BAŞLIK
 # ─────────────────────────────────────────────────────────────
-def generate_title(haber_metni):
+def generate_title(haber_metni, kisi_tag=""):
     print("Baslik uretiliyor...")
+    kisi_hint = (f"Haberin kişisi '{kisi_tag}' — başlıkta geçiyorsa sonuna "
+                 f"#{kisi_tag.replace(' ', '').lower()} hashtagini ekle. ") if kisi_tag else ""
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
@@ -554,11 +638,12 @@ def generate_title(haber_metni):
             messages=[{"role": "user", "content":
                 f'Sen başarılı bir YouTube Shorts editörüsün. '
                 f'Şu haberi oku: "{haber_metni[:600]}"\n\n'
-                f'Bu habere uygun, merak uyandıran bir YouTube Shorts başlığı yaz. '
-                f'Haberi doğru yansıt ama izleyiciyi meraklandır: soru formatı, beklenmedik bilgi veya güçlü bir ifade kullanabilirsin. '
+                f'Bu habere uygun, merak uyandıran ve duygusal tetikleyici içeren bir YouTube Shorts başlığı yaz. '
+                f'Haberi doğru yansıt ama izleyiciyi meraklandır: soru formatı, beklenmedik bilgi veya güçlü ifade kullan. '
                 f'Örnek tonlar: "Kimse bunu bilmiyordu", "Sonunda ortaya çıktı", "[İsim] ilk kez konuştu", "Bu nasıl oldu?". '
-                f'Maksimum 60 karakter. Sonda #shorts yaz. '
-                f'SADECE BAŞLIĞI YAZ:'}]
+                f'{kisi_hint}'
+                f'Başlığa 2-3 hashtag ekle: mutlaka #shorts, konuya özel 1-2 tane daha. '
+                f'Maksimum 70 karakter. SADECE BAŞLIĞI YAZ:'}]
         )
         title = resp.choices[0].message.content.strip().replace('"', '').strip()
         if title:
@@ -626,7 +711,7 @@ def create_video(img, secilen_muzik=None, volume=0.20):
 # ─────────────────────────────────────────────────────────────
 # YOUTUBE UPLOAD
 # ─────────────────────────────────────────────────────────────
-def upload_to_youtube(title, description):
+def upload_to_youtube(title, description, kisi_tag=""):
     print("\nYouTube'a yukleniyor...")
 
     from google.oauth2.credentials import Credentials
@@ -659,7 +744,8 @@ def upload_to_youtube(title, description):
         'snippet': {
             'title':       title[:100],
             'description': description,
-            'tags':        ['shorts', 'magazin', 'haber', 'gundem', 'turkiye'],
+            'tags':        ([kisi_tag, kisi_tag.replace(' ', '')] if kisi_tag else []) +
+                       ['shorts', 'magazin', 'haber', 'gundem', 'turkiye', 'kesfet', 'viral'],
             'categoryId':  '24'  # Entertainment
         },
         'status': {
@@ -740,16 +826,23 @@ if __name__ == "__main__":
 
     print(f"{len(foto_paths)} fotograf bulundu.\n")
 
-    # Metni kısalt (video kartına sığacak şekilde) sonra kartı oluştur
-    haber_kisa = metin_ozet(haber_metni)
-    img = create_card(haber_kisa, foto_paths)
-
-    # Başlık + müzik seçimi
-    title                  = generate_title(haber_metni)
+    # Metni kısalt + kişi/başlık/hook/cta üret
+    haber_kisa             = metin_ozet(haber_metni)
+    kisi_tag               = kisi_cıkar(haber_metni.split('\n')[0])
+    kisi_hashtag           = (" #" + kisi_tag.replace(' ', '').lower()) if kisi_tag else ""
+    title                  = generate_title(haber_metni, kisi_tag=kisi_tag)
+    hook_text              = generate_hook(haber_metni)
+    cta_text               = generate_cta(haber_metni)
     secilen_muzik, volume  = pick_muzik_local(haber_metni)
-    kisi_tag = kisi_cıkar(haber_metni.split('\n')[0])
-    kisi_hashtag = (" #" + kisi_tag.replace(' ', '').lower()) if kisi_tag else ""
-    description            = haber_metni[:4800] + f"\n\n#shorts #kesfet #gundem #viral #trend #magazin #haber #turkiye{kisi_hashtag}"
+
+    # Keyword-rich açıklama: ilk cümlede kişi adı + özet
+    ilk_cumle = haber_kisa.split('.')[0].strip() if haber_kisa else ""
+    kisi_prefix = (kisi_tag.title() + " — ") if kisi_tag and kisi_tag.lower() not in ilk_cumle.lower() else ""
+    aciklama_giris = kisi_prefix + ilk_cumle + ("." if ilk_cumle and not ilk_cumle.endswith('.') else "")
+    description = (f"{aciklama_giris}\n\n{haber_metni[:4800]}"
+                   f"\n\n#shorts #kesfet #gundem #viral #trend #magazin #haber #turkiye{kisi_hashtag}")
+
+    img = create_card(haber_kisa, foto_paths, hook_text=hook_text, cta_text=cta_text)
 
     # Video
     create_video(img, secilen_muzik, volume=volume)
@@ -759,7 +852,7 @@ if __name__ == "__main__":
         print("\n[TEST] YouTube yuklemesi atlandi.")
         print(f"[TEST] Video: {OUTPUT_VIDEO}")
     else:
-        video_id = upload_to_youtube(title, description)
+        video_id = upload_to_youtube(title, description, kisi_tag=kisi_tag)
         if video_id:
             save_run_log("ok", video_id=video_id, title=title)
             send_telegram(
