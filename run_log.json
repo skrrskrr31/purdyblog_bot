@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-02T09:02:34",
-      "status": "ok",
-      "video_id": "22dZv5fx6Y8",
-      "title": "Esin Gündoğdu'nun 72 Kilo Verdi! #shorts"
-    },
-    {
       "ts": "2026-06-02T16:49:40",
       "status": "ok",
       "video_id": "cOnvv4Frrd8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0vAVqui7wS0",
       "title": "Sahra Işık'ın Skandal İddiası #shorts"
+    },
+    {
+      "ts": "2026-06-28T08:17:02",
+      "status": "ok",
+      "video_id": "CCcdjGbJIZY",
+      "title": "Ali Poyrazoğlu 25 Kilo Verdı! #shorts"
     }
   ]
 }
