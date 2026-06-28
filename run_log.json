@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-02T18:44:05",
-      "status": "ok",
-      "video_id": "SQJUkJmx2wg",
-      "title": "Rapçi Aishe hayatını kaybetti #shorts"
-    },
-    {
       "ts": "2026-06-02T20:31:31",
       "status": "ok",
       "video_id": "nrjB0aAVlF8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "gn_f3szgvDo",
       "title": "Aleyna Tesettürünü Çıkardı #shorts"
+    },
+    {
+      "ts": "2026-06-28T14:06:49",
+      "status": "ok",
+      "video_id": "0JZMFQ2oRzE",
+      "title": "Kadir İnanır'a Veda #shorts"
     }
   ]
 }
