@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-02T20:31:31",
-      "status": "ok",
-      "video_id": "nrjB0aAVlF8",
-      "title": "Hakan Taşıyan Ciğercide Şarkılar Söylüyor #shorts"
-    },
-    {
       "ts": "2026-06-03T09:22:16",
       "status": "ok",
       "video_id": "8wfwT0zi9Xs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0JZMFQ2oRzE",
       "title": "Kadir İnanır'a Veda #shorts"
+    },
+    {
+      "ts": "2026-06-28T16:15:55",
+      "status": "ok",
+      "video_id": "R08Iy2YRkAs",
+      "title": "Duru Kınay'ın Bikinili Goruntuleri! #shorts"
     }
   ]
 }
