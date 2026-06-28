@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-02T16:49:40",
-      "status": "ok",
-      "video_id": "cOnvv4Frrd8",
-      "title": "Hakan Taşıyan Ciğercide #shorts"
-    },
-    {
       "ts": "2026-06-02T18:44:05",
       "status": "ok",
       "video_id": "SQJUkJmx2wg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CCcdjGbJIZY",
       "title": "Ali Poyrazoğlu 25 Kilo Verdı! #shorts"
+    },
+    {
+      "ts": "2026-06-28T11:06:38",
+      "status": "ok",
+      "video_id": "gn_f3szgvDo",
+      "title": "Aleyna Tesettürünü Çıkardı #shorts"
     }
   ]
 }
