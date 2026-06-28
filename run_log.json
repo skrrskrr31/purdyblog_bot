@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-03T09:22:16",
-      "status": "ok",
-      "video_id": "8wfwT0zi9Xs",
-      "title": "Nazlı Bulum Evleniyor #shorts"
-    },
-    {
       "ts": "2026-06-03T13:16:18",
       "status": "ok",
       "video_id": "gPkq7ydOQaA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "R08Iy2YRkAs",
       "title": "Duru Kınay'ın Bikinili Goruntuleri! #shorts"
+    },
+    {
+      "ts": "2026-06-28T18:58:30",
+      "status": "ok",
+      "video_id": "NudXaLC77n4",
+      "title": "Kadir İnanır'ın şaşırtan vasiyeti! #shorts"
     }
   ]
 }
