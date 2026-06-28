@@ -552,10 +552,11 @@ def generate_title(haber_metni):
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content":
-                f'Sen başarılı bir sosyal medya editörüsün. '
+                f'Sen başarılı bir YouTube Shorts editörüsün. '
                 f'Şu haberi oku: "{haber_metni[:600]}"\n\n'
-                f'Bu habere uygun, ilgi çekici bir YouTube Shorts başlığı yaz. '
-                f'ÇOK ÖNEMLİ: Haberin konusuna uygun bir ton kullan (örneğin tarihi/milli haberde saygılı, magazin haberinde dinamik ol). Haberde geçmeyen "bilinmeyen yönü", "büyük sır" gibi yapay ve alakasız clickbait ifadeler ASLA uydurma. Olayı doğru yansıt. '
+                f'Bu habere uygun, merak uyandıran bir YouTube Shorts başlığı yaz. '
+                f'Haberi doğru yansıt ama izleyiciyi meraklandır: soru formatı, beklenmedik bilgi veya güçlü bir ifade kullanabilirsin. '
+                f'Örnek tonlar: "Kimse bunu bilmiyordu", "Sonunda ortaya çıktı", "[İsim] ilk kez konuştu", "Bu nasıl oldu?". '
                 f'Maksimum 60 karakter. Sonda #shorts yaz. '
                 f'SADECE BAŞLIĞI YAZ:'}]
         )
@@ -580,16 +581,34 @@ def generate_title(haber_metni):
 # ─────────────────────────────────────────────────────────────
 def create_video(img, secilen_muzik=None, volume=0.20):
     print("Video olusturuluyor...")
+    import numpy as np
+
     temp = "_temp_card.jpg"
     img.save(temp, quality=95)
 
-    clip = ImageClip(temp, duration=7)
+    duration = 15
+    img_arr = np.array(img)
+    vid_w, vid_h = img_arr.shape[1], img_arr.shape[0]
+
+    # Ken Burns: yavaş zoom-in (7 saniyede %0 → %7 büyüme)
+    def zoom_frame(gf, t):
+        factor = 1.0 + 0.07 * (t / duration)
+        crop_w = int(vid_w / factor)
+        crop_h = int(vid_h / factor)
+        x0 = (vid_w - crop_w) // 2
+        y0 = (vid_h - crop_h) // 2
+        cropped = img_arr[y0:y0 + crop_h, x0:x0 + crop_w]
+        result = Image.fromarray(cropped).resize((vid_w, vid_h), Image.Resampling.BILINEAR)
+        return np.array(result)
+
+    clip = ImageClip(temp, duration=duration)
+    clip = clip.fl(zoom_frame)
 
     if secilen_muzik and os.path.exists(secilen_muzik):
         try:
             audio = AudioFileClip(secilen_muzik)
-            start = random.randint(0, max(0, int(audio.duration) - 10))
-            audio = audio.subclip(start, min(start + 7, audio.duration))
+            start = random.randint(0, max(0, int(audio.duration) - 17))
+            audio = audio.subclip(start, min(start + duration, audio.duration))
             audio = audio.volumex(volume)
             clip = clip.set_audio(audio)
             print(f"[OK] Muzik eklendi (volume={volume})")
@@ -728,7 +747,9 @@ if __name__ == "__main__":
     # Başlık + müzik seçimi
     title                  = generate_title(haber_metni)
     secilen_muzik, volume  = pick_muzik_local(haber_metni)
-    description            = haber_metni[:4800] + "\n\n#shorts #magazin #haber #gundem #turkiye #kesfet"
+    kisi_tag = kisi_cıkar(haber_metni.split('\n')[0])
+    kisi_hashtag = (" #" + kisi_tag.replace(' ', '').lower()) if kisi_tag else ""
+    description            = haber_metni[:4800] + f"\n\n#shorts #kesfet #gundem #viral #trend #magazin #haber #turkiye{kisi_hashtag}"
 
     # Video
     create_video(img, secilen_muzik, volume=volume)
