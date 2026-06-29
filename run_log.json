@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-03T17:06:51",
-      "status": "ok",
-      "video_id": "JHXyLnnfLpk",
-      "title": "Reha Muhtar Nilüfer İlişkisi #shorts"
-    },
-    {
       "ts": "2026-06-03T18:49:42",
       "status": "ok",
       "video_id": "4d952QV9Zqw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "HKz4s1ToM7g",
       "title": "Deniz Göktaş kaçtı mı? #denizgöktaştan #shorts"
+    },
+    {
+      "ts": "2026-06-29T13:06:36",
+      "status": "ok",
+      "video_id": "9s22s3hS4TI",
+      "title": "Hakan Aysev 7._kez_mi_evleniyor? #hakanaysev #shorts"
     }
   ]
 }
