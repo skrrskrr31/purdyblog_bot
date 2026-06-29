@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-03T13:16:18",
-      "status": "ok",
-      "video_id": "gPkq7ydOQaA",
-      "title": "İpek Erdem'in Zamana Direnen Güzelliği #shorts"
-    },
-    {
       "ts": "2026-06-03T17:06:51",
       "status": "ok",
       "video_id": "JHXyLnnfLpk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NudXaLC77n4",
       "title": "Kadir İnanır'ın şaşırtan vasiyeti! #shorts"
+    },
+    {
+      "ts": "2026-06-29T09:23:27",
+      "status": "ok",
+      "video_id": "HKz4s1ToM7g",
+      "title": "Deniz Göktaş kaçtı mı? #denizgöktaştan #shorts"
     }
   ]
 }
