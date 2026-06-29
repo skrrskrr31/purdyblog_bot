@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-03T20:43:41",
-      "status": "ok",
-      "video_id": "R8NaPs651J4",
-      "title": "Çağla Şıkel'in Kahvaltı Sırları #shorts"
-    },
-    {
       "ts": "2026-06-25T21:18:03",
       "status": "ok",
       "video_id": "-FltY3Bxjps",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "F-pLyxp_YEg",
       "title": "Hanife Gürdal'ın Gizli Evliliği #hanifegürdal #shorts"
+    },
+    {
+      "ts": "2026-06-29T17:42:52",
+      "status": "ok",
+      "video_id": "QJg0vXZNF30",
+      "title": "Melis Sezen'in Saklı Cenneti Neresi? #melissezenin #shorts #tatil"
     }
   ]
 }
