@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-03T18:49:42",
-      "status": "ok",
-      "video_id": "4d952QV9Zqw",
-      "title": "Selena Gomez Büyük Oyunculuk hamlesine Hazır #shorts"
-    },
-    {
       "ts": "2026-06-03T20:43:41",
       "status": "ok",
       "video_id": "R8NaPs651J4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9s22s3hS4TI",
       "title": "Hakan Aysev 7._kez_mi_evleniyor? #hakanaysev #shorts"
+    },
+    {
+      "ts": "2026-06-29T16:03:33",
+      "status": "ok",
+      "video_id": "F-pLyxp_YEg",
+      "title": "Hanife Gürdal'ın Gizli Evliliği #hanifegürdal #shorts"
     }
   ]
 }
