@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-25T21:18:03",
-      "status": "ok",
-      "video_id": "-FltY3Bxjps",
-      "title": "Afra Saraçoğlu'nun Tatil Karesi #shorts"
-    },
-    {
       "ts": "2026-06-26T08:26:48",
       "status": "ok",
       "video_id": "XVVT1SS0Sm0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "QJg0vXZNF30",
       "title": "Melis Sezen'in Saklı Cenneti Neresi? #melissezenin #shorts #tatil"
+    },
+    {
+      "ts": "2026-06-29T19:29:50",
+      "status": "ok",
+      "video_id": "iHfURxI4Asg",
+      "title": "Zeynep Öykü Radyoda Bebeğini Emzirirken Ne Yaptı? #zeynepöykü #shorts"
     }
   ]
 }
