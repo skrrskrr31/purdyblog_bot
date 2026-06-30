@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-26T19:25:05",
-      "status": "ok",
-      "video_id": "a67fsB8SLWE",
-      "title": "Fatih Ürek'in Mirası #shorts"
-    },
-    {
       "ts": "2026-06-27T07:44:20",
       "status": "ok",
       "video_id": "schyDvOXrI4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Zgjlu_rmctM",
       "title": "Gökhan Güney'i kimse böyle görmemişti #gökhangüneye #shorts #skandal"
+    },
+    {
+      "ts": "2026-06-30T19:27:45",
+      "status": "ok",
+      "video_id": "BAskYkEbO_s",
+      "title": "Emre Kınay'ın kızı kim? #emrekınay #shorts"
     }
   ]
 }
