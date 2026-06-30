@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-26T14:40:34",
-      "status": "ok",
-      "video_id": "UHYO2A2le5Y",
-      "title": "Nihat Doğan'a Tepki #shorts"
-    },
-    {
       "ts": "2026-06-26T17:03:32",
       "status": "ok",
       "video_id": "OUwo3kJDOQs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "aHIXPt3egnw",
       "title": "Simge Barankoğlu neden içeriğini sildi? #simgebarankoğlu #shorts"
+    },
+    {
+      "ts": "2026-06-30T14:36:39",
+      "status": "ok",
+      "video_id": "QerY9Lnc13w",
+      "title": "Serenay Sarıkaya'nın gizli tatili #shorts #serenaysarıkayadan"
     }
   ]
 }
