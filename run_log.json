@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-26T08:26:48",
-      "status": "ok",
-      "video_id": "XVVT1SS0Sm0",
-      "title": "Kadir İnanır'ın Yitirdiği Sevgili Abla #shorts"
-    },
-    {
       "ts": "2026-06-26T11:43:55",
       "status": "ok",
       "video_id": "V5XPWQm3AzE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "iHfURxI4Asg",
       "title": "Zeynep Öykü Radyoda Bebeğini Emzirirken Ne Yaptı? #zeynepöykü #shorts"
+    },
+    {
+      "ts": "2026-06-30T08:25:41",
+      "status": "ok",
+      "video_id": "HeMnuzlEA6A",
+      "title": "Hadise anne olmak ister mi? #hadiseanne #shorts #müzik"
     }
   ]
 }
