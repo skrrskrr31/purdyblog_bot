@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-26T17:03:32",
-      "status": "ok",
-      "video_id": "OUwo3kJDOQs",
-      "title": "İbrahim Tatlıses'in Gelinin Muhteşem Görüntüsü #shorts"
-    },
-    {
       "ts": "2026-06-26T19:25:05",
       "status": "ok",
       "video_id": "a67fsB8SLWE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "QerY9Lnc13w",
       "title": "Serenay Sarıkaya'nın gizli tatili #shorts #serenaysarıkayadan"
+    },
+    {
+      "ts": "2026-06-30T17:08:34",
+      "status": "ok",
+      "video_id": "Zgjlu_rmctM",
+      "title": "Gökhan Güney'i kimse böyle görmemişti #gökhangüneye #shorts #skandal"
     }
   ]
 }
