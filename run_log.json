@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-26T11:43:55",
-      "status": "ok",
-      "video_id": "V5XPWQm3AzE",
-      "title": "Kadir İnanır'ın Son Durumu #shorts"
-    },
-    {
       "ts": "2026-06-26T14:40:34",
       "status": "ok",
       "video_id": "UHYO2A2le5Y",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "HeMnuzlEA6A",
       "title": "Hadise anne olmak ister mi? #hadiseanne #shorts #müzik"
+    },
+    {
+      "ts": "2026-06-30T11:44:46",
+      "status": "ok",
+      "video_id": "aHIXPt3egnw",
+      "title": "Simge Barankoğlu neden içeriğini sildi? #simgebarankoğlu #shorts"
     }
   ]
 }
