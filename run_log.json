@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-27T10:57:09",
-      "status": "ok",
-      "video_id": "DKikpCFS8Ng",
-      "title": "Defne Samyeli'nin Kızı Kıbrıs'ta Romantik #shorts"
-    },
-    {
       "ts": "2026-06-27T14:00:14",
       "status": "ok",
       "video_id": "pm4MUd0U40U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "WjTJS-s6O60",
       "title": "2.05m ile 1.57m! Nasıl Öpüşüyorlar? #shorts #GameOfThrones"
+    },
+    {
+      "ts": "2026-07-01T12:07:23",
+      "status": "ok",
+      "video_id": "F70IQ9T9BLY",
+      "title": "Demet Şener'in kızıyla sürpriz #demetşener #shorts"
     }
   ]
 }
