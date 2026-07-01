@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-27T14:00:14",
-      "status": "ok",
-      "video_id": "pm4MUd0U40U",
-      "title": "Gezep Neden Ayrıldı? #shorts"
-    },
-    {
       "ts": "2026-06-27T16:09:19",
       "status": "ok",
       "video_id": "8PUpBjnJZQg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "F70IQ9T9BLY",
       "title": "Demet Şener'in kızıyla sürpriz #demetşener #shorts"
+    },
+    {
+      "ts": "2026-07-01T14:53:23",
+      "status": "ok",
+      "video_id": "tD9c8rXCVaI",
+      "title": "Deniz Akkaya neler yaşadı? #kocaelininkartepe #shorts"
     }
   ]
 }
