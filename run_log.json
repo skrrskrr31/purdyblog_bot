@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-27T07:44:20",
-      "status": "ok",
-      "video_id": "schyDvOXrI4",
-      "title": "Kadir İnanır'ın Cenaze #shorts"
-    },
-    {
       "ts": "2026-06-27T10:57:09",
       "status": "ok",
       "video_id": "DKikpCFS8Ng",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BAskYkEbO_s",
       "title": "Emre Kınay'ın kızı kim? #emrekınay #shorts"
+    },
+    {
+      "ts": "2026-07-01T08:46:43",
+      "status": "ok",
+      "video_id": "WjTJS-s6O60",
+      "title": "2.05m ile 1.57m! Nasıl Öpüşüyorlar? #shorts #GameOfThrones"
     }
   ]
 }
