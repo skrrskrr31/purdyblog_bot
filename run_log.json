@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-27T18:58:42",
-      "status": "ok",
-      "video_id": "0vAVqui7wS0",
-      "title": "Sahra Işık'ın Skandal İddiası #shorts"
-    },
-    {
       "ts": "2026-06-28T08:17:02",
       "status": "ok",
       "video_id": "CCcdjGbJIZY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "HRL_t63SIV8",
       "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
+    },
+    {
+      "ts": "2026-07-01T19:26:39",
+      "status": "ok",
+      "video_id": "9y7s_vKXuwc",
+      "title": "Kadir İnanır nasıl öldü? #Kadirİnanır #Shorts"
     }
   ]
 }
