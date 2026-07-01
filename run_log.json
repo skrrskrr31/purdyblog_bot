@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-27T16:09:19",
-      "status": "ok",
-      "video_id": "8PUpBjnJZQg",
-      "title": "Kubilay Kaan Kundakçı Davası #shorts"
-    },
-    {
       "ts": "2026-06-27T18:58:42",
       "status": "ok",
       "video_id": "0vAVqui7wS0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tD9c8rXCVaI",
       "title": "Deniz Akkaya neler yaşadı? #kocaelininkartepe #shorts"
+    },
+    {
+      "ts": "2026-07-01T17:20:32",
+      "status": "ok",
+      "video_id": "HRL_t63SIV8",
+      "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
     }
   ]
 }
