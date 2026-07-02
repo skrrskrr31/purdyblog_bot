@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-28T11:06:38",
-      "status": "ok",
-      "video_id": "gn_f3szgvDo",
-      "title": "Aleyna Tesettürünü Çıkardı #shorts"
-    },
-    {
       "ts": "2026-06-28T14:06:49",
       "status": "ok",
       "video_id": "0JZMFQ2oRzE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Tb7ntO6ve3o",
       "title": "2.05m ile 1.57m! #shorts #BoyFarkı"
+    },
+    {
+      "ts": "2026-07-02T11:33:31",
+      "status": "ok",
+      "video_id": "KpKOynXOm3A",
+      "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
     }
   ]
 }
