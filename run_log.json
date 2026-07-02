@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-28T18:58:30",
-      "status": "ok",
-      "video_id": "NudXaLC77n4",
-      "title": "Kadir İnanır'ın şaşırtan vasiyeti! #shorts"
-    },
-    {
       "ts": "2026-06-29T09:23:27",
       "status": "ok",
       "video_id": "HKz4s1ToM7g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "F0eBB-A6oB8",
       "title": "Kamuran İnselel'i kimse görmeye gelmedi? #kamurani̇nselele #shorts"
+    },
+    {
+      "ts": "2026-07-02T19:04:47",
+      "status": "ok",
+      "video_id": "WrSO4CXHZzk",
+      "title": "2.05m ile 1.57m! #ThorBjornsson #shorts"
     }
   ]
 }
