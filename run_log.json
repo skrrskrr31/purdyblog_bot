@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-28T14:06:49",
-      "status": "ok",
-      "video_id": "0JZMFQ2oRzE",
-      "title": "Kadir İnanır'a Veda #shorts"
-    },
-    {
       "ts": "2026-06-28T16:15:55",
       "status": "ok",
       "video_id": "R08Iy2YRkAs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KpKOynXOm3A",
       "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
+    },
+    {
+      "ts": "2026-07-02T14:23:23",
+      "status": "ok",
+      "video_id": "NJVi9tvQ-1Q",
+      "title": "Sinan Akçıl'ı kimse böyle görmemişti! #sinanakçıl #shorts #Polemik"
     }
   ]
 }
