@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-29T13:06:36",
-      "status": "ok",
-      "video_id": "9s22s3hS4TI",
-      "title": "Hakan Aysev 7._kez_mi_evleniyor? #hakanaysev #shorts"
-    },
-    {
       "ts": "2026-06-29T16:03:33",
       "status": "ok",
       "video_id": "F-pLyxp_YEg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "egAWH5Hqsh0",
       "title": "Işın Karaca'nınkilere inanılmaz dönüşümü #IşınKaraca #shorts #zayıflama"
+    },
+    {
+      "ts": "2026-07-06T12:46:25",
+      "status": "ok",
+      "video_id": "OI5FiIsL_Gc",
+      "title": "Tarkan'ın radikal imaj değişimi! #Tarkan #shorts"
     }
   ]
 }
