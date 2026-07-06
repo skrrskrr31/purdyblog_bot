@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-29T16:03:33",
-      "status": "ok",
-      "video_id": "F-pLyxp_YEg",
-      "title": "Hanife Gürdal'ın Gizli Evliliği #hanifegürdal #shorts"
-    },
-    {
       "ts": "2026-06-29T17:42:52",
       "status": "ok",
       "video_id": "QJg0vXZNF30",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OI5FiIsL_Gc",
       "title": "Tarkan'ın radikal imaj değişimi! #Tarkan #shorts"
+    },
+    {
+      "ts": "2026-07-06T15:51:51",
+      "status": "ok",
+      "video_id": "XtS8iu7RkuU",
+      "title": "Ece İrtem'in Ölümünün Gerçek Nedeni Ne? #oyuncuecei̇rtemin #shorts"
     }
   ]
 }
