@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-29T17:42:52",
-      "status": "ok",
-      "video_id": "QJg0vXZNF30",
-      "title": "Melis Sezen'in Saklı Cenneti Neresi? #melissezenin #shorts #tatil"
-    },
-    {
       "ts": "2026-06-29T19:29:50",
       "status": "ok",
       "video_id": "iHfURxI4Asg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XtS8iu7RkuU",
       "title": "Ece İrtem'in Ölümünün Gerçek Nedeni Ne? #oyuncuecei̇rtemin #shorts"
+    },
+    {
+      "ts": "2026-07-06T17:47:33",
+      "status": "ok",
+      "video_id": "HDk_9RP3oDA",
+      "title": "Nihayet! Buçe Buse Kahraman Evleniyor #buçebusekahraman #shorts"
     }
   ]
 }
