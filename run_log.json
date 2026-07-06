@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-29T09:23:27",
-      "status": "ok",
-      "video_id": "HKz4s1ToM7g",
-      "title": "Deniz Göktaş kaçtı mı? #denizgöktaştan #shorts"
-    },
-    {
       "ts": "2026-06-29T13:06:36",
       "status": "ok",
       "video_id": "9s22s3hS4TI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "WrSO4CXHZzk",
       "title": "2.05m ile 1.57m! #ThorBjornsson #shorts"
+    },
+    {
+      "ts": "2026-07-06T08:56:59",
+      "status": "ok",
+      "video_id": "egAWH5Hqsh0",
+      "title": "Işın Karaca'nınkilere inanılmaz dönüşümü #IşınKaraca #shorts #zayıflama"
     }
   ]
 }
