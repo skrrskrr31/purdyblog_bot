@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-29T19:29:50",
-      "status": "ok",
-      "video_id": "iHfURxI4Asg",
-      "title": "Zeynep Öykü Radyoda Bebeğini Emzirirken Ne Yaptı? #zeynepöykü #shorts"
-    },
-    {
       "ts": "2026-06-30T08:25:41",
       "status": "ok",
       "video_id": "HeMnuzlEA6A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "HDk_9RP3oDA",
       "title": "Nihayet! Buçe Buse Kahraman Evleniyor #buçebusekahraman #shorts"
+    },
+    {
+      "ts": "2026-07-06T19:27:00",
+      "status": "ok",
+      "video_id": "YA1tlIBxZVE",
+      "title": "Ahu Tuğba'nın gizli mirası neler içeriyor? #ahutuğbanın #Shorts"
     }
   ]
 }
