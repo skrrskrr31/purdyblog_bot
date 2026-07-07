@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-30T19:27:45",
-      "status": "ok",
-      "video_id": "BAskYkEbO_s",
-      "title": "Emre Kınay'ın kızı kim? #emrekınay #shorts"
-    },
-    {
       "ts": "2026-07-01T08:46:43",
       "status": "ok",
       "video_id": "WjTJS-s6O60",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "3EF_ryl7TyI",
       "title": "Nebahat Çehre geri mi geliyor? #nebahatçehre #shorts"
+    },
+    {
+      "ts": "2026-07-07T19:28:51",
+      "status": "ok",
+      "video_id": "bRvnR_l7eAk",
+      "title": "Ünlü fenomen how oldu? #shorts #cinayet"
     }
   ]
 }
