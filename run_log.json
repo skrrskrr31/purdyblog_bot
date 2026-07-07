@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-30T11:44:46",
-      "status": "ok",
-      "video_id": "aHIXPt3egnw",
-      "title": "Simge Barankoğlu neden içeriğini sildi? #simgebarankoğlu #shorts"
-    },
-    {
       "ts": "2026-06-30T14:36:39",
       "status": "ok",
       "video_id": "QerY9Lnc13w",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ktbWydnUfCA",
       "title": "Galler Prensesi Kate Middleton Zirveye Tırmandı! #shorts #gallerprensesikatemidd"
+    },
+    {
+      "ts": "2026-07-07T11:49:52",
+      "status": "ok",
+      "video_id": "rE3jFkyq5_Y",
+      "title": "63 Yaşındaki Sosyetik İsim 25 Yaşındaki Sevgiliyle İlişki Yaşıyor! #kızındanbile"
     }
   ]
 }
