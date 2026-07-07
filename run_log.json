@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-30T08:25:41",
-      "status": "ok",
-      "video_id": "HeMnuzlEA6A",
-      "title": "Hadise anne olmak ister mi? #hadiseanne #shorts #müzik"
-    },
-    {
       "ts": "2026-06-30T11:44:46",
       "status": "ok",
       "video_id": "aHIXPt3egnw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "YA1tlIBxZVE",
       "title": "Ahu Tuğba'nın gizli mirası neler içeriyor? #ahutuğbanın #Shorts"
+    },
+    {
+      "ts": "2026-07-07T08:18:09",
+      "status": "ok",
+      "video_id": "ktbWydnUfCA",
+      "title": "Galler Prensesi Kate Middleton Zirveye Tırmandı! #shorts #gallerprensesikatemidd"
     }
   ]
 }
