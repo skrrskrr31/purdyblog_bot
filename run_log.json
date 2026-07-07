@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-06-30T17:08:34",
-      "status": "ok",
-      "video_id": "Zgjlu_rmctM",
-      "title": "Gökhan Güney'i kimse böyle görmemişti #gökhangüneye #shorts #skandal"
-    },
-    {
       "ts": "2026-06-30T19:27:45",
       "status": "ok",
       "video_id": "BAskYkEbO_s",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "HS_mGOA82xo",
       "title": "Ali Koç'un eşi Nevbahar Koç'un tarihi yalısı #AliKoçun #Shorts #Yalı"
+    },
+    {
+      "ts": "2026-07-07T17:21:39",
+      "status": "ok",
+      "video_id": "3EF_ryl7TyI",
+      "title": "Nebahat Çehre geri mi geliyor? #nebahatçehre #shorts"
     }
   ]
 }
