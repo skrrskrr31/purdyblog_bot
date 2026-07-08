@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-01T08:46:43",
-      "status": "ok",
-      "video_id": "WjTJS-s6O60",
-      "title": "2.05m ile 1.57m! Nasıl Öpüşüyorlar? #shorts #GameOfThrones"
-    },
-    {
       "ts": "2026-07-01T12:07:23",
       "status": "ok",
       "video_id": "F70IQ9T9BLY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bRvnR_l7eAk",
       "title": "Ünlü fenomen how oldu? #shorts #cinayet"
+    },
+    {
+      "ts": "2026-07-08T07:25:20",
+      "status": "ok",
+      "video_id": "acdpjIz59oc",
+      "title": "Brad Pitt'ten şok aşk! #bradpittten #shorts"
     }
   ]
 }
