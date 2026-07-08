@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-01T17:20:32",
-      "status": "ok",
-      "video_id": "HRL_t63SIV8",
-      "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
-    },
-    {
       "ts": "2026-07-01T19:26:39",
       "status": "ok",
       "video_id": "9y7s_vKXuwc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xbmaz5hUapA",
       "title": "Zeynep Bastık Evleniyor Mu? #zeynepbastık #shorts"
+    },
+    {
+      "ts": "2026-07-08T16:43:21",
+      "status": "ok",
+      "video_id": "5MhsxyXK9g8",
+      "title": "Taylor Swift 20 Milyon Dolar mı Harcadı? #Shorts #Düğün"
     }
   ]
 }
