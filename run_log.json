@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-01T14:53:23",
-      "status": "ok",
-      "video_id": "tD9c8rXCVaI",
-      "title": "Deniz Akkaya neler yaşadı? #kocaelininkartepe #shorts"
-    },
-    {
       "ts": "2026-07-01T17:20:32",
       "status": "ok",
       "video_id": "HRL_t63SIV8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "u4ZwORKEgko",
       "title": "Ebru Şahin'in 4. tahunü #ebruşahin #shorts"
+    },
+    {
+      "ts": "2026-07-08T14:33:53",
+      "status": "ok",
+      "video_id": "xbmaz5hUapA",
+      "title": "Zeynep Bastık Evleniyor Mu? #zeynepbastık #shorts"
     }
   ]
 }
