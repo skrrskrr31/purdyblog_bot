@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-01T12:07:23",
-      "status": "ok",
-      "video_id": "F70IQ9T9BLY",
-      "title": "Demet Şener'in kızıyla sürpriz #demetşener #shorts"
-    },
-    {
       "ts": "2026-07-01T14:53:23",
       "status": "ok",
       "video_id": "tD9c8rXCVaI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "acdpjIz59oc",
       "title": "Brad Pitt'ten şok aşk! #bradpittten #shorts"
+    },
+    {
+      "ts": "2026-07-08T11:03:27",
+      "status": "ok",
+      "video_id": "u4ZwORKEgko",
+      "title": "Ebru Şahin'in 4. tahunü #ebruşahin #shorts"
     }
   ]
 }
