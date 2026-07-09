@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-02T14:23:23",
-      "status": "ok",
-      "video_id": "NJVi9tvQ-1Q",
-      "title": "Sinan Akçıl'ı kimse böyle görmemişti! #sinanakçıl #shorts #Polemik"
-    },
-    {
       "ts": "2026-07-02T16:54:15",
       "status": "ok",
       "video_id": "F0eBB-A6oB8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hx13XxEhzPs",
       "title": "Ice Spice'in dudak uçuklatan yeni piercingi ne anlama geliyor? #icespice #shorts"
+    },
+    {
+      "ts": "2026-07-09T15:29:06",
+      "status": "ok",
+      "video_id": "rWSqGJTpSFc",
+      "title": "Melisa Aslı PamukFIRST TİME #melisaaslıpamuktan #shorts #moda"
     }
   ]
 }
