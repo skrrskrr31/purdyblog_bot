@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-02T16:54:15",
-      "status": "ok",
-      "video_id": "F0eBB-A6oB8",
-      "title": "Kamuran İnselel'i kimse görmeye gelmedi? #kamurani̇nselele #shorts"
-    },
-    {
       "ts": "2026-07-02T19:04:47",
       "status": "ok",
       "video_id": "WrSO4CXHZzk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "rWSqGJTpSFc",
       "title": "Melisa Aslı PamukFIRST TİME #melisaaslıpamuktan #shorts #moda"
+    },
+    {
+      "ts": "2026-07-09T17:23:59",
+      "status": "ok",
+      "video_id": "lXyH4TSlcuw",
+      "title": "2 Milyon Dolarlık Çanta #babasıasyanın #shorts #lüks"
     }
   ]
 }
