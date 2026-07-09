@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-02T11:33:31",
-      "status": "ok",
-      "video_id": "KpKOynXOm3A",
-      "title": "Deniz Göktaş'tan sürpriz açıklama! #denizgöktaştan #shorts"
-    },
-    {
       "ts": "2026-07-02T14:23:23",
       "status": "ok",
       "video_id": "NJVi9tvQ-1Q",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LHf35nxirFk",
       "title": "Ali Ağaoğlu'nun beklenmedik sürprizi #aliağaoğlundan #shorts"
+    },
+    {
+      "ts": "2026-07-09T11:56:54",
+      "status": "ok",
+      "video_id": "hx13XxEhzPs",
+      "title": "Ice Spice'in dudak uçuklatan yeni piercingi ne anlama geliyor? #icespice #shorts"
     }
   ]
 }
