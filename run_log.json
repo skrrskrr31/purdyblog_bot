@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-02T08:09:38",
-      "status": "ok",
-      "video_id": "Tb7ntO6ve3o",
-      "title": "2.05m ile 1.57m! #shorts #BoyFarkı"
-    },
-    {
       "ts": "2026-07-02T11:33:31",
       "status": "ok",
       "video_id": "KpKOynXOm3A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "DGFI2v46ayA",
       "title": "Nebahat Çehre 82 yaşında mı? #nebahatçehre #shorts"
+    },
+    {
+      "ts": "2026-07-09T08:22:55",
+      "status": "ok",
+      "video_id": "LHf35nxirFk",
+      "title": "Ali Ağaoğlu'nun beklenmedik sürprizi #aliağaoğlundan #shorts"
     }
   ]
 }
