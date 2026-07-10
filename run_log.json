@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-06T17:47:33",
-      "status": "ok",
-      "video_id": "HDk_9RP3oDA",
-      "title": "Nihayet! Buçe Buse Kahraman Evleniyor #buçebusekahraman #shorts"
-    },
-    {
       "ts": "2026-07-06T19:27:00",
       "status": "ok",
       "video_id": "YA1tlIBxZVE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "G-e_6UPn4jA",
       "title": "Kıvanç Tatlıtuğ'un 第二 bébek haberı! Kız mı, erkek mi? #kıvançtatlıtuğ #shorts"
+    },
+    {
+      "ts": "2026-07-10T17:00:20",
+      "status": "ok",
+      "video_id": "-xgQSB5GXX8",
+      "title": "Lottie Moss'un şeffaf elbisesi nedir? #lottiemosstan #shorts #moda"
     }
   ]
 }
