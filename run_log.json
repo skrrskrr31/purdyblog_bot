@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-06T12:46:25",
-      "status": "ok",
-      "video_id": "OI5FiIsL_Gc",
-      "title": "Tarkan'ın radikal imaj değişimi! #Tarkan #shorts"
-    },
-    {
       "ts": "2026-07-06T15:51:51",
       "status": "ok",
       "video_id": "XtS8iu7RkuU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "rUcJ6k_jEso",
       "title": "Kıvanç Tatlıtuğ'un segunda bebek heyecanı! #kıvançtatlıtuğ #shorts"
+    },
+    {
+      "ts": "2026-07-10T11:51:54",
+      "status": "ok",
+      "video_id": "T8yrB26so84",
+      "title": "Başak Dizer hamile mi? #shorts #başakdizerhamile"
     }
   ]
 }
