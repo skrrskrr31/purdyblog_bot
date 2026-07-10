@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-06T19:27:00",
-      "status": "ok",
-      "video_id": "YA1tlIBxZVE",
-      "title": "Ahu Tuğba'nın gizli mirası neler içeriyor? #ahutuğbanın #Shorts"
-    },
-    {
       "ts": "2026-07-07T08:18:09",
       "status": "ok",
       "video_id": "ktbWydnUfCA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-xgQSB5GXX8",
       "title": "Lottie Moss'un şeffaf elbisesi nedir? #lottiemosstan #shorts #moda"
+    },
+    {
+      "ts": "2026-07-10T19:11:42",
+      "status": "ok",
+      "video_id": "mXLeluSf7_g",
+      "title": "Melisa Aslı Pamuk ne giymiş? #melisaaslıpamuktan #shorts"
     }
   ]
 }
