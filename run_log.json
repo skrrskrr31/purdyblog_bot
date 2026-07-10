@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-06T08:56:59",
-      "status": "ok",
-      "video_id": "egAWH5Hqsh0",
-      "title": "Işın Karaca'nınkilere inanılmaz dönüşümü #IşınKaraca #shorts #zayıflama"
-    },
-    {
       "ts": "2026-07-06T12:46:25",
       "status": "ok",
       "video_id": "OI5FiIsL_Gc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BvfDh1rKj5A",
       "title": "50 yaşındaki Charlize Theron şok etti! #paristecharlizetheron #shorts"
+    },
+    {
+      "ts": "2026-07-10T08:17:05",
+      "status": "ok",
+      "video_id": "rUcJ6k_jEso",
+      "title": "Kıvanç Tatlıtuğ'un segunda bebek heyecanı! #kıvançtatlıtuğ #shorts"
     }
   ]
 }
