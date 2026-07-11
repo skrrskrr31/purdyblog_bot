@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-07T19:28:51",
-      "status": "ok",
-      "video_id": "bRvnR_l7eAk",
-      "title": "Ünlü fenomen how oldu? #shorts #cinayet"
-    },
-    {
       "ts": "2026-07-08T07:25:20",
       "status": "ok",
       "video_id": "acdpjIz59oc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ywJ_wdpClcE",
       "title": "Başak Dizer hamile mi? #shorts #başakdizerhamile"
+    },
+    {
+      "ts": "2026-07-11T18:40:23",
+      "status": "ok",
+      "video_id": "yny_RvRXUac",
+      "title": "Melisa Aslı Pamuktan'in Şok Edici Stili! #melisaaslıpamuktan #shorts #moda"
     }
   ]
 }
