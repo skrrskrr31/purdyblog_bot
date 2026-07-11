@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-07T08:18:09",
-      "status": "ok",
-      "video_id": "ktbWydnUfCA",
-      "title": "Galler Prensesi Kate Middleton Zirveye Tırmandı! #shorts #gallerprensesikatemidd"
-    },
-    {
       "ts": "2026-07-07T11:49:52",
       "status": "ok",
       "video_id": "rE3jFkyq5_Y",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mXLeluSf7_g",
       "title": "Melisa Aslı Pamuk ne giymiş? #melisaaslıpamuktan #shorts"
+    },
+    {
+      "ts": "2026-07-11T07:08:11",
+      "status": "ok",
+      "video_id": "UjBdG6Rb3ZE",
+      "title": "Melisa Aslı Pamuk'un cesur seçimi! #melisaaslıpamuktan #shorts"
     }
   ]
 }
