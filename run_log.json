@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-07T14:55:40",
-      "status": "ok",
-      "video_id": "HS_mGOA82xo",
-      "title": "Ali Koç'un eşi Nevbahar Koç'un tarihi yalısı #AliKoçun #Shorts #Yalı"
-    },
-    {
       "ts": "2026-07-07T17:21:39",
       "status": "ok",
       "video_id": "3EF_ryl7TyI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "3qgI6dxxQ_g",
       "title": "Oğuzhan Koç'un Gizli Karın Kasları mı? #shorts #OğuzhanKoç"
+    },
+    {
+      "ts": "2026-07-11T13:44:34",
+      "status": "ok",
+      "video_id": "9xRuA0J8hd0",
+      "title": "Oğuzhan Koç'un Gizli Karın Kasları? #shorts #OğuzhanKoç"
     }
   ]
 }
