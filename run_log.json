@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-07T11:49:52",
-      "status": "ok",
-      "video_id": "rE3jFkyq5_Y",
-      "title": "63 Yaşındaki Sosyetik İsim 25 Yaşındaki Sevgiliyle İlişki Yaşıyor! #kızındanbile"
-    },
-    {
       "ts": "2026-07-07T14:55:40",
       "status": "ok",
       "video_id": "HS_mGOA82xo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "UjBdG6Rb3ZE",
       "title": "Melisa Aslı Pamuk'un cesur seçimi! #melisaaslıpamuktan #shorts"
+    },
+    {
+      "ts": "2026-07-11T10:14:08",
+      "status": "ok",
+      "video_id": "3qgI6dxxQ_g",
+      "title": "Oğuzhan Koç'un Gizli Karın Kasları mı? #shorts #OğuzhanKoç"
     }
   ]
 }
