@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-08T14:33:53",
-      "status": "ok",
-      "video_id": "xbmaz5hUapA",
-      "title": "Zeynep Bastık Evleniyor Mu? #zeynepbastık #shorts"
-    },
-    {
       "ts": "2026-07-08T16:43:21",
       "status": "ok",
       "video_id": "5MhsxyXK9g8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OPbOWEUmgqQ",
       "title": "Işın Karaca 72 Kilo Verdinin #işınkaracanın #kilotanındıkaybet #shorts"
+    },
+    {
+      "ts": "2026-07-12T13:45:59",
+      "status": "ok",
+      "video_id": "AltUlTcq1K8",
+      "title": "Tarkan'ın Radikal Değişimi! #Tarkan #shorts"
     }
   ]
 }
