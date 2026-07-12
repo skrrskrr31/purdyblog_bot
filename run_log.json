@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-08T19:01:00",
-      "status": "ok",
-      "video_id": "DGFI2v46ayA",
-      "title": "Nebahat Çehre 82 yaşında mı? #nebahatçehre #shorts"
-    },
-    {
       "ts": "2026-07-09T08:22:55",
       "status": "ok",
       "video_id": "LHf35nxirFk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0vPJ5D22fAA",
       "title": "Lottie Moss'un şok eden görüntüleri! #lottiemosstan #shorts"
+    },
+    {
+      "ts": "2026-07-12T18:43:56",
+      "status": "ok",
+      "video_id": "iemPWxF28co",
+      "title": "Başak Dizer hamile mi? #shorts #başakdizerhamile"
     }
   ]
 }
