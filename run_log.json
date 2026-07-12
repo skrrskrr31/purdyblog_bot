@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-08T07:25:20",
-      "status": "ok",
-      "video_id": "acdpjIz59oc",
-      "title": "Brad Pitt'ten şok aşk! #bradpittten #shorts"
-    },
-    {
       "ts": "2026-07-08T11:03:27",
       "status": "ok",
       "video_id": "u4ZwORKEgko",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "yny_RvRXUac",
       "title": "Melisa Aslı Pamuktan'in Şok Edici Stili! #melisaaslıpamuktan #shorts #moda"
+    },
+    {
+      "ts": "2026-07-12T07:25:56",
+      "status": "ok",
+      "video_id": "B12PSxNVQOg",
+      "title": "Ricky Martin 15 Yıl Sonra Neden İstanbul'a Geldi? #rickymartin #shorts"
     }
   ]
 }
