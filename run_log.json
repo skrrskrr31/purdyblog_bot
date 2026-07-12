@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-08T11:03:27",
-      "status": "ok",
-      "video_id": "u4ZwORKEgko",
-      "title": "Ebru Şahin'in 4. tahunü #ebruşahin #shorts"
-    },
-    {
       "ts": "2026-07-08T14:33:53",
       "status": "ok",
       "video_id": "xbmaz5hUapA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "B12PSxNVQOg",
       "title": "Ricky Martin 15 Yıl Sonra Neden İstanbul'a Geldi? #rickymartin #shorts"
+    },
+    {
+      "ts": "2026-07-12T10:27:29",
+      "status": "ok",
+      "video_id": "OPbOWEUmgqQ",
+      "title": "Işın Karaca 72 Kilo Verdinin #işınkaracanın #kilotanındıkaybet #shorts"
     }
   ]
 }
