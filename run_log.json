@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-09T11:56:54",
-      "status": "ok",
-      "video_id": "hx13XxEhzPs",
-      "title": "Ice Spice'in dudak uçuklatan yeni piercingi ne anlama geliyor? #icespice #shorts"
-    },
-    {
       "ts": "2026-07-09T15:29:06",
       "status": "ok",
       "video_id": "rWSqGJTpSFc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "pLIA0k1gL38",
       "title": "Kısmetse Olur'da neler oldu? #kısmetseolurda #shorts #dram"
+    },
+    {
+      "ts": "2026-07-14T14:04:13",
+      "status": "ok",
+      "video_id": "Fq5dhG579Iw",
+      "title": "Haluk Levent'in gizli bahisi! #İşteHalukLeventin #Shorts #BahisSkandalı"
     }
   ]
 }
