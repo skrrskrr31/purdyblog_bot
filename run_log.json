@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-09T17:23:59",
-      "status": "ok",
-      "video_id": "lXyH4TSlcuw",
-      "title": "2 Milyon Dolarlık Çanta #babasıasyanın #shorts #lüks"
-    },
-    {
       "ts": "2026-07-09T19:16:49",
       "status": "ok",
       "video_id": "BvfDh1rKj5A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hULHiVRCQjk",
       "title": "Yasemin Kay Allen kimin videosu? #yaseminkayalleni #shorts"
+    },
+    {
+      "ts": "2026-07-14T18:56:42",
+      "status": "ok",
+      "video_id": "tv2SyLfkq_w",
+      "title": "Taylor Swift Evlendi! #taylorswift #shorts"
     }
   ]
 }
