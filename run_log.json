@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-09T15:29:06",
-      "status": "ok",
-      "video_id": "rWSqGJTpSFc",
-      "title": "Melisa Aslı PamukFIRST TİME #melisaaslıpamuktan #shorts #moda"
-    },
-    {
       "ts": "2026-07-09T17:23:59",
       "status": "ok",
       "video_id": "lXyH4TSlcuw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Fq5dhG579Iw",
       "title": "Haluk Levent'in gizli bahisi! #İşteHalukLeventin #Shorts #BahisSkandalı"
+    },
+    {
+      "ts": "2026-07-14T16:19:47",
+      "status": "ok",
+      "video_id": "hULHiVRCQjk",
+      "title": "Yasemin Kay Allen kimin videosu? #yaseminkayalleni #shorts"
     }
   ]
 }
