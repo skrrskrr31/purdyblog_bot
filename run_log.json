@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-10T14:46:03",
-      "status": "ok",
-      "video_id": "G-e_6UPn4jA",
-      "title": "Kıvanç Tatlıtuğ'un 第二 bébek haberı! Kız mı, erkek mi? #kıvançtatlıtuğ #shorts"
-    },
-    {
       "ts": "2026-07-10T17:00:20",
       "status": "ok",
       "video_id": "-xgQSB5GXX8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VuOg0e4Z-4w",
       "title": "Didem Ceran'in yüzü nasıl değişti? #eskisurvivor #shorts"
+    },
+    {
+      "ts": "2026-07-15T16:27:09",
+      "status": "ok",
+      "video_id": "tnaqO03F_pk",
+      "title": "Cem Yılmaz'ın kehaneti gerçek oldu mu? #cemyılmaz #shorts"
     }
   ]
 }
