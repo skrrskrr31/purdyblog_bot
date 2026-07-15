@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-10T17:00:20",
-      "status": "ok",
-      "video_id": "-xgQSB5GXX8",
-      "title": "Lottie Moss'un şeffaf elbisesi nedir? #lottiemosstan #shorts #moda"
-    },
-    {
       "ts": "2026-07-10T19:11:42",
       "status": "ok",
       "video_id": "mXLeluSf7_g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tnaqO03F_pk",
       "title": "Cem Yılmaz'ın kehaneti gerçek oldu mu? #cemyılmaz #shorts"
+    },
+    {
+      "ts": "2026-07-15T18:50:05",
+      "status": "ok",
+      "video_id": "JS5-pOzTw5E",
+      "title": "Danla Bilic yeniden ameliyat oldu! #danlabilic #shorts"
     }
   ]
 }
