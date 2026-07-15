@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-10T08:17:05",
-      "status": "ok",
-      "video_id": "rUcJ6k_jEso",
-      "title": "Kıvanç Tatlıtuğ'un segunda bebek heyecanı! #kıvançtatlıtuğ #shorts"
-    },
-    {
       "ts": "2026-07-10T11:51:54",
       "status": "ok",
       "video_id": "T8yrB26so84",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "3NjLlCxM9qE",
       "title": "Fatma Soydaş yeni aşkını açıkladı! #fatmasoydaşzebaniefe #shorts"
+    },
+    {
+      "ts": "2026-07-15T10:49:16",
+      "status": "ok",
+      "video_id": "b3Cu6zuq5Tw",
+      "title": "250 Bin TL Kaybı! #VarMısınYokMusun #Shorts"
     }
   ]
 }
