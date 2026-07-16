@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-11T13:44:34",
-      "status": "ok",
-      "video_id": "9xRuA0J8hd0",
-      "title": "Oğuzhan Koç'un Gizli Karın Kasları? #shorts #OğuzhanKoç"
-    },
-    {
       "ts": "2026-07-11T15:59:40",
       "status": "ok",
       "video_id": "ywJ_wdpClcE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "12OIzlBNSHg",
       "title": "Neden Gözaltına Alındı? #leventüzümcü #shorts"
+    },
+    {
+      "ts": "2026-07-16T16:20:11",
+      "status": "ok",
+      "video_id": "vO982Mh6Fbw",
+      "title": "İlyas Yalçıntaş'ın terazisi neyin nesi? #i̇lyasyalçıntaştan #shorts"
     }
   ]
 }
