@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-10T19:11:42",
-      "status": "ok",
-      "video_id": "mXLeluSf7_g",
-      "title": "Melisa Aslı Pamuk ne giymiş? #melisaaslıpamuktan #shorts"
-    },
-    {
       "ts": "2026-07-11T07:08:11",
       "status": "ok",
       "video_id": "UjBdG6Rb3ZE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JS5-pOzTw5E",
       "title": "Danla Bilic yeniden ameliyat oldu! #danlabilic #shorts"
+    },
+    {
+      "ts": "2026-07-16T07:19:47",
+      "status": "ok",
+      "video_id": "VaOk1N3F7jA",
+      "title": "Haluk Levent'e ne oldu? #haluklevente #shorts"
     }
   ]
 }
