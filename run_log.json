@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-11T07:08:11",
-      "status": "ok",
-      "video_id": "UjBdG6Rb3ZE",
-      "title": "Melisa Aslı Pamuk'un cesur seçimi! #melisaaslıpamuktan #shorts"
-    },
-    {
       "ts": "2026-07-11T10:14:08",
       "status": "ok",
       "video_id": "3qgI6dxxQ_g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VaOk1N3F7jA",
       "title": "Haluk Levent'e ne oldu? #haluklevente #shorts"
+    },
+    {
+      "ts": "2026-07-16T10:59:24",
+      "status": "ok",
+      "video_id": "hZKfSZ2ZgBM",
+      "title": "Danla Bilic'ten Şok Açıklama! #danlabilicten #shorts #sağlıksorunları"
     }
   ]
 }
