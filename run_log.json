@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-11T15:59:40",
-      "status": "ok",
-      "video_id": "ywJ_wdpClcE",
-      "title": "Başak Dizer hamile mi? #shorts #başakdizerhamile"
-    },
-    {
       "ts": "2026-07-11T18:40:23",
       "status": "ok",
       "video_id": "yny_RvRXUac",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vO982Mh6Fbw",
       "title": "İlyas Yalçıntaş'ın terazisi neyin nesi? #i̇lyasyalçıntaştan #shorts"
+    },
+    {
+      "ts": "2026-07-16T18:51:38",
+      "status": "ok",
+      "video_id": "XfT8mQYx0nY",
+      "title": "Asena Keskinci tesettüre girdi! #asenakeskinci #shorts"
     }
   ]
 }
