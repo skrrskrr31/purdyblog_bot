@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-11T10:14:08",
-      "status": "ok",
-      "video_id": "3qgI6dxxQ_g",
-      "title": "Oğuzhan Koç'un Gizli Karın Kasları mı? #shorts #OğuzhanKoç"
-    },
-    {
       "ts": "2026-07-11T13:44:34",
       "status": "ok",
       "video_id": "9xRuA0J8hd0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "hZKfSZ2ZgBM",
       "title": "Danla Bilic'ten Şok Açıklama! #danlabilicten #shorts #sağlıksorunları"
+    },
+    {
+      "ts": "2026-07-16T14:12:21",
+      "status": "ok",
+      "video_id": "12OIzlBNSHg",
+      "title": "Neden Gözaltına Alındı? #leventüzümcü #shorts"
     }
   ]
 }
