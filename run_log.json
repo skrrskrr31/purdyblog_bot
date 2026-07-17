@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-12T16:02:49",
-      "status": "ok",
-      "video_id": "0vPJ5D22fAA",
-      "title": "Lottie Moss'un şok eden görüntüleri! #lottiemosstan #shorts"
-    },
-    {
       "ts": "2026-07-12T18:43:56",
       "status": "ok",
       "video_id": "iemPWxF28co",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "w2uwozS_HeU",
       "title": "Halit Ergenç'in gizli çay alışkanlığı #BergüzarKorel #Shorts #Ünlüler"
+    },
+    {
+      "ts": "2026-07-17T18:48:07",
+      "status": "ok",
+      "video_id": "v_MsPc77vIE",
+      "title": "Boşanmak bu kadar pahalı mı? #shorts #boşanma"
     }
   ]
 }
