@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-11T18:40:23",
-      "status": "ok",
-      "video_id": "yny_RvRXUac",
-      "title": "Melisa Aslı Pamuktan'in Şok Edici Stili! #melisaaslıpamuktan #shorts #moda"
-    },
-    {
       "ts": "2026-07-12T07:25:56",
       "status": "ok",
       "video_id": "B12PSxNVQOg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XfT8mQYx0nY",
       "title": "Asena Keskinci tesettüre girdi! #asenakeskinci #shorts"
+    },
+    {
+      "ts": "2026-07-17T07:12:52",
+      "status": "ok",
+      "video_id": "-G0fO0D0FXs",
+      "title": "Zeki Alasya'nın sırrı mı? #zekialasyanın #shorts #akasyadurağı"
     }
   ]
 }
