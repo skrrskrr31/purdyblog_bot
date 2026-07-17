@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-12T10:27:29",
-      "status": "ok",
-      "video_id": "OPbOWEUmgqQ",
-      "title": "Işın Karaca 72 Kilo Verdinin #işınkaracanın #kilotanındıkaybet #shorts"
-    },
-    {
       "ts": "2026-07-12T13:45:59",
       "status": "ok",
       "video_id": "AltUlTcq1K8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jWA82DvFqBM",
       "title": "Edis'in 1 Milyon Dolarlık Sırrı mı? #Edis #shorts"
+    },
+    {
+      "ts": "2026-07-17T13:56:24",
+      "status": "ok",
+      "video_id": "KCCamw383gE",
+      "title": "Oktay Kaynarca'dan şaşırtan itiraflar! #oktaykaynarcadan #shorts #kurtlarvadisi"
     }
   ]
 }
