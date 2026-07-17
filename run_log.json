@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-12T13:45:59",
-      "status": "ok",
-      "video_id": "AltUlTcq1K8",
-      "title": "Tarkan'ın Radikal Değişimi! #Tarkan #shorts"
-    },
-    {
       "ts": "2026-07-12T16:02:49",
       "status": "ok",
       "video_id": "0vPJ5D22fAA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KCCamw383gE",
       "title": "Oktay Kaynarca'dan şaşırtan itiraflar! #oktaykaynarcadan #shorts #kurtlarvadisi"
+    },
+    {
+      "ts": "2026-07-17T16:19:09",
+      "status": "ok",
+      "video_id": "w2uwozS_HeU",
+      "title": "Halit Ergenç'in gizli çay alışkanlığı #BergüzarKorel #Shorts #Ünlüler"
     }
   ]
 }
