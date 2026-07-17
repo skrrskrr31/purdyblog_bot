@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-12T07:25:56",
-      "status": "ok",
-      "video_id": "B12PSxNVQOg",
-      "title": "Ricky Martin 15 Yıl Sonra Neden İstanbul'a Geldi? #rickymartin #shorts"
-    },
-    {
       "ts": "2026-07-12T10:27:29",
       "status": "ok",
       "video_id": "OPbOWEUmgqQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-G0fO0D0FXs",
       "title": "Zeki Alasya'nın sırrı mı? #zekialasyanın #shorts #akasyadurağı"
+    },
+    {
+      "ts": "2026-07-17T10:46:50",
+      "status": "ok",
+      "video_id": "jWA82DvFqBM",
+      "title": "Edis'in 1 Milyon Dolarlık Sırrı mı? #Edis #shorts"
     }
   ]
 }
