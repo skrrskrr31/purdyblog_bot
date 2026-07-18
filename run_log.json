@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-14T10:45:25",
-      "status": "ok",
-      "video_id": "pLIA0k1gL38",
-      "title": "Kısmetse Olur'da neler oldu? #kısmetseolurda #shorts #dram"
-    },
-    {
       "ts": "2026-07-14T14:04:13",
       "status": "ok",
       "video_id": "Fq5dhG579Iw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Ui_EIVhKIgY",
       "title": "Yavuz Bingöl Acil Ameliyata Alındı! #yavuzbingölden #shorts"
+    },
+    {
+      "ts": "2026-07-18T10:18:06",
+      "status": "ok",
+      "video_id": "9ioD1JohQUc",
+      "title": "Ayşenur Balcı Cezaevinde! #ayşenurbalcı #shorts #uyusturucusoruşturması"
     }
   ]
 }
