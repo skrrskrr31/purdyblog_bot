@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-12T18:43:56",
-      "status": "ok",
-      "video_id": "iemPWxF28co",
-      "title": "Başak Dizer hamile mi? #shorts #başakdizerhamile"
-    },
-    {
       "ts": "2026-07-14T10:45:25",
       "status": "ok",
       "video_id": "pLIA0k1gL38",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "v_MsPc77vIE",
       "title": "Boşanmak bu kadar pahalı mı? #shorts #boşanma"
+    },
+    {
+      "ts": "2026-07-18T06:56:58",
+      "status": "ok",
+      "video_id": "Ui_EIVhKIgY",
+      "title": "Yavuz Bingöl Acil Ameliyata Alındı! #yavuzbingölden #shorts"
     }
   ]
 }
