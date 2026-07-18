@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-14T16:19:47",
-      "status": "ok",
-      "video_id": "hULHiVRCQjk",
-      "title": "Yasemin Kay Allen kimin videosu? #yaseminkayalleni #shorts"
-    },
-    {
       "ts": "2026-07-14T18:56:42",
       "status": "ok",
       "video_id": "tv2SyLfkq_w",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "F13dwhBu_CY",
       "title": "Mehmed: Fetihler Sultanı dizisi neden Çin'i kızdırıyor? #mehmedfetihlersultanı #"
+    },
+    {
+      "ts": "2026-07-18T16:01:13",
+      "status": "ok",
+      "video_id": "S4pHz9OimoI",
+      "title": "Muhammed Cangören'in Gizli Hayatı #muhammedcangören #shorts"
     }
   ]
 }
