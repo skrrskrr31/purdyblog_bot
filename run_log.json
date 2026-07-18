@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-14T14:04:13",
-      "status": "ok",
-      "video_id": "Fq5dhG579Iw",
-      "title": "Haluk Levent'in gizli bahisi! #İşteHalukLeventin #Shorts #BahisSkandalı"
-    },
-    {
       "ts": "2026-07-14T16:19:47",
       "status": "ok",
       "video_id": "hULHiVRCQjk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9ioD1JohQUc",
       "title": "Ayşenur Balcı Cezaevinde! #ayşenurbalcı #shorts #uyusturucusoruşturması"
+    },
+    {
+      "ts": "2026-07-18T13:39:37",
+      "status": "ok",
+      "video_id": "F13dwhBu_CY",
+      "title": "Mehmed: Fetihler Sultanı dizisi neden Çin'i kızdırıyor? #mehmedfetihlersultanı #"
     }
   ]
 }
