@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-14T18:56:42",
-      "status": "ok",
-      "video_id": "tv2SyLfkq_w",
-      "title": "Taylor Swift Evlendi! #taylorswift #shorts"
-    },
-    {
       "ts": "2026-07-15T07:10:32",
       "status": "ok",
       "video_id": "3NjLlCxM9qE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "S4pHz9OimoI",
       "title": "Muhammed Cangören'in Gizli Hayatı #muhammedcangören #shorts"
+    },
+    {
+      "ts": "2026-07-18T18:41:53",
+      "status": "ok",
+      "video_id": "Urbx34Yapns",
+      "title": "Mahmut Orhan İç Çamaşırı Tezgahına Ne Yaptı? #mahmutorhan #shorts"
     }
   ]
 }
