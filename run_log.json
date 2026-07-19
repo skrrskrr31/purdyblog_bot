@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-15T07:10:32",
-      "status": "ok",
-      "video_id": "3NjLlCxM9qE",
-      "title": "Fatma Soydaş yeni aşkını açıkladı! #fatmasoydaşzebaniefe #shorts"
-    },
-    {
       "ts": "2026-07-15T10:49:16",
       "status": "ok",
       "video_id": "b3Cu6zuq5Tw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Urbx34Yapns",
       "title": "Mahmut Orhan İç Çamaşırı Tezgahına Ne Yaptı? #mahmutorhan #shorts"
+    },
+    {
+      "ts": "2026-07-19T07:24:07",
+      "status": "ok",
+      "video_id": "X6_bPCJy2p8",
+      "title": "82 yaşında mayoda! #nebahatçehreden #shorts"
     }
   ]
 }
