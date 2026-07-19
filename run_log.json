@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-15T10:49:16",
-      "status": "ok",
-      "video_id": "b3Cu6zuq5Tw",
-      "title": "250 Bin TL Kaybı! #VarMısınYokMusun #Shorts"
-    },
-    {
       "ts": "2026-07-15T14:00:57",
       "status": "ok",
       "video_id": "VuOg0e4Z-4w",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "X6_bPCJy2p8",
       "title": "82 yaşında mayoda! #nebahatçehreden #shorts"
+    },
+    {
+      "ts": "2026-07-19T10:27:20",
+      "status": "ok",
+      "video_id": "dDrXcw262zk",
+      "title": "Evliyken yasak aşk mı? #shorts #İhanetSkandalı"
     }
   ]
 }
