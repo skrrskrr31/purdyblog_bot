@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-15T18:50:05",
-      "status": "ok",
-      "video_id": "JS5-pOzTw5E",
-      "title": "Danla Bilic yeniden ameliyat oldu! #danlabilic #shorts"
-    },
-    {
       "ts": "2026-07-16T07:19:47",
       "status": "ok",
       "video_id": "VaOk1N3F7jA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "t7G5-XRspDE",
       "title": "Neslihan Atagül ilk kez konuştu! #neslihanatagülden #shorts"
+    },
+    {
+      "ts": "2026-07-19T18:44:18",
+      "status": "ok",
+      "video_id": "RuSWwXAmdLk",
+      "title": "Cem Yılmaz'ın kuzeni neden gözaltına alındı? #cemyılmazın #shorts #soruşturma"
     }
   ]
 }
