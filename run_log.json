@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-15T16:27:09",
-      "status": "ok",
-      "video_id": "tnaqO03F_pk",
-      "title": "Cem Yılmaz'ın kehaneti gerçek oldu mu? #cemyılmaz #shorts"
-    },
-    {
       "ts": "2026-07-15T18:50:05",
       "status": "ok",
       "video_id": "JS5-pOzTw5E",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tF0Yn7cPPsI",
       "title": "Fatma Soydaş'ın Öpüşme Görüntüsü Gerçek Mi? #fatmasoydaşın #shorts"
+    },
+    {
+      "ts": "2026-07-19T16:01:14",
+      "status": "ok",
+      "video_id": "t7G5-XRspDE",
+      "title": "Neslihan Atagül ilk kez konuştu! #neslihanatagülden #shorts"
     }
   ]
 }
