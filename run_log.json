@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-16T07:19:47",
-      "status": "ok",
-      "video_id": "VaOk1N3F7jA",
-      "title": "Haluk Levent'e ne oldu? #haluklevente #shorts"
-    },
-    {
       "ts": "2026-07-16T10:59:24",
       "status": "ok",
       "video_id": "hZKfSZ2ZgBM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RuSWwXAmdLk",
       "title": "Cem Yılmaz'ın kuzeni neden gözaltına alındı? #cemyılmazın #shorts #soruşturma"
+    },
+    {
+      "ts": "2026-07-20T07:54:08",
+      "status": "ok",
+      "video_id": "xOX4N92UoOQ",
+      "title": "Simge Sağın ve DJ İlkay Şencan niye ayrıldı? #shorts #simgesağınındji̇lkayşencan"
     }
   ]
 }
