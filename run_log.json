@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-16T14:12:21",
-      "status": "ok",
-      "video_id": "12OIzlBNSHg",
-      "title": "Neden Gözaltına Alındı? #leventüzümcü #shorts"
-    },
-    {
       "ts": "2026-07-16T16:20:11",
       "status": "ok",
       "video_id": "vO982Mh6Fbw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "uGO4-weICh4",
       "title": "Tyla Metroda Ne Yaptı? #shorts #Tyla"
+    },
+    {
+      "ts": "2026-07-20T14:26:11",
+      "status": "ok",
+      "video_id": "7yOgHq1Rn8U",
+      "title": "Katie Price'ın Evlilik Skandalı! #shorts #skandal"
     }
   ]
 }
