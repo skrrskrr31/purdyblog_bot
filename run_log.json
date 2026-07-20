@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-16T16:20:11",
-      "status": "ok",
-      "video_id": "vO982Mh6Fbw",
-      "title": "İlyas Yalçıntaş'ın terazisi neyin nesi? #i̇lyasyalçıntaştan #shorts"
-    },
-    {
       "ts": "2026-07-16T18:51:38",
       "status": "ok",
       "video_id": "XfT8mQYx0nY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "7yOgHq1Rn8U",
       "title": "Katie Price'ın Evlilik Skandalı! #shorts #skandal"
+    },
+    {
+      "ts": "2026-07-20T16:27:20",
+      "status": "ok",
+      "video_id": "ztJPH7TCH_g",
+      "title": "Elif Buse Doğan konserde beklediği kalabalığı bulamadı mı? #elifbusedoğan #short"
     }
   ]
 }
