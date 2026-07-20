@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-16T18:51:38",
-      "status": "ok",
-      "video_id": "XfT8mQYx0nY",
-      "title": "Asena Keskinci tesettüre girdi! #asenakeskinci #shorts"
-    },
-    {
       "ts": "2026-07-17T07:12:52",
       "status": "ok",
       "video_id": "-G0fO0D0FXs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ztJPH7TCH_g",
       "title": "Elif Buse Doğan konserde beklediği kalabalığı bulamadı mı? #elifbusedoğan #short"
+    },
+    {
+      "ts": "2026-07-20T19:20:01",
+      "status": "ok",
+      "video_id": "DllihNO5svk",
+      "title": "Edis Lollapalooza'da neler yaptı? #edislollapaloozada #shorts #müzik"
     }
   ]
 }
