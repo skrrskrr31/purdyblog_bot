@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-16T10:59:24",
-      "status": "ok",
-      "video_id": "hZKfSZ2ZgBM",
-      "title": "Danla Bilic'ten Şok Açıklama! #danlabilicten #shorts #sağlıksorunları"
-    },
-    {
       "ts": "2026-07-16T14:12:21",
       "status": "ok",
       "video_id": "12OIzlBNSHg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "xOX4N92UoOQ",
       "title": "Simge Sağın ve DJ İlkay Şencan niye ayrıldı? #shorts #simgesağınındji̇lkayşencan"
+    },
+    {
+      "ts": "2026-07-20T11:44:32",
+      "status": "ok",
+      "video_id": "uGO4-weICh4",
+      "title": "Tyla Metroda Ne Yaptı? #shorts #Tyla"
     }
   ]
 }
