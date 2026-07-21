@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-17T07:12:52",
-      "status": "ok",
-      "video_id": "-G0fO0D0FXs",
-      "title": "Zeki Alasya'nın sırrı mı? #zekialasyanın #shorts #akasyadurağı"
-    },
-    {
       "ts": "2026-07-17T10:46:50",
       "status": "ok",
       "video_id": "jWA82DvFqBM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "DllihNO5svk",
       "title": "Edis Lollapalooza'da neler yaptı? #edislollapaloozada #shorts #müzik"
+    },
+    {
+      "ts": "2026-07-21T07:29:13",
+      "status": "ok",
+      "video_id": "TJswOc6naJo",
+      "title": "Serdar Ortaç'tan üzen itiraf! #serdarortaçtan #shorts #ms"
     }
   ]
 }
