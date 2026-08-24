@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-17T10:46:50",
-      "status": "ok",
-      "video_id": "jWA82DvFqBM",
-      "title": "Edis'in 1 Milyon Dolarlık Sırrı mı? #Edis #shorts"
-    },
-    {
       "ts": "2026-07-17T13:56:24",
       "status": "ok",
       "video_id": "KCCamw383gE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "TJswOc6naJo",
       "title": "Serdar Ortaç'tan üzen itiraf! #serdarortaçtan #shorts #ms"
+    },
+    {
+      "ts": "2026-08-24T13:05:09",
+      "status": "ok",
+      "video_id": "MbPMZWu21IY",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
 }
