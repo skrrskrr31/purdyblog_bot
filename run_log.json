@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-18T06:56:58",
-      "status": "ok",
-      "video_id": "Ui_EIVhKIgY",
-      "title": "Yavuz Bingöl Acil Ameliyata Alındı! #yavuzbingölden #shorts"
-    },
-    {
       "ts": "2026-07-18T10:18:06",
       "status": "ok",
       "video_id": "9ioD1JohQUc",
@@ -119,6 +113,12 @@
       "ts": "2026-08-27T19:25:58",
       "status": "ok",
       "video_id": "z3M9eGl0dvs",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-08-27T22:12:07",
+      "status": "ok",
+      "video_id": "qYZwWGhUEFs",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
