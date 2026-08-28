@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-18T10:18:06",
-      "status": "ok",
-      "video_id": "9ioD1JohQUc",
-      "title": "Ayşenur Balcı Cezaevinde! #ayşenurbalcı #shorts #uyusturucusoruşturması"
-    },
-    {
       "ts": "2026-07-18T13:39:37",
       "status": "ok",
       "video_id": "F13dwhBu_CY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "qYZwWGhUEFs",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-08-28T00:14:54",
+      "status": "ok",
+      "video_id": "bFvkr4EvNs4",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
 }
