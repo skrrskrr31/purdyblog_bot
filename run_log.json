@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-18T16:01:13",
-      "status": "ok",
-      "video_id": "S4pHz9OimoI",
-      "title": "Muhammed Cangören'in Gizli Hayatı #muhammedcangören #shorts"
-    },
-    {
       "ts": "2026-07-18T18:41:53",
       "status": "ok",
       "video_id": "Urbx34Yapns",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9BYnT8KiZxQ",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-08-28T17:19:27",
+      "status": "ok",
+      "video_id": "FpC8Nz7M46Y",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
 }
