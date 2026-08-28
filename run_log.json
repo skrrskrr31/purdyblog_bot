@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-18T18:41:53",
-      "status": "ok",
-      "video_id": "Urbx34Yapns",
-      "title": "Mahmut Orhan İç Çamaşırı Tezgahına Ne Yaptı? #mahmutorhan #shorts"
-    },
-    {
       "ts": "2026-07-19T07:24:07",
       "status": "ok",
       "video_id": "X6_bPCJy2p8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "FpC8Nz7M46Y",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-08-28T20:42:24",
+      "status": "ok",
+      "video_id": "Oyv5CNTGFZM",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
 }
