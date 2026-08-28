@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-19T07:24:07",
-      "status": "ok",
-      "video_id": "X6_bPCJy2p8",
-      "title": "82 yaşında mayoda! #nebahatçehreden #shorts"
-    },
-    {
       "ts": "2026-07-19T10:27:20",
       "status": "ok",
       "video_id": "dDrXcw262zk",
@@ -119,6 +113,12 @@
       "ts": "2026-08-28T20:42:24",
       "status": "ok",
       "video_id": "Oyv5CNTGFZM",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
+    },
+    {
+      "ts": "2026-08-28T22:12:34",
+      "status": "ok",
+      "video_id": "L_k3zAdtX5I",
       "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
