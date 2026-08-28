@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-19T10:27:20",
-      "status": "ok",
-      "video_id": "dDrXcw262zk",
-      "title": "Evliyken yasak aşk mı? #shorts #İhanetSkandalı"
-    },
-    {
       "ts": "2026-07-19T13:42:14",
       "status": "ok",
       "video_id": "tF0Yn7cPPsI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "L_k3zAdtX5I",
       "title": "Gündem olan olay! Detaylar burada #shorts"
+    },
+    {
+      "ts": "2026-08-28T23:52:39",
+      "status": "ok",
+      "video_id": "z_WIttDiw4U",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
 }
