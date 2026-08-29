@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-19T18:44:18",
-      "status": "ok",
-      "video_id": "RuSWwXAmdLk",
-      "title": "Cem Yılmaz'ın kuzeni neden gözaltına alındı? #cemyılmazın #shorts #soruşturma"
-    },
-    {
       "ts": "2026-07-20T07:54:08",
       "status": "ok",
       "video_id": "xOX4N92UoOQ",
@@ -119,6 +113,12 @@
       "ts": "2026-08-29T11:34:14",
       "status": "ok",
       "video_id": "930XMbbYpHM",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-08-29T14:10:32",
+      "status": "ok",
+      "video_id": "_YySIc5K3IE",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
