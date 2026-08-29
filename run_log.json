@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-20T07:54:08",
-      "status": "ok",
-      "video_id": "xOX4N92UoOQ",
-      "title": "Simge Sağın ve DJ İlkay Şencan niye ayrıldı? #shorts #simgesağınındji̇lkayşencan"
-    },
-    {
       "ts": "2026-07-20T11:44:32",
       "status": "ok",
       "video_id": "uGO4-weICh4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_YySIc5K3IE",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-08-29T16:39:44",
+      "status": "ok",
+      "video_id": "16oVe6rPZ4s",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
 }
