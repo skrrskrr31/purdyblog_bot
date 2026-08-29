@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-19T13:42:14",
-      "status": "ok",
-      "video_id": "tF0Yn7cPPsI",
-      "title": "Fatma Soydaş'ın Öpüşme Görüntüsü Gerçek Mi? #fatmasoydaşın #shorts"
-    },
-    {
       "ts": "2026-07-19T16:01:14",
       "status": "ok",
       "video_id": "t7G5-XRspDE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "z_WIttDiw4U",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-08-29T01:19:13",
+      "status": "ok",
+      "video_id": "0QNPLcVLmXM",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
 }
