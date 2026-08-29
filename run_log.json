@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-19T16:01:14",
-      "status": "ok",
-      "video_id": "t7G5-XRspDE",
-      "title": "Neslihan Atagül ilk kez konuştu! #neslihanatagülden #shorts"
-    },
-    {
       "ts": "2026-07-19T18:44:18",
       "status": "ok",
       "video_id": "RuSWwXAmdLk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0QNPLcVLmXM",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-08-29T11:34:14",
+      "status": "ok",
+      "video_id": "930XMbbYpHM",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
 }
