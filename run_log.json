@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-20T14:26:11",
-      "status": "ok",
-      "video_id": "7yOgHq1Rn8U",
-      "title": "Katie Price'ın Evlilik Skandalı! #shorts #skandal"
-    },
-    {
       "ts": "2026-07-20T16:27:20",
       "status": "ok",
       "video_id": "ztJPH7TCH_g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "eNyH-kSSStw",
       "title": "Gündem olan olay! Detaylar burada #shorts"
+    },
+    {
+      "ts": "2026-08-29T20:10:09",
+      "status": "ok",
+      "video_id": "Kzk5VbpeGEU",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
 }
