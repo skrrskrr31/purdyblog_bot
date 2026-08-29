@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-20T11:44:32",
-      "status": "ok",
-      "video_id": "uGO4-weICh4",
-      "title": "Tyla Metroda Ne Yaptı? #shorts #Tyla"
-    },
-    {
       "ts": "2026-07-20T14:26:11",
       "status": "ok",
       "video_id": "7yOgHq1Rn8U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "16oVe6rPZ4s",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-08-29T18:11:12",
+      "status": "ok",
+      "video_id": "eNyH-kSSStw",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
 }
