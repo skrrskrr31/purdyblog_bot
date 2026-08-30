@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-20T19:20:01",
-      "status": "ok",
-      "video_id": "DllihNO5svk",
-      "title": "Edis Lollapalooza'da neler yaptı? #edislollapaloozada #shorts #müzik"
-    },
-    {
       "ts": "2026-07-21T07:29:13",
       "status": "ok",
       "video_id": "TJswOc6naJo",
@@ -119,6 +113,12 @@
       "ts": "2026-08-30T10:26:40",
       "status": "ok",
       "video_id": "9dMpQHD82vk",
+      "title": "Gündem olan olay! Detaylar burada #shorts"
+    },
+    {
+      "ts": "2026-08-30T14:16:43",
+      "status": "ok",
+      "video_id": "OHD_vrNvt5M",
       "title": "Gündem olan olay! Detaylar burada #shorts"
     }
   ]
