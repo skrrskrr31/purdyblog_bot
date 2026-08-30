@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-07-21T07:29:13",
-      "status": "ok",
-      "video_id": "TJswOc6naJo",
-      "title": "Serdar Ortaç'tan üzen itiraf! #serdarortaçtan #shorts #ms"
-    },
-    {
       "ts": "2026-08-24T13:05:09",
       "status": "ok",
       "video_id": "MbPMZWu21IY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OHD_vrNvt5M",
       "title": "Gündem olan olay! Detaylar burada #shorts"
+    },
+    {
+      "ts": "2026-08-30T16:35:07",
+      "status": "ok",
+      "video_id": "UzyuNDh-nJA",
+      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
     }
   ]
 }
