@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-27T22:12:07",
-      "status": "ok",
-      "video_id": "qYZwWGhUEFs",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-08-28T00:14:54",
       "status": "ok",
       "video_id": "bFvkr4EvNs4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "enZgGkd9ftA",
       "title": "Hadise'yi Faslı hayranı nasıl duygulandırdı? #shorts #Hadise #Fas"
+    },
+    {
+      "ts": "2026-08-31T22:11:33",
+      "status": "ok",
+      "video_id": "UivHFtxWEhs",
+      "title": "Metal kaşıklar vücudunda nasıl tutundu? #pelinakilin #shorts #metal"
     }
   ]
 }
