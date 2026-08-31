@@ -529,7 +529,7 @@ def pick_muzik_local(haber_metni):
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content":
                 f'Su Turk magazin haberinin genel tonu nedir?\n\n'
                 f'HABER: "{haber_metni[:300]}"\n\n'
@@ -563,7 +563,7 @@ def generate_hook(haber_metni):
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content":
                 f'Şu magazin haberini oku:\n"{haber_metni[:400]}"\n\n'
                 f'Bu habere uygun, izleyiciyi durduracak KISA bir kanca yazısı yaz. '
@@ -585,7 +585,7 @@ def generate_cta(haber_metni):
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content":
                 f'Şu magazin haberini oku:\n"{haber_metni[:400]}"\n\n'
                 f'Bu habere uygun, izleyiciyi yorum yapmaya teşvik eden çok kısa bir soru yaz. '
@@ -609,7 +609,7 @@ def metin_ozet(haber_metni):
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content":
                 f'Şu haberi Türkçe olarak maksimum 2-3 kısa cümleyle özetle. '
                 f'Toplam 200 karakteri geçme. Haberin tonuna uygun (ciddi ise saygılı, eğlenceli ise enerjik) ama akıcı bir dil kullan. Zorlama clickbait ifadelerden kaçın. '
@@ -634,7 +634,7 @@ def generate_title(haber_metni, kisi_tag=""):
     try:
         client = Groq(api_key=GROQ_API_KEY)
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content":
                 f'Sen başarılı bir YouTube Shorts editörüsün. '
                 f'Şu haberi oku: "{haber_metni[:600]}"\n\n'
