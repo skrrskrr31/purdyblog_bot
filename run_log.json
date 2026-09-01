@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-28T22:12:34",
-      "status": "ok",
-      "video_id": "L_k3zAdtX5I",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-28T23:52:39",
       "status": "ok",
       "video_id": "z_WIttDiw4U",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "pgrknNuOu-4",
       "title": "Manifest konseri sonrası park çöplük mü? #shorts #İzmir"
+    },
+    {
+      "ts": "2026-09-01T20:18:48",
+      "status": "ok",
+      "video_id": "2H6fWXnUgg8",
+      "title": "Margot Robbie aynı kişi mi? Şok fark ortaya çıktı! #shorts #Hollywood"
     }
   ]
 }
