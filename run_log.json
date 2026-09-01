@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-28T17:19:27",
-      "status": "ok",
-      "video_id": "FpC8Nz7M46Y",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-08-28T20:42:24",
       "status": "ok",
       "video_id": "Oyv5CNTGFZM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NDew4WvSE6A",
       "title": "Seda Sayan, Murat Boz’un sorusuna ne dedi? #muratbozun #shorts #seda"
+    },
+    {
+      "ts": "2026-09-01T16:30:44",
+      "status": "ok",
+      "video_id": "_Ada5JMKRCU",
+      "title": "Fadime gizli ödül? #taşacakbudenizinfadimesizeynepatılgandan #shorts"
     }
   ]
 }
