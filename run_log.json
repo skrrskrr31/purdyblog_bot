@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-28T20:42:24",
-      "status": "ok",
-      "video_id": "Oyv5CNTGFZM",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-28T22:12:34",
       "status": "ok",
       "video_id": "L_k3zAdtX5I",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_Ada5JMKRCU",
       "title": "Fadime gizli ödül? #taşacakbudenizinfadimesizeynepatılgandan #shorts"
+    },
+    {
+      "ts": "2026-09-01T18:10:11",
+      "status": "ok",
+      "video_id": "pgrknNuOu-4",
+      "title": "Manifest konseri sonrası park çöplük mü? #shorts #İzmir"
     }
   ]
 }
