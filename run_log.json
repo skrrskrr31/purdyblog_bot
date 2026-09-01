@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-28T01:54:34",
-      "status": "ok",
-      "video_id": "9BYnT8KiZxQ",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-08-28T17:19:27",
       "status": "ok",
       "video_id": "FpC8Nz7M46Y",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "aabLVVpIUps",
       "title": "Ebru Şallı Boğaz’da Tai Chi yaparken şaşırttı! #ebruşallıboğaz #shorts"
+    },
+    {
+      "ts": "2026-09-01T13:56:13",
+      "status": "ok",
+      "video_id": "NDew4WvSE6A",
+      "title": "Seda Sayan, Murat Boz’un sorusuna ne dedi? #muratbozun #shorts #seda"
     }
   ]
 }
