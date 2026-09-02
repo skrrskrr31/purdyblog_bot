@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T14:10:32",
-      "status": "ok",
-      "video_id": "_YySIc5K3IE",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-08-29T16:39:44",
       "status": "ok",
       "video_id": "16oVe6rPZ4s",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "m95885sZsWc",
       "title": "Sora emeklemek yerine ne yaptı? Şok yöntem #i̇remhelvacıoğlunun #shorts"
+    },
+    {
+      "ts": "2026-09-02T18:26:40",
+      "status": "ok",
+      "video_id": "qEM6VWAkhIk",
+      "title": "Pınar Altuğ 52! Kızı Su'nun duygusal mesajı? #pınaraltuğ #shorts"
     }
   ]
 }
