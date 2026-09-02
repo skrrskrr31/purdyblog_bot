@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T01:19:13",
-      "status": "ok",
-      "video_id": "0QNPLcVLmXM",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-08-29T11:34:14",
       "status": "ok",
       "video_id": "930XMbbYpHM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BHV5ulwO5-g",
       "title": "Sıla tekne sürprizi? #kızılcıkşerbetinindoğasısılatürkoğlundan #shorts"
+    },
+    {
+      "ts": "2026-09-02T13:14:51",
+      "status": "ok",
+      "video_id": "yIWSl64YfkM",
+      "title": "Prens Harry’nin çocukları okula neden alınmadı? #prensharrynin #shorts"
     }
   ]
 }
