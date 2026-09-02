@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T16:39:44",
-      "status": "ok",
-      "video_id": "16oVe6rPZ4s",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-08-29T18:11:12",
       "status": "ok",
       "video_id": "eNyH-kSSStw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "qEM6VWAkhIk",
       "title": "Pınar Altuğ 52! Kızı Su'nun duygusal mesajı? #pınaraltuğ #shorts"
+    },
+    {
+      "ts": "2026-09-02T20:17:41",
+      "status": "ok",
+      "video_id": "41z5Av7L058",
+      "title": "57'de hâlâ bu formda? Jennifer Lopez'in sırrı #shorts #jenniferlopezin"
     }
   ]
 }
