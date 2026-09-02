@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-28T23:52:39",
-      "status": "ok",
-      "video_id": "z_WIttDiw4U",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-08-29T01:19:13",
       "status": "ok",
       "video_id": "0QNPLcVLmXM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "2H6fWXnUgg8",
       "title": "Margot Robbie aynı kişi mi? Şok fark ortaya çıktı! #shorts #Hollywood"
+    },
+    {
+      "ts": "2026-09-02T09:26:56",
+      "status": "ok",
+      "video_id": "BHV5ulwO5-g",
+      "title": "Sıla tekne sürprizi? #kızılcıkşerbetinindoğasısılatürkoğlundan #shorts"
     }
   ]
 }
