@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T11:34:14",
-      "status": "ok",
-      "video_id": "930XMbbYpHM",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-08-29T14:10:32",
       "status": "ok",
       "video_id": "_YySIc5K3IE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "yIWSl64YfkM",
       "title": "Prens Harry’nin çocukları okula neden alınmadı? #prensharrynin #shorts"
+    },
+    {
+      "ts": "2026-09-02T16:29:08",
+      "status": "ok",
+      "video_id": "m95885sZsWc",
+      "title": "Sora emeklemek yerine ne yaptı? Şok yöntem #i̇remhelvacıoğlunun #shorts"
     }
   ]
 }
