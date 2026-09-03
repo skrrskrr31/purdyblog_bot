@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T20:10:09",
-      "status": "ok",
-      "video_id": "Kzk5VbpeGEU",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-08-30T10:26:40",
       "status": "ok",
       "video_id": "9dMpQHD82vk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "03Ca1HIGlAo",
       "title": "Alina Boz’un yeni hayat sinyali ne? 🤰💖 #alinaboz #shorts #bebek"
+    },
+    {
+      "ts": "2026-09-03T13:15:48",
+      "status": "ok",
+      "video_id": "38LssPc_Q3A",
+      "title": "İrem Derici doğum gününde mesaj attı! Ne yazdı? #shorts #i̇remdericiden"
     }
   ]
 }
