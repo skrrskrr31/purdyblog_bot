@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-30T10:26:40",
-      "status": "ok",
-      "video_id": "9dMpQHD82vk",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-30T14:16:43",
       "status": "ok",
       "video_id": "OHD_vrNvt5M",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "38LssPc_Q3A",
       "title": "İrem Derici doğum gününde mesaj attı! Ne yazdı? #shorts #i̇remdericiden"
+    },
+    {
+      "ts": "2026-09-03T16:19:45",
+      "status": "ok",
+      "video_id": "oRkiX-rJxkE",
+      "title": "Kim Kardashian'ı dehşete düşüren filtre neydi? #kimkardashianı #shorts"
     }
   ]
 }
