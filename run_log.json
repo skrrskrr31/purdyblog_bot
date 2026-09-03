@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-30T16:35:07",
-      "status": "ok",
-      "video_id": "UzyuNDh-nJA",
-      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
-    },
-    {
       "ts": "2026-08-30T18:25:19",
       "status": "ok",
       "video_id": "lC0Bd2DXvSI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mjDtrU1YYdw",
       "title": "İbrahim Tatlıses Çeşme’de zayıf mı? Şok! #i̇brahimtatlısesin #shorts"
+    },
+    {
+      "ts": "2026-09-03T20:17:27",
+      "status": "ok",
+      "video_id": "R39LBOQxZcU",
+      "title": "Zeynep & Serkay'ın düğününde gözyaşları Roman’a dönüştü? #shorts"
     }
   ]
 }
