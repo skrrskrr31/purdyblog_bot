@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-29T18:11:12",
-      "status": "ok",
-      "video_id": "eNyH-kSSStw",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-29T20:10:09",
       "status": "ok",
       "video_id": "Kzk5VbpeGEU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "41z5Av7L058",
       "title": "57'de hâlâ bu formda? Jennifer Lopez'in sırrı #shorts #jenniferlopezin"
+    },
+    {
+      "ts": "2026-09-03T09:37:07",
+      "status": "ok",
+      "video_id": "03Ca1HIGlAo",
+      "title": "Alina Boz’un yeni hayat sinyali ne? 🤰💖 #alinaboz #shorts #bebek"
     }
   ]
 }
