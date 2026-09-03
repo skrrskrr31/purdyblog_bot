@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-30T14:16:43",
-      "status": "ok",
-      "video_id": "OHD_vrNvt5M",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-30T16:35:07",
       "status": "ok",
       "video_id": "UzyuNDh-nJA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "oRkiX-rJxkE",
       "title": "Kim Kardashian'ı dehşete düşüren filtre neydi? #kimkardashianı #shorts"
+    },
+    {
+      "ts": "2026-09-03T18:21:57",
+      "status": "ok",
+      "video_id": "mjDtrU1YYdw",
+      "title": "İbrahim Tatlıses Çeşme’de zayıf mı? Şok! #i̇brahimtatlısesin #shorts"
     }
   ]
 }
