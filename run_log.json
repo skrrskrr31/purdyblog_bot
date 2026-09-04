@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-30T18:25:19",
-      "status": "ok",
-      "video_id": "lC0Bd2DXvSI",
-      "title": "Gündem olan olay! Detaylar burada #shorts"
-    },
-    {
       "ts": "2026-08-30T20:17:52",
       "status": "ok",
       "video_id": "0XGGjBJ-QeY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "R39LBOQxZcU",
       "title": "Zeynep & Serkay'ın düğününde gözyaşları Roman’a dönüştü? #shorts"
+    },
+    {
+      "ts": "2026-09-04T09:29:25",
+      "status": "ok",
+      "video_id": "Vz8oXr024gI",
+      "title": "Jennifer Lopez sahnede frikik verdi! Nasıl kurtardı? #shorts #JLo"
     }
   ]
 }
