@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-30T20:17:52",
-      "status": "ok",
-      "video_id": "0XGGjBJ-QeY",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-08-31T11:31:58",
       "status": "ok",
       "video_id": "32pOd7rlfoo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Vz8oXr024gI",
       "title": "Jennifer Lopez sahnede frikik verdi! Nasıl kurtardı? #shorts #JLo"
+    },
+    {
+      "ts": "2026-09-04T13:09:43",
+      "status": "ok",
+      "video_id": "V0pdBRPJU1o",
+      "title": "Nina Dobrev kırmızı halıda neden durduruldu? #shorts #Venedik"
     }
   ]
 }
