@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-31T22:11:33",
-      "status": "ok",
-      "video_id": "UivHFtxWEhs",
-      "title": "Metal kaşıklar vücudunda nasıl tutundu? #pelinakilin #shorts #metal"
-    },
-    {
       "ts": "2026-09-01T09:56:06",
       "status": "ok",
       "video_id": "aabLVVpIUps",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LV3_WOiHLnY",
       "title": "Acun Ilıcalı'ya 100 M Dava! Nasıl oldu? #shorts #acunilıcalıya"
+    },
+    {
+      "ts": "2026-09-04T20:02:10",
+      "status": "ok",
+      "video_id": "OpLO2lVxJ8E",
+      "title": "Prens George’a telefon yasağı! Ne verildi? #prensgeorgea #shorts"
     }
   ]
 }
