@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-31T20:53:19",
-      "status": "ok",
-      "video_id": "enZgGkd9ftA",
-      "title": "Hadise'yi Faslı hayranı nasıl duygulandırdı? #shorts #Hadise #Fas"
-    },
-    {
       "ts": "2026-08-31T22:11:33",
       "status": "ok",
       "video_id": "UivHFtxWEhs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Nt8w5F-rFPE",
       "title": "Rihanna'nın 'pencere' elbisesi ne kadar cesurdu? #shorts #Rihanna #Moda"
+    },
+    {
+      "ts": "2026-09-04T18:07:10",
+      "status": "ok",
+      "video_id": "LV3_WOiHLnY",
+      "title": "Acun Ilıcalı'ya 100 M Dava! Nasıl oldu? #shorts #acunilıcalıya"
     }
   ]
 }
