@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-08-31T11:31:58",
-      "status": "ok",
-      "video_id": "32pOd7rlfoo",
-      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
-    },
-    {
       "ts": "2026-08-31T20:53:19",
       "status": "ok",
       "video_id": "enZgGkd9ftA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "V0pdBRPJU1o",
       "title": "Nina Dobrev kırmızı halıda neden durduruldu? #shorts #Venedik"
+    },
+    {
+      "ts": "2026-09-04T16:15:33",
+      "status": "ok",
+      "video_id": "Nt8w5F-rFPE",
+      "title": "Rihanna'nın 'pencere' elbisesi ne kadar cesurdu? #shorts #Rihanna #Moda"
     }
   ]
 }
