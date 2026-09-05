@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-01T09:56:06",
-      "status": "ok",
-      "video_id": "aabLVVpIUps",
-      "title": "Ebru Şallı Boğaz’da Tai Chi yaparken şaşırttı! #ebruşallıboğaz #shorts"
-    },
-    {
       "ts": "2026-09-01T13:56:13",
       "status": "ok",
       "video_id": "NDew4WvSE6A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OpLO2lVxJ8E",
       "title": "Prens George’a telefon yasağı! Ne verildi? #prensgeorgea #shorts"
+    },
+    {
+      "ts": "2026-09-05T08:56:51",
+      "status": "ok",
+      "video_id": "vEl9rwWkrv8",
+      "title": "Melisa Döngel ‘Karambol’ klibinde kimle? #melisadöngelden #shorts"
     }
   ]
 }
