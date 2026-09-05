@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-01T13:56:13",
-      "status": "ok",
-      "video_id": "NDew4WvSE6A",
-      "title": "Seda Sayan, Murat Boz’un sorusuna ne dedi? #muratbozun #shorts #seda"
-    },
-    {
       "ts": "2026-09-01T16:30:44",
       "status": "ok",
       "video_id": "_Ada5JMKRCU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vEl9rwWkrv8",
       "title": "Melisa Döngel ‘Karambol’ klibinde kimle? #melisadöngelden #shorts"
+    },
+    {
+      "ts": "2026-09-05T12:23:02",
+      "status": "ok",
+      "video_id": "fMhgZBNRA40",
+      "title": "Yarışmacı 12 hafta dedi, gerçek 24 hafta! #shorts #kimmil #bakangöktaş"
     }
   ]
 }
