@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-01T20:18:48",
-      "status": "ok",
-      "video_id": "2H6fWXnUgg8",
-      "title": "Margot Robbie aynı kişi mi? Şok fark ortaya çıktı! #shorts #Hollywood"
-    },
-    {
       "ts": "2026-09-02T09:26:56",
       "status": "ok",
       "video_id": "BHV5ulwO5-g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VpPwQuGLIXY",
       "title": "Serkay'ın kayınpederiyle mesafe? Şok video ne diyor? #shorts #Zeynep"
+    },
+    {
+      "ts": "2026-09-05T19:42:33",
+      "status": "ok",
+      "video_id": "CaRAJg6_YqU",
+      "title": "Kurtuluş Kuş sahneyi neden terk etti? Şok arbede! #shorts #Malatya"
     }
   ]
 }
