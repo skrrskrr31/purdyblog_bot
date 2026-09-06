@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-02T16:29:08",
-      "status": "ok",
-      "video_id": "m95885sZsWc",
-      "title": "Sora emeklemek yerine ne yaptı? Şok yöntem #i̇remhelvacıoğlunun #shorts"
-    },
-    {
       "ts": "2026-09-02T18:26:40",
       "status": "ok",
       "video_id": "qEM6VWAkhIk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MX9KUjqlZTY",
       "title": "Amanda Holden çıplakken kamera kaydetti! Nasıl oldu? #shorts #celebrity"
+    },
+    {
+      "ts": "2026-09-06T15:23:25",
+      "status": "ok",
+      "video_id": "v2S_aA3ysz0",
+      "title": "Marmaris'te 17 Eylül'de gizli düğün? Şok detay! #sibelcan #shorts"
     }
   ]
 }
