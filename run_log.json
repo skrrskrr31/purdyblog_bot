@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-02T13:14:51",
-      "status": "ok",
-      "video_id": "yIWSl64YfkM",
-      "title": "Prens Harry’nin çocukları okula neden alınmadı? #prensharrynin #shorts"
-    },
-    {
       "ts": "2026-09-02T16:29:08",
       "status": "ok",
       "video_id": "m95885sZsWc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Doj-E63ovJg",
       "title": "Mankenler Kraliçesi lokantada ne yapıyor?#mankenlerkraliçeydi#shorts"
+    },
+    {
+      "ts": "2026-09-06T12:38:25",
+      "status": "ok",
+      "video_id": "MX9KUjqlZTY",
+      "title": "Amanda Holden çıplakken kamera kaydetti! Nasıl oldu? #shorts #celebrity"
     }
   ]
 }
