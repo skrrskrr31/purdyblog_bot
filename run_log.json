@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-02T09:26:56",
-      "status": "ok",
-      "video_id": "BHV5ulwO5-g",
-      "title": "Sıla tekne sürprizi? #kızılcıkşerbetinindoğasısılatürkoğlundan #shorts"
-    },
-    {
       "ts": "2026-09-02T13:14:51",
       "status": "ok",
       "video_id": "yIWSl64YfkM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CaRAJg6_YqU",
       "title": "Kurtuluş Kuş sahneyi neden terk etti? Şok arbede! #shorts #Malatya"
+    },
+    {
+      "ts": "2026-09-06T09:18:17",
+      "status": "ok",
+      "video_id": "Doj-E63ovJg",
+      "title": "Mankenler Kraliçesi lokantada ne yapıyor?#mankenlerkraliçeydi#shorts"
     }
   ]
 }
