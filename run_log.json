@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-02T18:26:40",
-      "status": "ok",
-      "video_id": "qEM6VWAkhIk",
-      "title": "Pınar Altuğ 52! Kızı Su'nun duygusal mesajı? #pınaraltuğ #shorts"
-    },
-    {
       "ts": "2026-09-02T20:17:41",
       "status": "ok",
       "video_id": "41z5Av7L058",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "v2S_aA3ysz0",
       "title": "Marmaris'te 17 Eylül'de gizli düğün? Şok detay! #sibelcan #shorts"
+    },
+    {
+      "ts": "2026-09-06T17:31:14",
+      "status": "ok",
+      "video_id": "Ivu5x9u-Be4",
+      "title": "Bülent Ersoy’un safir yüzüğü nerede? #bülentersoyunsapanca #shorts"
     }
   ]
 }
