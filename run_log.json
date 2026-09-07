@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-03T16:19:45",
-      "status": "ok",
-      "video_id": "oRkiX-rJxkE",
-      "title": "Kim Kardashian'ı dehşete düşüren filtre neydi? #kimkardashianı #shorts"
-    },
-    {
       "ts": "2026-09-03T18:21:57",
       "status": "ok",
       "video_id": "mjDtrU1YYdw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vwq-68MytNs",
       "title": "Şoray Uzun tabut başında neden ağladı? #serhatkılıçın #shorts #duygu"
+    },
+    {
+      "ts": "2026-09-07T17:42:20",
+      "status": "ok",
+      "video_id": "0HDCgoSZQuA",
+      "title": "Melek Mossodan İspanyol aşkı nasıl? #shorts #melekmossodani̇spanyol"
     }
   ]
 }
