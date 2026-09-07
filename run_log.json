@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-03T18:21:57",
-      "status": "ok",
-      "video_id": "mjDtrU1YYdw",
-      "title": "İbrahim Tatlıses Çeşme’de zayıf mı? Şok! #i̇brahimtatlısesin #shorts"
-    },
-    {
       "ts": "2026-09-03T20:17:27",
       "status": "ok",
       "video_id": "R39LBOQxZcU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "0HDCgoSZQuA",
       "title": "Melek Mossodan İspanyol aşkı nasıl? #shorts #melekmossodani̇spanyol"
+    },
+    {
+      "ts": "2026-09-07T19:00:24",
+      "status": "ok",
+      "video_id": "wQbeja45NyY",
+      "title": "Bodrum’da 4 yıldız aynı anda doğum günü! Nasıl oldu? #shorts #Bodrum"
     }
   ]
 }
