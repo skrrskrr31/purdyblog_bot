@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-03T13:15:48",
-      "status": "ok",
-      "video_id": "38LssPc_Q3A",
-      "title": "İrem Derici doğum gününde mesaj attı! Ne yazdı? #shorts #i̇remdericiden"
-    },
-    {
       "ts": "2026-09-03T16:19:45",
       "status": "ok",
       "video_id": "oRkiX-rJxkE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_AQ9UkmtzmY",
       "title": "Ersoy 'Lolita' abla demeyin?Neden? #bülentersoyun #shorts #türkmüzik"
+    },
+    {
+      "ts": "2026-09-07T14:47:39",
+      "status": "ok",
+      "video_id": "vwq-68MytNs",
+      "title": "Şoray Uzun tabut başında neden ağladı? #serhatkılıçın #shorts #duygu"
     }
   ]
 }
