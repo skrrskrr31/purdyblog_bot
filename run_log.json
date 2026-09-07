@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-03T09:37:07",
-      "status": "ok",
-      "video_id": "03Ca1HIGlAo",
-      "title": "Alina Boz’un yeni hayat sinyali ne? 🤰💖 #alinaboz #shorts #bebek"
-    },
-    {
       "ts": "2026-09-03T13:15:48",
       "status": "ok",
       "video_id": "38LssPc_Q3A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Qsrl6KTllls",
       "title": "Kalp krizi sonrası Cem Yılmaz'dan şok değişim! #cemyılmazdan #shorts"
+    },
+    {
+      "ts": "2026-09-07T10:07:14",
+      "status": "ok",
+      "video_id": "_AQ9UkmtzmY",
+      "title": "Ersoy 'Lolita' abla demeyin?Neden? #bülentersoyun #shorts #türkmüzik"
     }
   ]
 }
