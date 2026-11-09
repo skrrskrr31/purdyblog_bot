@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-04T16:15:33",
-      "status": "ok",
-      "video_id": "Nt8w5F-rFPE",
-      "title": "Rihanna'nın 'pencere' elbisesi ne kadar cesurdu? #shorts #Rihanna #Moda"
-    },
-    {
       "ts": "2026-09-04T18:07:10",
       "status": "ok",
       "video_id": "LV3_WOiHLnY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AtHLxRcDRs4",
       "title": "Bülent Ersoy 10 saat, 15 dk? #shorts #zombi #şafaksezerdenbülentersoy"
+    },
+    {
+      "ts": "2026-11-09T23:43:49",
+      "status": "ok",
+      "video_id": "vX8DyTh3jL8",
+      "title": "Selda Özer 65'te Bodrum’da Şok #asmalıkonakındilarasıseldaözeri#shorts"
     }
   ]
 }
