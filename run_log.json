@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-04T09:29:25",
-      "status": "ok",
-      "video_id": "Vz8oXr024gI",
-      "title": "Jennifer Lopez sahnede frikik verdi! Nasıl kurtardı? #shorts #JLo"
-    },
-    {
       "ts": "2026-09-04T13:09:43",
       "status": "ok",
       "video_id": "V0pdBRPJU1o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "2xhCnfmfebU",
       "title": "Evlat'ta şok! Kanal, yönetmen ve maaşlar anda değişti? #shorts #Evlat"
+    },
+    {
+      "ts": "2026-11-09T19:17:43",
+      "status": "ok",
+      "video_id": "446-f3UAHa8",
+      "title": "Barış Falay'dan Şafak Karali'ye O? #shorts #barışfalaydanşafakkaraliyeo"
     }
   ]
 }
