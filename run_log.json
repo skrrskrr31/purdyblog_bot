@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-03T20:17:27",
-      "status": "ok",
-      "video_id": "R39LBOQxZcU",
-      "title": "Zeynep & Serkay'ın düğününde gözyaşları Roman’a dönüştü? #shorts"
-    },
-    {
       "ts": "2026-09-04T09:29:25",
       "status": "ok",
       "video_id": "Vz8oXr024gI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "wQbeja45NyY",
       "title": "Bodrum’da 4 yıldız aynı anda doğum günü! Nasıl oldu? #shorts #Bodrum"
+    },
+    {
+      "ts": "2026-11-09T06:05:00",
+      "status": "ok",
+      "video_id": "2xhCnfmfebU",
+      "title": "Evlat'ta şok! Kanal, yönetmen ve maaşlar anda değişti? #shorts #Evlat"
     }
   ]
 }
