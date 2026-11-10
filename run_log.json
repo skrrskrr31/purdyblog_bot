@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-05T17:09:47",
-      "status": "ok",
-      "video_id": "VpPwQuGLIXY",
-      "title": "Serkay'ın kayınpederiyle mesafe? Şok video ne diyor? #shorts #Zeynep"
-    },
-    {
       "ts": "2026-09-05T19:42:33",
       "status": "ok",
       "video_id": "CaRAJg6_YqU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "EkHYrcJV2sM",
       "title": "Ebru Gündeş'in kolundaki saat 7,5M TL! Gerçek mi?#ebrugündeşin #shorts"
+    },
+    {
+      "ts": "2026-11-10T23:04:31",
+      "status": "ok",
+      "video_id": "NouH3wkkM54",
+      "title": "Brand cezaevinde eşine dedi? 'Seni seviyorum' #russellbrandin #shorts"
     }
   ]
 }
