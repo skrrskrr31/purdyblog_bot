@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-05T15:03:04",
-      "status": "ok",
-      "video_id": "QrF7lhNzeNo",
-      "title": "İzlanda’da Ebru Şahin'in gizli hobisi neydi? #ebruşahinden #shorts"
-    },
-    {
       "ts": "2026-09-05T17:09:47",
       "status": "ok",
       "video_id": "VpPwQuGLIXY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VgU32QltjQE",
       "title": "Selma’nın paylaşımları: Volkan’ın sırrı nedir? #volkankonakın #shorts"
+    },
+    {
+      "ts": "2026-11-10T21:14:49",
+      "status": "ok",
+      "video_id": "EkHYrcJV2sM",
+      "title": "Ebru Gündeş'in kolundaki saat 7,5M TL! Gerçek mi?#ebrugündeşin #shorts"
     }
   ]
 }
