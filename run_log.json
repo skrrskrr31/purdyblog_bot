@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-04T18:07:10",
-      "status": "ok",
-      "video_id": "LV3_WOiHLnY",
-      "title": "Acun Ilıcalı'ya 100 M Dava! Nasıl oldu? #shorts #acunilıcalıya"
-    },
-    {
       "ts": "2026-09-04T20:02:10",
       "status": "ok",
       "video_id": "OpLO2lVxJ8E",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vX8DyTh3jL8",
       "title": "Selda Özer 65'te Bodrum’da Şok #asmalıkonakındilarasıseldaözeri#shorts"
+    },
+    {
+      "ts": "2026-11-10T01:24:17",
+      "status": "ok",
+      "video_id": "1HBbrBZDM_o",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
 }
