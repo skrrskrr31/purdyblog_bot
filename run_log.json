@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-04T20:02:10",
-      "status": "ok",
-      "video_id": "OpLO2lVxJ8E",
-      "title": "Prens George’a telefon yasağı! Ne verildi? #prensgeorgea #shorts"
-    },
-    {
       "ts": "2026-09-05T08:56:51",
       "status": "ok",
       "video_id": "vEl9rwWkrv8",
@@ -119,6 +113,12 @@
       "ts": "2026-11-10T01:24:17",
       "status": "ok",
       "video_id": "1HBbrBZDM_o",
+      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
+    },
+    {
+      "ts": "2026-11-10T13:23:53",
+      "status": "ok",
+      "video_id": "Y5dcy-bnKcg",
       "title": "Bunu kimse beklemiyordu! 😮 #shorts"
     }
   ]
