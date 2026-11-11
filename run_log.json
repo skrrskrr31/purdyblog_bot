@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-05T19:42:33",
-      "status": "ok",
-      "video_id": "CaRAJg6_YqU",
-      "title": "Kurtuluş Kuş sahneyi neden terk etti? Şok arbede! #shorts #Malatya"
-    },
-    {
       "ts": "2026-09-06T09:18:17",
       "status": "ok",
       "video_id": "Doj-E63ovJg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "NouH3wkkM54",
       "title": "Brand cezaevinde eşine dedi? 'Seni seviyorum' #russellbrandin #shorts"
+    },
+    {
+      "ts": "2026-11-11T12:34:41",
+      "status": "ok",
+      "video_id": "PzRRBhrnF4A",
+      "title": "Anne Yarısı gün birincisi nasıl kutlandı? #esradermancıoğlundan #shorts"
     }
   ]
 }
