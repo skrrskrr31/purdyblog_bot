@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-06T12:38:25",
-      "status": "ok",
-      "video_id": "MX9KUjqlZTY",
-      "title": "Amanda Holden çıplakken kamera kaydetti! Nasıl oldu? #shorts #celebrity"
-    },
-    {
       "ts": "2026-09-06T15:23:25",
       "status": "ok",
       "video_id": "v2S_aA3ysz0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Li5dcHZ3LPc",
       "title": "Serenay ve Mert'in ani ayrılığı nasıl oldu? #serenaysarıkaya #shorts"
+    },
+    {
+      "ts": "2026-11-11T19:04:42",
+      "status": "ok",
+      "video_id": "Dr5GgWArhsA",
+      "title": "Yakışıklı Mısırcı 1M TL'yi nasıl kazandı? #yakışıklımısırcıdan #shorts"
     }
   ]
 }
