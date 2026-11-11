@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-06T09:18:17",
-      "status": "ok",
-      "video_id": "Doj-E63ovJg",
-      "title": "Mankenler Kraliçesi lokantada ne yapıyor?#mankenlerkraliçeydi#shorts"
-    },
-    {
       "ts": "2026-09-06T12:38:25",
       "status": "ok",
       "video_id": "MX9KUjqlZTY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "PzRRBhrnF4A",
       "title": "Anne Yarısı gün birincisi nasıl kutlandı? #esradermancıoğlundan #shorts"
+    },
+    {
+      "ts": "2026-11-11T16:44:17",
+      "status": "ok",
+      "video_id": "Li5dcHZ3LPc",
+      "title": "Serenay ve Mert'in ani ayrılığı nasıl oldu? #serenaysarıkaya #shorts"
     }
   ]
 }
