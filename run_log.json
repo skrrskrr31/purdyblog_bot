@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-06T15:23:25",
-      "status": "ok",
-      "video_id": "v2S_aA3ysz0",
-      "title": "Marmaris'te 17 Eylül'de gizli düğün? Şok detay! #sibelcan #shorts"
-    },
-    {
       "ts": "2026-09-06T17:31:14",
       "status": "ok",
       "video_id": "Ivu5x9u-Be4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Dr5GgWArhsA",
       "title": "Yakışıklı Mısırcı 1M TL'yi nasıl kazandı? #yakışıklımısırcıdan #shorts"
+    },
+    {
+      "ts": "2026-11-11T21:47:50",
+      "status": "ok",
+      "video_id": "_nINMX4EqxQ",
+      "title": "Meral ve Zuhal neden sokak hayvanlarına bağlandı? #shorts #Muzik"
     }
   ]
 }
