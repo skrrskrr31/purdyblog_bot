@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-07T14:47:39",
-      "status": "ok",
-      "video_id": "vwq-68MytNs",
-      "title": "Şoray Uzun tabut başında neden ağladı? #serhatkılıçın #shorts #duygu"
-    },
-    {
       "ts": "2026-09-07T17:42:20",
       "status": "ok",
       "video_id": "0HDCgoSZQuA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "F9X4ihlRHNU",
       "title": "Boşanma ilk açıklama: El ele çıkmadım! #berdanmardiniden #shorts"
+    },
+    {
+      "ts": "2026-11-12T19:23:16",
+      "status": "ok",
+      "video_id": "Z3sH5TlDuxU",
+      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
     }
   ]
 }
