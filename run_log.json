@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-07T17:42:20",
-      "status": "ok",
-      "video_id": "0HDCgoSZQuA",
-      "title": "Melek Mossodan İspanyol aşkı nasıl? #shorts #melekmossodani̇spanyol"
-    },
-    {
       "ts": "2026-09-07T19:00:24",
       "status": "ok",
       "video_id": "wQbeja45NyY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Z3sH5TlDuxU",
       "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
+    },
+    {
+      "ts": "2026-11-12T21:46:57",
+      "status": "ok",
+      "video_id": "eSwTyt_oKDY",
+      "title": "Evini satıp fabrika açtı! Mardini ne sattı? #shorts #berdanmardini"
     }
   ]
 }
