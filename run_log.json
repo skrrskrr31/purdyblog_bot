@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-06T19:45:30",
-      "status": "ok",
-      "video_id": "Qsrl6KTllls",
-      "title": "Kalp krizi sonrası Cem Yılmaz'dan şok değişim! #cemyılmazdan #shorts"
-    },
-    {
       "ts": "2026-09-07T10:07:14",
       "status": "ok",
       "video_id": "_AQ9UkmtzmY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "CXanu5iEW_M",
       "title": "Biyolojik babası sperm bağışı yapıyormuş! 200 kardeş? #shorts #DNA"
+    },
+    {
+      "ts": "2026-11-12T13:39:36",
+      "status": "ok",
+      "video_id": "bzxHtLfBrJM",
+      "title": "57'de J.Lo'nun Şok Kostümü Neydi? Yeni Şarkı! #jenniferlopez #shorts"
     }
   ]
 }
