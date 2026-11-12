@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-09-07T19:00:24",
-      "status": "ok",
-      "video_id": "wQbeja45NyY",
-      "title": "Bodrum’da 4 yıldız aynı anda doğum günü! Nasıl oldu? #shorts #Bodrum"
-    },
-    {
       "ts": "2026-11-09T06:05:00",
       "status": "ok",
       "video_id": "2xhCnfmfebU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "eSwTyt_oKDY",
       "title": "Evini satıp fabrika açtı! Mardini ne sattı? #shorts #berdanmardini"
+    },
+    {
+      "ts": "2026-11-12T23:26:01",
+      "status": "ok",
+      "video_id": "MFbBlII5rGI",
+      "title": "Çatı katında bulundu: Atakan'ın ölümü nasıl gizlendi?#mügeanlıda #shorts"
     }
   ]
 }
