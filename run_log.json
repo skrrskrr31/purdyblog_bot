@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-09T19:17:43",
-      "status": "ok",
-      "video_id": "446-f3UAHa8",
-      "title": "Barış Falay'dan Şafak Karali'ye O? #shorts #barışfalaydanşafakkaraliyeo"
-    },
-    {
       "ts": "2026-11-09T21:47:44",
       "status": "ok",
       "video_id": "AtHLxRcDRs4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "oJkxw49TVMw",
       "title": "İpek Tanrıyar hastanede hangi notu bıraktı? #shorts #i̇pektanrıyardan"
+    },
+    {
+      "ts": "2026-11-13T16:50:32",
+      "status": "ok",
+      "video_id": "cAkvyMjh1-8",
+      "title": "Sertab Erener'in tendon sorunu ne? #sertaberenerin #shorts #spor"
     }
   ]
 }
