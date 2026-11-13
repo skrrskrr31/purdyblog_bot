@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-09T21:47:44",
-      "status": "ok",
-      "video_id": "AtHLxRcDRs4",
-      "title": "Bülent Ersoy 10 saat, 15 dk? #shorts #zombi #şafaksezerdenbülentersoy"
-    },
-    {
       "ts": "2026-11-09T23:43:49",
       "status": "ok",
       "video_id": "vX8DyTh3jL8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cAkvyMjh1-8",
       "title": "Sertab Erener'in tendon sorunu ne? #sertaberenerin #shorts #spor"
+    },
+    {
+      "ts": "2026-11-13T19:00:28",
+      "status": "ok",
+      "video_id": "Z3kqafU4Q6k",
+      "title": "Beren Gökyıldız Deniz Kızı Marmara'da ne oldu? #berengökyıldız #shorts"
     }
   ]
 }
