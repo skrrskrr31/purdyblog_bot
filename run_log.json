@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T01:24:17",
-      "status": "ok",
-      "video_id": "1HBbrBZDM_o",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-11-10T13:23:53",
       "status": "ok",
       "video_id": "Y5dcy-bnKcg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "cQV77CTHAYs",
       "title": "Uraz Kaygılaroğlu'nun 5 milyonluk bölümü ne kadar? #shorts #Yeraltı"
+    },
+    {
+      "ts": "2026-11-13T23:27:19",
+      "status": "ok",
+      "video_id": "8WbJx1QusE0",
+      "title": "Ayça_22'nin kimliği ortaya çıktı MSN efsanesi çözüldü mü? #shorts #MSN"
     }
   ]
 }
