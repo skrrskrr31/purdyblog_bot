@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-09T23:43:49",
-      "status": "ok",
-      "video_id": "vX8DyTh3jL8",
-      "title": "Selda Özer 65'te Bodrum’da Şok #asmalıkonakındilarasıseldaözeri#shorts"
-    },
-    {
       "ts": "2026-11-10T01:24:17",
       "status": "ok",
       "video_id": "1HBbrBZDM_o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Z3kqafU4Q6k",
       "title": "Beren Gökyıldız Deniz Kızı Marmara'da ne oldu? #berengökyıldız #shorts"
+    },
+    {
+      "ts": "2026-11-13T21:14:55",
+      "status": "ok",
+      "video_id": "cQV77CTHAYs",
+      "title": "Uraz Kaygılaroğlu'nun 5 milyonluk bölümü ne kadar? #shorts #Yeraltı"
     }
   ]
 }
