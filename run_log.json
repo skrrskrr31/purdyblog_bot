@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T16:40:10",
-      "status": "ok",
-      "video_id": "jYfXQEiB4Go",
-      "title": "Melek Zübeyde'nin doğum günü neydi? #i̇brahimtatlıses #shorts"
-    },
-    {
       "ts": "2026-11-10T19:07:34",
       "status": "ok",
       "video_id": "VgU32QltjQE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "TANRNJC4M-A",
       "title": "5 yıl hapis! Rap şarkısı yüzünden ne oldu? #lvbelc5 #shorts #haber"
+    },
+    {
+      "ts": "2026-11-14T15:24:38",
+      "status": "ok",
+      "video_id": "XflDxJ1dI-c",
+      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
     }
   ]
 }
