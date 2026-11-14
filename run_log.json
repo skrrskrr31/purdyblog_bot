@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T21:14:49",
-      "status": "ok",
-      "video_id": "EkHYrcJV2sM",
-      "title": "Ebru Gündeş'in kolundaki saat 7,5M TL! Gerçek mi?#ebrugündeşin #shorts"
-    },
-    {
       "ts": "2026-11-10T23:04:31",
       "status": "ok",
       "video_id": "NouH3wkkM54",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "uDicILiCV-I",
       "title": "Alya’nın 1M TL maaşı nerede? #shorts #uzakşehirinalyasısinemünsalın"
+    },
+    {
+      "ts": "2026-11-14T19:47:50",
+      "status": "ok",
+      "video_id": "ilvgL8fTRqc",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
 }
