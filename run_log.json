@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T13:23:53",
-      "status": "ok",
-      "video_id": "Y5dcy-bnKcg",
-      "title": "Bunu kimse beklemiyordu! 😮 #shorts"
-    },
-    {
       "ts": "2026-11-10T16:40:10",
       "status": "ok",
       "video_id": "jYfXQEiB4Go",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8WbJx1QusE0",
       "title": "Ayça_22'nin kimliği ortaya çıktı MSN efsanesi çözüldü mü? #shorts #MSN"
+    },
+    {
+      "ts": "2026-11-14T12:00:50",
+      "status": "ok",
+      "video_id": "TANRNJC4M-A",
+      "title": "5 yıl hapis! Rap şarkısı yüzünden ne oldu? #lvbelc5 #shorts #haber"
     }
   ]
 }
