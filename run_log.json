@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T23:04:31",
-      "status": "ok",
-      "video_id": "NouH3wkkM54",
-      "title": "Brand cezaevinde eşine dedi? 'Seni seviyorum' #russellbrandin #shorts"
-    },
-    {
       "ts": "2026-11-11T12:34:41",
       "status": "ok",
       "video_id": "PzRRBhrnF4A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ilvgL8fTRqc",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-11-14T22:12:23",
+      "status": "ok",
+      "video_id": "6Iz4DONiu4s",
+      "title": "Zeynep Casalini eski eşini neden evlendirdi? #zeynepcasalini #shorts"
     }
   ]
 }
