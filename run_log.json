@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-10T19:07:34",
-      "status": "ok",
-      "video_id": "VgU32QltjQE",
-      "title": "Selma’nın paylaşımları: Volkan’ın sırrı nedir? #volkankonakın #shorts"
-    },
-    {
       "ts": "2026-11-10T21:14:49",
       "status": "ok",
       "video_id": "EkHYrcJV2sM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XflDxJ1dI-c",
       "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
+    },
+    {
+      "ts": "2026-11-14T17:30:39",
+      "status": "ok",
+      "video_id": "uDicILiCV-I",
+      "title": "Alya’nın 1M TL maaşı nerede? #shorts #uzakşehirinalyasısinemünsalın"
     }
   ]
 }
