@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-11T12:34:41",
-      "status": "ok",
-      "video_id": "PzRRBhrnF4A",
-      "title": "Anne Yarısı gün birincisi nasıl kutlandı? #esradermancıoğlundan #shorts"
-    },
-    {
       "ts": "2026-11-11T16:44:17",
       "status": "ok",
       "video_id": "Li5dcHZ3LPc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "6Iz4DONiu4s",
       "title": "Zeynep Casalini eski eşini neden evlendirdi? #zeynepcasalini #shorts"
+    },
+    {
+      "ts": "2026-11-15T12:37:13",
+      "status": "ok",
+      "video_id": "z3CkwMD21Qo",
+      "title": "Lara Paşalı dedikoduları fotoğrafıyla çürüttü! #larapaşalıdan #shorts"
     }
   ]
 }
