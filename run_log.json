@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-11T19:04:42",
-      "status": "ok",
-      "video_id": "Dr5GgWArhsA",
-      "title": "Yakışıklı Mısırcı 1M TL'yi nasıl kazandı? #yakışıklımısırcıdan #shorts"
-    },
-    {
       "ts": "2026-11-11T21:47:50",
       "status": "ok",
       "video_id": "_nINMX4EqxQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "8ir8k3GLXcA",
       "title": "85k’dan 324k’ya! Oğuzhan Koç neden taşındı? #oğuzhankoç #shorts #kira"
+    },
+    {
+      "ts": "2026-11-15T18:18:24",
+      "status": "ok",
+      "video_id": "bCMQKVrmL7g",
+      "title": "Oktay Kaynarca altın set taktı sonra ne yaptı? #oktaykaynarca #shorts"
     }
   ]
 }
