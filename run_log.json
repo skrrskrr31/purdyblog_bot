@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-12T21:46:57",
-      "status": "ok",
-      "video_id": "eSwTyt_oKDY",
-      "title": "Evini satıp fabrika açtı! Mardini ne sattı? #shorts #berdanmardini"
-    },
-    {
       "ts": "2026-11-12T23:26:01",
       "status": "ok",
       "video_id": "MFbBlII5rGI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "_CwuWqZJTOY",
       "title": "Çelik, Haluk Levent gibi mi? #çelikteni̇kincihaluklevent #shorts"
+    },
+    {
+      "ts": "2026-11-16T23:40:57",
+      "status": "ok",
+      "video_id": "-yshqA_K9Us",
+      "title": "Banu Alkan aşklarını anlatıyor! Nasıl oldu? #shorts #banualkandan"
     }
   ]
 }
