@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-12T17:13:00",
-      "status": "ok",
-      "video_id": "F9X4ihlRHNU",
-      "title": "Boşanma ilk açıklama: El ele çıkmadım! #berdanmardiniden #shorts"
-    },
-    {
       "ts": "2026-11-12T19:23:16",
       "status": "ok",
       "video_id": "Z3sH5TlDuxU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "71pe0WDeqOk",
       "title": "79'da Glenn Close'un almadığı Oscar'ı kazandı! #glennclose #shorts"
+    },
+    {
+      "ts": "2026-11-16T19:00:26",
+      "status": "ok",
+      "video_id": "RsVnGlX5SAI",
+      "title": "Bebek çok erken doğacak! Neden? #ufukbeydemirden #shorts #müzik"
     }
   ]
 }
