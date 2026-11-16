@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-12T13:39:36",
-      "status": "ok",
-      "video_id": "bzxHtLfBrJM",
-      "title": "57'de J.Lo'nun Şok Kostümü Neydi? Yeni Şarkı! #jenniferlopez #shorts"
-    },
-    {
       "ts": "2026-11-12T17:13:00",
       "status": "ok",
       "video_id": "F9X4ihlRHNU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "LzqtWn2_Db4",
       "title": "Murad Aygen diziyi hiç tanımamış! Nasıl? #kızılcıkşerbetinden #shorts"
+    },
+    {
+      "ts": "2026-11-16T13:29:04",
+      "status": "ok",
+      "video_id": "71pe0WDeqOk",
+      "title": "79'da Glenn Close'un almadığı Oscar'ı kazandı! #glennclose #shorts"
     }
   ]
 }
