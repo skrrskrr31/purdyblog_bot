@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-12T19:23:16",
-      "status": "ok",
-      "video_id": "Z3sH5TlDuxU",
-      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
-    },
-    {
       "ts": "2026-11-12T21:46:57",
       "status": "ok",
       "video_id": "eSwTyt_oKDY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "RsVnGlX5SAI",
       "title": "Bebek çok erken doğacak! Neden? #ufukbeydemirden #shorts #müzik"
+    },
+    {
+      "ts": "2026-11-16T21:28:19",
+      "status": "ok",
+      "video_id": "_CwuWqZJTOY",
+      "title": "Çelik, Haluk Levent gibi mi? #çelikteni̇kincihaluklevent #shorts"
     }
   ]
 }
