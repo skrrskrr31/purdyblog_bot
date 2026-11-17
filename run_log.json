@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-13T12:57:33",
-      "status": "ok",
-      "video_id": "oJkxw49TVMw",
-      "title": "İpek Tanrıyar hastanede hangi notu bıraktı? #shorts #i̇pektanrıyardan"
-    },
-    {
       "ts": "2026-11-13T16:50:32",
       "status": "ok",
       "video_id": "cAkvyMjh1-8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "Q7V293PhPes",
       "title": "Mahsun Kırmızıgül, ücrete şaşkın! #mahsunkırmızıgülden #shorts"
+    },
+    {
+      "ts": "2026-11-17T14:15:30",
+      "status": "ok",
+      "video_id": "TIDQ9vMhr5g",
+      "title": "Dubai'ye Küçük Uçak mı? Ece Erken Şokta! #shorts #uçak #eceerkenden"
     }
   ]
 }
