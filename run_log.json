@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-13T16:50:32",
-      "status": "ok",
-      "video_id": "cAkvyMjh1-8",
-      "title": "Sertab Erener'in tendon sorunu ne? #sertaberenerin #shorts #spor"
-    },
-    {
       "ts": "2026-11-13T19:00:28",
       "status": "ok",
       "video_id": "Z3kqafU4Q6k",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "TIDQ9vMhr5g",
       "title": "Dubai'ye Küçük Uçak mı? Ece Erken Şokta! #shorts #uçak #eceerkenden"
+    },
+    {
+      "ts": "2026-11-17T17:59:00",
+      "status": "ok",
+      "video_id": "vW2wh1zoNCw",
+      "title": "Nefise Karatay'ın yeni işi nasıl ortaya çıktı? #eskisurvivor #shorts"
     }
   ]
 }
