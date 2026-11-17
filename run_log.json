@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-12T23:26:01",
-      "status": "ok",
-      "video_id": "MFbBlII5rGI",
-      "title": "Çatı katında bulundu: Atakan'ın ölümü nasıl gizlendi?#mügeanlıda #shorts"
-    },
-    {
       "ts": "2026-11-13T12:57:33",
       "status": "ok",
       "video_id": "oJkxw49TVMw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-yshqA_K9Us",
       "title": "Banu Alkan aşklarını anlatıyor! Nasıl oldu? #shorts #banualkandan"
+    },
+    {
+      "ts": "2026-11-17T01:47:24",
+      "status": "ok",
+      "video_id": "Q7V293PhPes",
+      "title": "Mahsun Kırmızıgül, ücrete şaşkın! #mahsunkırmızıgülden #shorts"
     }
   ]
 }
