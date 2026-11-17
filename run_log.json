@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-13T19:00:28",
-      "status": "ok",
-      "video_id": "Z3kqafU4Q6k",
-      "title": "Beren Gökyıldız Deniz Kızı Marmara'da ne oldu? #berengökyıldız #shorts"
-    },
-    {
       "ts": "2026-11-13T21:14:55",
       "status": "ok",
       "video_id": "cQV77CTHAYs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "vW2wh1zoNCw",
       "title": "Nefise Karatay'ın yeni işi nasıl ortaya çıktı? #eskisurvivor #shorts"
+    },
+    {
+      "ts": "2026-11-17T20:17:26",
+      "status": "ok",
+      "video_id": "mtY0nOlLQWU",
+      "title": "Kerem Bürsin'in diş macunu reklamı 60 milyon? #kerembürsin #shorts"
     }
   ]
 }
