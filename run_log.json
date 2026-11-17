@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-13T21:14:55",
-      "status": "ok",
-      "video_id": "cQV77CTHAYs",
-      "title": "Uraz Kaygılaroğlu'nun 5 milyonluk bölümü ne kadar? #shorts #Yeraltı"
-    },
-    {
       "ts": "2026-11-13T23:27:19",
       "status": "ok",
       "video_id": "8WbJx1QusE0",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "mtY0nOlLQWU",
       "title": "Kerem Bürsin'in diş macunu reklamı 60 milyon? #kerembürsin #shorts"
+    },
+    {
+      "ts": "2026-11-17T22:48:44",
+      "status": "ok",
+      "video_id": "MPWpPjQh1yM",
+      "title": "Yavuz Bingöl'ün ameliyatı 19 Kasım? Neden? #yavuzbingölden #shorts"
     }
   ]
 }
