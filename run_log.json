@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-14T12:00:50",
-      "status": "ok",
-      "video_id": "TANRNJC4M-A",
-      "title": "5 yıl hapis! Rap şarkısı yüzünden ne oldu? #lvbelc5 #shorts #haber"
-    },
-    {
       "ts": "2026-11-14T15:24:38",
       "status": "ok",
       "video_id": "XflDxJ1dI-c",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VsNFE3PRxCs",
       "title": "İbrahim Karakaş eski eşinin şarkısıyla nişanlandı? #shorts #DilberAy"
+    },
+    {
+      "ts": "2026-11-18T13:46:42",
+      "status": "ok",
+      "video_id": "FR1899WE3aQ",
+      "title": "Survivor ve Kısmetse Olur'dan red! Sebebi ne? #baharcandana #shorts"
     }
   ]
 }
