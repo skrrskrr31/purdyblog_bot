@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-14T17:30:39",
-      "status": "ok",
-      "video_id": "uDicILiCV-I",
-      "title": "Alya’nın 1M TL maaşı nerede? #shorts #uzakşehirinalyasısinemünsalın"
-    },
-    {
       "ts": "2026-11-14T19:47:50",
       "status": "ok",
       "video_id": "ilvgL8fTRqc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "19o2mZNnmYk",
       "title": "Soyunma odasında ne oldu? Pınar Altuğ'un itirafı! #pınaraltuğdan #shorts"
+    },
+    {
+      "ts": "2026-11-18T19:47:22",
+      "status": "ok",
+      "video_id": "MPJE9eGAFhY",
+      "title": "Barış şimdi neye dönüştü? Şok! #uçurtmayıvurmasınların #shorts #Barış"
     }
   ]
 }
