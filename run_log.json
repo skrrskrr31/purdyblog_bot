@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-14T19:47:50",
-      "status": "ok",
-      "video_id": "ilvgL8fTRqc",
-      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
-    },
-    {
       "ts": "2026-11-14T22:12:23",
       "status": "ok",
       "video_id": "6Iz4DONiu4s",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MPJE9eGAFhY",
       "title": "Barış şimdi neye dönüştü? Şok! #uçurtmayıvurmasınların #shorts #Barış"
+    },
+    {
+      "ts": "2026-11-18T22:30:04",
+      "status": "ok",
+      "video_id": "j9_F5sZxS7g",
+      "title": "Umre'de Sinan Albayrak'ın gizli duygusu neydi? #shorts #umre #sinanalbayrak"
     }
   ]
 }
