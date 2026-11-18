@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-13T23:27:19",
-      "status": "ok",
-      "video_id": "8WbJx1QusE0",
-      "title": "Ayça_22'nin kimliği ortaya çıktı MSN efsanesi çözüldü mü? #shorts #MSN"
-    },
-    {
       "ts": "2026-11-14T12:00:50",
       "status": "ok",
       "video_id": "TANRNJC4M-A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MPWpPjQh1yM",
       "title": "Yavuz Bingöl'ün ameliyatı 19 Kasım? Neden? #yavuzbingölden #shorts"
+    },
+    {
+      "ts": "2026-11-18T00:50:09",
+      "status": "ok",
+      "video_id": "VsNFE3PRxCs",
+      "title": "İbrahim Karakaş eski eşinin şarkısıyla nişanlandı? #shorts #DilberAy"
     }
   ]
 }
