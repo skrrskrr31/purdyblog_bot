@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-14T22:12:23",
-      "status": "ok",
-      "video_id": "6Iz4DONiu4s",
-      "title": "Zeynep Casalini eski eşini neden evlendirdi? #zeynepcasalini #shorts"
-    },
-    {
       "ts": "2026-11-15T12:37:13",
       "status": "ok",
       "video_id": "z3CkwMD21Qo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "j9_F5sZxS7g",
       "title": "Umre'de Sinan Albayrak'ın gizli duygusu neydi? #shorts #umre #sinanalbayrak"
+    },
+    {
+      "ts": "2026-11-19T00:07:55",
+      "status": "ok",
+      "video_id": "VtYEdcOnMQA",
+      "title": "İrem Derici ücretlerini yalanladı: Gerçek ne #i̇remderici #shorts"
     }
   ]
 }
