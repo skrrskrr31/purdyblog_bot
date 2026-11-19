@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-15T20:13:01",
-      "status": "ok",
-      "video_id": "2wf6MMHwfAU",
-      "title": "Azra’nın mucizesi Almanya’da! Nasıl oldu? #i̇smailegeşaşmazdan #shorts"
-    },
-    {
       "ts": "2026-11-15T22:40:57",
       "status": "ok",
       "video_id": "LzqtWn2_Db4",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "nCeSEDA5zhY",
       "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
+    },
+    {
+      "ts": "2026-11-19T22:36:44",
+      "status": "ok",
+      "video_id": "f1H_R5Oa8Hc",
+      "title": "Brosnan'ın yeni Bond'a gizli mesajı neydi? #shorts #eskijamesbonddan"
     }
   ]
 }
