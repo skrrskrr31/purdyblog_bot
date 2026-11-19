@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-15T12:37:13",
-      "status": "ok",
-      "video_id": "z3CkwMD21Qo",
-      "title": "Lara Paşalı dedikoduları fotoğrafıyla çürüttü! #larapaşalıdan #shorts"
-    },
-    {
       "ts": "2026-11-15T15:57:50",
       "status": "ok",
       "video_id": "8ir8k3GLXcA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VtYEdcOnMQA",
       "title": "İrem Derici ücretlerini yalanladı: Gerçek ne #i̇remderici #shorts"
+    },
+    {
+      "ts": "2026-11-19T14:15:47",
+      "status": "ok",
+      "video_id": "tfdFXZrIwlM",
+      "title": "Evi tehlikede Erika Eleniak 3ayda 300k kazandı? #erikaeleniak #shorts"
     }
   ]
 }
