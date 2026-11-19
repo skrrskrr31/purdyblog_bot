@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-15T15:57:50",
-      "status": "ok",
-      "video_id": "8ir8k3GLXcA",
-      "title": "85k’dan 324k’ya! Oğuzhan Koç neden taşındı? #oğuzhankoç #shorts #kira"
-    },
-    {
       "ts": "2026-11-15T18:18:24",
       "status": "ok",
       "video_id": "bCMQKVrmL7g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "tfdFXZrIwlM",
       "title": "Evi tehlikede Erika Eleniak 3ayda 300k kazandı? #erikaeleniak #shorts"
+    },
+    {
+      "ts": "2026-11-19T17:49:17",
+      "status": "ok",
+      "video_id": "k4uddJVjgsM",
+      "title": "Ezgi Mola, oğluyla aşkı konuşmadı! Neden? #ezgimola #shorts #aşk"
     }
   ]
 }
