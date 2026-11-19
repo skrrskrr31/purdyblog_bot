@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-15T18:18:24",
-      "status": "ok",
-      "video_id": "bCMQKVrmL7g",
-      "title": "Oktay Kaynarca altın set taktı sonra ne yaptı? #oktaykaynarca #shorts"
-    },
-    {
       "ts": "2026-11-15T20:13:01",
       "status": "ok",
       "video_id": "2wf6MMHwfAU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "k4uddJVjgsM",
       "title": "Ezgi Mola, oğluyla aşkı konuşmadı! Neden? #ezgimola #shorts #aşk"
+    },
+    {
+      "ts": "2026-11-19T19:48:47",
+      "status": "ok",
+      "video_id": "nCeSEDA5zhY",
+      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
     }
   ]
 }
