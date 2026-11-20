@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-15T22:40:57",
-      "status": "ok",
-      "video_id": "LzqtWn2_Db4",
-      "title": "Murad Aygen diziyi hiç tanımamış! Nasıl? #kızılcıkşerbetinden #shorts"
-    },
-    {
       "ts": "2026-11-16T13:29:04",
       "status": "ok",
       "video_id": "71pe0WDeqOk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "f1H_R5Oa8Hc",
       "title": "Brosnan'ın yeni Bond'a gizli mesajı neydi? #shorts #eskijamesbonddan"
+    },
+    {
+      "ts": "2026-11-20T00:29:58",
+      "status": "ok",
+      "video_id": "iGf4NQsMq4E",
+      "title": "Paul Opacic neden fayans ustası? Şok detay! #paulopacic #shorts #iş"
     }
   ]
 }
