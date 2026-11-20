@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-16T13:29:04",
-      "status": "ok",
-      "video_id": "71pe0WDeqOk",
-      "title": "79'da Glenn Close'un almadığı Oscar'ı kazandı! #glennclose #shorts"
-    },
-    {
       "ts": "2026-11-16T19:00:26",
       "status": "ok",
       "video_id": "RsVnGlX5SAI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "iGf4NQsMq4E",
       "title": "Paul Opacic neden fayans ustası? Şok detay! #paulopacic #shorts #iş"
+    },
+    {
+      "ts": "2026-11-20T13:55:52",
+      "status": "ok",
+      "video_id": "KzKVXnewodY",
+      "title": "Pelin Akil, eşine GTA sitemi! Şok cevap ne? #shorts #pelinakilden"
     }
   ]
 }
