@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-17T01:47:24",
-      "status": "ok",
-      "video_id": "Q7V293PhPes",
-      "title": "Mahsun Kırmızıgül, ücrete şaşkın! #mahsunkırmızıgülden #shorts"
-    },
-    {
       "ts": "2026-11-17T14:15:30",
       "status": "ok",
       "video_id": "TIDQ9vMhr5g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "3qOzWbmusqg",
       "title": "Chrissy Metz 45 kg verince yüzü nasıl değişti? #shorts #metz #kilo"
+    },
+    {
+      "ts": "2026-11-20T23:52:59",
+      "status": "ok",
+      "video_id": "llInvjxazQA",
+      "title": "Merve Dizdar hamile! Yürürken gizli ne? #shorts #mervedizdardan"
     }
   ]
 }
