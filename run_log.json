@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-16T19:00:26",
-      "status": "ok",
-      "video_id": "RsVnGlX5SAI",
-      "title": "Bebek çok erken doğacak! Neden? #ufukbeydemirden #shorts #müzik"
-    },
-    {
       "ts": "2026-11-16T21:28:19",
       "status": "ok",
       "video_id": "_CwuWqZJTOY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KzKVXnewodY",
       "title": "Pelin Akil, eşine GTA sitemi! Şok cevap ne? #shorts #pelinakilden"
+    },
+    {
+      "ts": "2026-11-20T17:24:11",
+      "status": "ok",
+      "video_id": "bZDUca_NZxo",
+      "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
     }
   ]
 }
