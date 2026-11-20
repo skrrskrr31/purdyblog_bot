@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-16T23:40:57",
-      "status": "ok",
-      "video_id": "-yshqA_K9Us",
-      "title": "Banu Alkan aşklarını anlatıyor! Nasıl oldu? #shorts #banualkandan"
-    },
-    {
       "ts": "2026-11-17T01:47:24",
       "status": "ok",
       "video_id": "Q7V293PhPes",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "lp2wUqcHlpM",
       "title": "Zehra’nın Abu Dabi sergisi çığır açtı mı? #shorts #hülyaavşar #tasarım"
+    },
+    {
+      "ts": "2026-11-20T22:09:32",
+      "status": "ok",
+      "video_id": "3qOzWbmusqg",
+      "title": "Chrissy Metz 45 kg verince yüzü nasıl değişti? #shorts #metz #kilo"
     }
   ]
 }
