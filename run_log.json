@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-16T21:28:19",
-      "status": "ok",
-      "video_id": "_CwuWqZJTOY",
-      "title": "Çelik, Haluk Levent gibi mi? #çelikteni̇kincihaluklevent #shorts"
-    },
-    {
       "ts": "2026-11-16T23:40:57",
       "status": "ok",
       "video_id": "-yshqA_K9Us",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bZDUca_NZxo",
       "title": "Şok eden gelişme! Ne olduğunu görün #shorts"
+    },
+    {
+      "ts": "2026-11-20T19:28:46",
+      "status": "ok",
+      "video_id": "lp2wUqcHlpM",
+      "title": "Zehra’nın Abu Dabi sergisi çığır açtı mı? #shorts #hülyaavşar #tasarım"
     }
   ]
 }
