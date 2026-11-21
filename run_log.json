@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-17T22:48:44",
-      "status": "ok",
-      "video_id": "MPWpPjQh1yM",
-      "title": "Yavuz Bingöl'ün ameliyatı 19 Kasım? Neden? #yavuzbingölden #shorts"
-    },
-    {
       "ts": "2026-11-18T00:50:09",
       "status": "ok",
       "video_id": "VsNFE3PRxCs",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MDCU6RTqrUA",
       "title": "615k TL'lik hediye yağdı! Nasıl oldu? #yakışıklımısırcıya #shorts"
+    },
+    {
+      "ts": "2026-11-21T20:49:02",
+      "status": "ok",
+      "video_id": "AkQhm__t89Y",
+      "title": "Eda Ece'nin kızı annesine kopya mı? Şok fotoğraf! #edaece #shorts"
     }
   ]
 }
