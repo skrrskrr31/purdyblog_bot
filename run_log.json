@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-17T14:15:30",
-      "status": "ok",
-      "video_id": "TIDQ9vMhr5g",
-      "title": "Dubai'ye Küçük Uçak mı? Ece Erken Şokta! #shorts #uçak #eceerkenden"
-    },
-    {
       "ts": "2026-11-17T17:59:00",
       "status": "ok",
       "video_id": "vW2wh1zoNCw",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "llInvjxazQA",
       "title": "Merve Dizdar hamile! Yürürken gizli ne? #shorts #mervedizdardan"
+    },
+    {
+      "ts": "2026-11-21T13:20:04",
+      "status": "ok",
+      "video_id": "GObJs6MkG6o",
+      "title": "Kibariye gözyaşları içinde girdi, gülerek çıktı! #shorts #Kibariye"
     }
   ]
 }
