@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-18T00:50:09",
-      "status": "ok",
-      "video_id": "VsNFE3PRxCs",
-      "title": "İbrahim Karakaş eski eşinin şarkısıyla nişanlandı? #shorts #DilberAy"
-    },
-    {
       "ts": "2026-11-18T13:46:42",
       "status": "ok",
       "video_id": "FR1899WE3aQ",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AkQhm__t89Y",
       "title": "Eda Ece'nin kızı annesine kopya mı? Şok fotoğraf! #edaece #shorts"
+    },
+    {
+      "ts": "2026-11-21T22:57:48",
+      "status": "ok",
+      "video_id": "D_Nkxolcqr8",
+      "title": "Oğlunun yüzündeki korkunç döküntüler neydi? #burcukaradan #shorts"
     }
   ]
 }
