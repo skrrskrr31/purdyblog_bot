@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-17T17:59:00",
-      "status": "ok",
-      "video_id": "vW2wh1zoNCw",
-      "title": "Nefise Karatay'ın yeni işi nasıl ortaya çıktı? #eskisurvivor #shorts"
-    },
-    {
       "ts": "2026-11-17T20:17:26",
       "status": "ok",
       "video_id": "mtY0nOlLQWU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "GObJs6MkG6o",
       "title": "Kibariye gözyaşları içinde girdi, gülerek çıktı! #shorts #Kibariye"
+    },
+    {
+      "ts": "2026-11-21T16:29:20",
+      "status": "ok",
+      "video_id": "OKU4QZ_kXwE",
+      "title": "Sevdiğim Sensin %15 maaş kesinti! Neden? #shorts #sevdiğimsensin"
     }
   ]
 }
