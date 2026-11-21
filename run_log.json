@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-17T20:17:26",
-      "status": "ok",
-      "video_id": "mtY0nOlLQWU",
-      "title": "Kerem Bürsin'in diş macunu reklamı 60 milyon? #kerembürsin #shorts"
-    },
-    {
       "ts": "2026-11-17T22:48:44",
       "status": "ok",
       "video_id": "MPWpPjQh1yM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "OKU4QZ_kXwE",
       "title": "Sevdiğim Sensin %15 maaş kesinti! Neden? #shorts #sevdiğimsensin"
+    },
+    {
+      "ts": "2026-11-21T18:31:15",
+      "status": "ok",
+      "video_id": "MDCU6RTqrUA",
+      "title": "615k TL'lik hediye yağdı! Nasıl oldu? #yakışıklımısırcıya #shorts"
     }
   ]
 }
