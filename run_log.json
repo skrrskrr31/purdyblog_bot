@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-19T00:07:55",
-      "status": "ok",
-      "video_id": "VtYEdcOnMQA",
-      "title": "İrem Derici ücretlerini yalanladı: Gerçek ne #i̇remderici #shorts"
-    },
-    {
       "ts": "2026-11-19T14:15:47",
       "status": "ok",
       "video_id": "tfdFXZrIwlM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JHNzigoSJc8",
       "title": "Almila Ada’nın kızına verdiği isim neydi? #oyuncualmilaada #shorts #anne"
+    },
+    {
+      "ts": "2026-11-22T23:28:55",
+      "status": "ok",
+      "video_id": "VsB9yWrPWqc",
+      "title": "Sıla, unutulduğunu itiraf etti! Asla affetmeyecek mi? #shorts #Sıla"
     }
   ]
 }
