@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-18T17:40:29",
-      "status": "ok",
-      "video_id": "19o2mZNnmYk",
-      "title": "Soyunma odasında ne oldu? Pınar Altuğ'un itirafı! #pınaraltuğdan #shorts"
-    },
-    {
       "ts": "2026-11-18T19:47:22",
       "status": "ok",
       "video_id": "MPJE9eGAFhY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "dqq8xr9kCME",
       "title": "Asgari ücretlilere gümüş parlatma tavsiyesi şaşırttı! #shorts #para"
+    },
+    {
+      "ts": "2026-11-22T16:46:32",
+      "status": "ok",
+      "video_id": "JhaHPkg4euI",
+      "title": "J.Lo'nun 10 yıllık form sırrı? Şok detay! #jenniferlopez #shorts #fit"
     }
   ]
 }
