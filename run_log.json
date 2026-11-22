@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-18T22:30:04",
-      "status": "ok",
-      "video_id": "j9_F5sZxS7g",
-      "title": "Umre'de Sinan Albayrak'ın gizli duygusu neydi? #shorts #umre #sinanalbayrak"
-    },
-    {
       "ts": "2026-11-19T00:07:55",
       "status": "ok",
       "video_id": "VtYEdcOnMQA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "ExjLQQVb3VI",
       "title": "Büşra Develi %74 Gürcü! Nasıl oldu? #celalşengöre #shorts #büşra"
+    },
+    {
+      "ts": "2026-11-22T20:57:30",
+      "status": "ok",
+      "video_id": "JHNzigoSJc8",
+      "title": "Almila Ada’nın kızına verdiği isim neydi? #oyuncualmilaada #shorts #anne"
     }
   ]
 }
