@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-18T19:47:22",
-      "status": "ok",
-      "video_id": "MPJE9eGAFhY",
-      "title": "Barış şimdi neye dönüştü? Şok! #uçurtmayıvurmasınların #shorts #Barış"
-    },
-    {
       "ts": "2026-11-18T22:30:04",
       "status": "ok",
       "video_id": "j9_F5sZxS7g",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "JhaHPkg4euI",
       "title": "J.Lo'nun 10 yıllık form sırrı? Şok detay! #jenniferlopez #shorts #fit"
+    },
+    {
+      "ts": "2026-11-22T18:53:20",
+      "status": "ok",
+      "video_id": "ExjLQQVb3VI",
+      "title": "Büşra Develi %74 Gürcü! Nasıl oldu? #celalşengöre #shorts #büşra"
     }
   ]
 }
