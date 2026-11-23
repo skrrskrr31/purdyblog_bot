@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-19T14:15:47",
-      "status": "ok",
-      "video_id": "tfdFXZrIwlM",
-      "title": "Evi tehlikede Erika Eleniak 3ayda 300k kazandı? #erikaeleniak #shorts"
-    },
-    {
       "ts": "2026-11-19T17:49:17",
       "status": "ok",
       "video_id": "k4uddJVjgsM",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "VsB9yWrPWqc",
       "title": "Sıla, unutulduğunu itiraf etti! Asla affetmeyecek mi? #shorts #Sıla"
+    },
+    {
+      "ts": "2026-11-23T15:49:48",
+      "status": "ok",
+      "video_id": "47sD3uqmQys",
+      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
     }
   ]
 }
