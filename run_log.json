@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-19T19:48:47",
-      "status": "ok",
-      "video_id": "nCeSEDA5zhY",
-      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
-    },
-    {
       "ts": "2026-11-19T22:36:44",
       "status": "ok",
       "video_id": "f1H_R5Oa8Hc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "kHrYr-gAdSA",
       "title": "Türkiye'ye dönmeyecek! Gattouz'la plan ne? #ayşevuraldan #shorts"
+    },
+    {
+      "ts": "2026-11-23T23:08:37",
+      "status": "ok",
+      "video_id": "pb5ISoKFiro",
+      "title": "Mustafa yeni dizi! Kimlerle? #kızılcıkşerbetininmustafası #shorts"
     }
   ]
 }
