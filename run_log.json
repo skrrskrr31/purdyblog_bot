@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-19T17:49:17",
-      "status": "ok",
-      "video_id": "k4uddJVjgsM",
-      "title": "Ezgi Mola, oğluyla aşkı konuşmadı! Neden? #ezgimola #shorts #aşk"
-    },
-    {
       "ts": "2026-11-19T19:48:47",
       "status": "ok",
       "video_id": "nCeSEDA5zhY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "47sD3uqmQys",
       "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
+    },
+    {
+      "ts": "2026-11-23T20:40:57",
+      "status": "ok",
+      "video_id": "kHrYr-gAdSA",
+      "title": "Türkiye'ye dönmeyecek! Gattouz'la plan ne? #ayşevuraldan #shorts"
     }
   ]
 }
