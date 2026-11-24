@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-20T13:55:52",
-      "status": "ok",
-      "video_id": "KzKVXnewodY",
-      "title": "Pelin Akil, eşine GTA sitemi! Şok cevap ne? #shorts #pelinakilden"
-    },
-    {
       "ts": "2026-11-20T17:24:11",
       "status": "ok",
       "video_id": "bZDUca_NZxo",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "sSa-V0-D3Ww",
       "title": "Sarıyer'de aslan! Şok anlar kamerada #shorts #yaseminşefkatlitatlısesi"
+    },
+    {
+      "ts": "2026-11-24T15:41:25",
+      "status": "ok",
+      "video_id": "cYbgqnIPSzk",
+      "title": "Ebru Şallı'nın evine 500M TL haciz! Nasıl? #ebruşallının #shorts"
     }
   ]
 }
