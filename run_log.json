@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-20T00:29:58",
-      "status": "ok",
-      "video_id": "iGf4NQsMq4E",
-      "title": "Paul Opacic neden fayans ustası? Şok detay! #paulopacic #shorts #iş"
-    },
-    {
       "ts": "2026-11-20T13:55:52",
       "status": "ok",
       "video_id": "KzKVXnewodY",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "kKl0riXP9GU",
       "title": "Kayıp aslan nerede? Yeşilçam hatırlatıyor! #shorts #bakalımziyalar"
+    },
+    {
+      "ts": "2026-11-24T03:55:14",
+      "status": "ok",
+      "video_id": "sSa-V0-D3Ww",
+      "title": "Sarıyer'de aslan! Şok anlar kamerada #shorts #yaseminşefkatlitatlısesi"
     }
   ]
 }
