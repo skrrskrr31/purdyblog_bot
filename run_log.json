@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-20T19:28:46",
-      "status": "ok",
-      "video_id": "lp2wUqcHlpM",
-      "title": "Zehra’nın Abu Dabi sergisi çığır açtı mı? #shorts #hülyaavşar #tasarım"
-    },
-    {
       "ts": "2026-11-20T22:09:32",
       "status": "ok",
       "video_id": "3qOzWbmusqg",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "jrQfS5wi39U",
       "title": "Şok mektup 50 yıl sonra Güney'i mahkum mu eder? #yılmazgüneyin #shorts"
+    },
+    {
+      "ts": "2026-11-24T21:47:28",
+      "status": "ok",
+      "video_id": "baUt44QYWPU",
+      "title": "1 Milyon TL'lik Cumhurbaşkanı Sorusu: Şaşkınlık! #shorts #Milyoner"
     }
   ]
 }
