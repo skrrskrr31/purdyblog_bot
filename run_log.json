@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-20T22:09:32",
-      "status": "ok",
-      "video_id": "3qOzWbmusqg",
-      "title": "Chrissy Metz 45 kg verince yüzü nasıl değişti? #shorts #metz #kilo"
-    },
-    {
       "ts": "2026-11-20T23:52:59",
       "status": "ok",
       "video_id": "llInvjxazQA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "baUt44QYWPU",
       "title": "1 Milyon TL'lik Cumhurbaşkanı Sorusu: Şaşkınlık! #shorts #Milyoner"
+    },
+    {
+      "ts": "2026-11-24T23:48:20",
+      "status": "ok",
+      "video_id": "B09ns2bP25A",
+      "title": "Bülent Ersoy'un hiç görülmemiş çocukluk fotoğrafları! #shorts #Bülent"
     }
   ]
 }
