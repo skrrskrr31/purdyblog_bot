@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-21T13:20:04",
-      "status": "ok",
-      "video_id": "GObJs6MkG6o",
-      "title": "Kibariye gözyaşları içinde girdi, gülerek çıktı! #shorts #Kibariye"
-    },
-    {
       "ts": "2026-11-21T16:29:20",
       "status": "ok",
       "video_id": "OKU4QZ_kXwE",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "KhGEhsGak_k",
       "title": "Demet Akalın 'Siz nereden çıktınız?' şok yanıt! #demetakalın #shorts"
+    },
+    {
+      "ts": "2026-11-25T15:25:31",
+      "status": "ok",
+      "video_id": "naHqZxBexBw",
+      "title": "TRT kameramanının gizli hastalığı neydi? #eminsarı #shorts #TRT"
     }
   ]
 }
