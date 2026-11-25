@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-21T18:31:15",
-      "status": "ok",
-      "video_id": "MDCU6RTqrUA",
-      "title": "615k TL'lik hediye yağdı! Nasıl oldu? #yakışıklımısırcıya #shorts"
-    },
-    {
       "ts": "2026-11-21T20:49:02",
       "status": "ok",
       "video_id": "AkQhm__t89Y",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "XUOpNicNgOY",
       "title": "Hayden Panettiere'in 6.2 Milyon Mirası Kime? #shorts #haydenpanettiere"
+    },
+    {
+      "ts": "2026-11-25T20:54:21",
+      "status": "ok",
+      "video_id": "7YCyIsquy1A",
+      "title": "Yaşar Alptekin şampuan üretiyor! Nasıl? #yaşaralptekinin #shorts"
     }
   ]
 }
