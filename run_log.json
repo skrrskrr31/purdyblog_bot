@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-21T20:49:02",
-      "status": "ok",
-      "video_id": "AkQhm__t89Y",
-      "title": "Eda Ece'nin kızı annesine kopya mı? Şok fotoğraf! #edaece #shorts"
-    },
-    {
       "ts": "2026-11-21T22:57:48",
       "status": "ok",
       "video_id": "D_Nkxolcqr8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "7YCyIsquy1A",
       "title": "Yaşar Alptekin şampuan üretiyor! Nasıl? #yaşaralptekinin #shorts"
+    },
+    {
+      "ts": "2026-11-25T23:29:52",
+      "status": "ok",
+      "video_id": "MOiscL3Oikw",
+      "title": "North West'ün gotik stili şaşırtıcı mı? #kimkardashianın #shorts"
     }
   ]
 }
