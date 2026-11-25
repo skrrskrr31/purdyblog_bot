@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-20T23:52:59",
-      "status": "ok",
-      "video_id": "llInvjxazQA",
-      "title": "Merve Dizdar hamile! Yürürken gizli ne? #shorts #mervedizdardan"
-    },
-    {
       "ts": "2026-11-21T13:20:04",
       "status": "ok",
       "video_id": "GObJs6MkG6o",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "B09ns2bP25A",
       "title": "Bülent Ersoy'un hiç görülmemiş çocukluk fotoğrafları! #shorts #Bülent"
+    },
+    {
+      "ts": "2026-11-25T02:07:59",
+      "status": "ok",
+      "video_id": "KhGEhsGak_k",
+      "title": "Demet Akalın 'Siz nereden çıktınız?' şok yanıt! #demetakalın #shorts"
     }
   ]
 }
