@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-22T13:12:39",
-      "status": "ok",
-      "video_id": "dqq8xr9kCME",
-      "title": "Asgari ücretlilere gümüş parlatma tavsiyesi şaşırttı! #shorts #para"
-    },
-    {
       "ts": "2026-11-22T16:46:32",
       "status": "ok",
       "video_id": "JhaHPkg4euI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "J3ZujiFUHek",
       "title": "Özcan Deniz'in gülümsemesi neyi saklıyordu? #shorts #skandal"
+    },
+    {
+      "ts": "2026-11-26T14:54:58",
+      "status": "ok",
+      "video_id": "PdVEYeEzVek",
+      "title": "Ormanda diş çeken sahte dişçi kim? Şok! #mügeanlıda #shorts #gerçek"
     }
   ]
 }
