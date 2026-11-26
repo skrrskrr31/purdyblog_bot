@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-21T22:57:48",
-      "status": "ok",
-      "video_id": "D_Nkxolcqr8",
-      "title": "Oğlunun yüzündeki korkunç döküntüler neydi? #burcukaradan #shorts"
-    },
-    {
       "ts": "2026-11-22T13:12:39",
       "status": "ok",
       "video_id": "dqq8xr9kCME",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "MOiscL3Oikw",
       "title": "North West'ün gotik stili şaşırtıcı mı? #kimkardashianın #shorts"
+    },
+    {
+      "ts": "2026-11-26T01:44:05",
+      "status": "ok",
+      "video_id": "J3ZujiFUHek",
+      "title": "Özcan Deniz'in gülümsemesi neyi saklıyordu? #shorts #skandal"
     }
   ]
 }
