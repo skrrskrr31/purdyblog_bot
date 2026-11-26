@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-22T16:46:32",
-      "status": "ok",
-      "video_id": "JhaHPkg4euI",
-      "title": "J.Lo'nun 10 yıllık form sırrı? Şok detay! #jenniferlopez #shorts #fit"
-    },
-    {
       "ts": "2026-11-22T18:53:20",
       "status": "ok",
       "video_id": "ExjLQQVb3VI",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "PdVEYeEzVek",
       "title": "Ormanda diş çeken sahte dişçi kim? Şok! #mügeanlıda #shorts #gerçek"
+    },
+    {
+      "ts": "2026-11-26T18:43:08",
+      "status": "ok",
+      "video_id": "PExoJXwpp-w",
+      "title": "Eşi 48 Yılda Nerede? Şok Açıklama #mustafakeserin #shorts #muzik"
     }
   ]
 }
