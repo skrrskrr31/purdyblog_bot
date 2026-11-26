@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-22T18:53:20",
-      "status": "ok",
-      "video_id": "ExjLQQVb3VI",
-      "title": "Büşra Develi %74 Gürcü! Nasıl oldu? #celalşengöre #shorts #büşra"
-    },
-    {
       "ts": "2026-11-22T20:57:30",
       "status": "ok",
       "video_id": "JHNzigoSJc8",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "PExoJXwpp-w",
       "title": "Eşi 48 Yılda Nerede? Şok Açıklama #mustafakeserin #shorts #muzik"
+    },
+    {
+      "ts": "2026-11-26T20:45:33",
+      "status": "ok",
+      "video_id": "-uc0gIeuS-g",
+      "title": "Nagihan Karadere ne buldu? Doktor şokta! #nagihankaradere #shorts #survivor"
     }
   ]
 }
