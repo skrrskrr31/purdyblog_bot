@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-22T20:57:30",
-      "status": "ok",
-      "video_id": "JHNzigoSJc8",
-      "title": "Almila Ada’nın kızına verdiği isim neydi? #oyuncualmilaada #shorts #anne"
-    },
-    {
       "ts": "2026-11-22T23:28:55",
       "status": "ok",
       "video_id": "VsB9yWrPWqc",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-uc0gIeuS-g",
       "title": "Nagihan Karadere ne buldu? Doktor şokta! #nagihankaradere #shorts #survivor"
+    },
+    {
+      "ts": "2026-11-26T23:33:13",
+      "status": "ok",
+      "video_id": "-r7jTRnRzF4",
+      "title": "Emily Ratajkowski OnlyFans'te ne? #shorts #emilyratajkowskionlyfans"
     }
   ]
 }
