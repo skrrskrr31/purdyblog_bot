@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-23T20:40:57",
-      "status": "ok",
-      "video_id": "kHrYr-gAdSA",
-      "title": "Türkiye'ye dönmeyecek! Gattouz'la plan ne? #ayşevuraldan #shorts"
-    },
-    {
       "ts": "2026-11-23T23:08:37",
       "status": "ok",
       "video_id": "pb5ISoKFiro",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "g-xOZu8uxWA",
       "title": "70'li adam 4,5M TL'yi 20'li kıza gönderdi! Şok! #esraerolun #shorts"
+    },
+    {
+      "ts": "2026-11-27T18:33:29",
+      "status": "ok",
+      "video_id": "FoOoRqh65og",
+      "title": "Şener Üşümezsoy ayak bileğiyle ne dedi? #şenerüşümezsoydan #shorts"
     }
   ]
 }
