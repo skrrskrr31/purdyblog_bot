@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-22T23:28:55",
-      "status": "ok",
-      "video_id": "VsB9yWrPWqc",
-      "title": "Sıla, unutulduğunu itiraf etti! Asla affetmeyecek mi? #shorts #Sıla"
-    },
-    {
       "ts": "2026-11-23T15:49:48",
       "status": "ok",
       "video_id": "47sD3uqmQys",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "-r7jTRnRzF4",
       "title": "Emily Ratajkowski OnlyFans'te ne? #shorts #emilyratajkowskionlyfans"
+    },
+    {
+      "ts": "2026-11-27T01:37:38",
+      "status": "ok",
+      "video_id": "9Z6DwtGY2Uk",
+      "title": "Şeyma Subaşı uyuşturucu soruşturmasında! #listedeşeymasubaşı #shorts"
     }
   ]
 }
