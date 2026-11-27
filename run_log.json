@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-23T15:49:48",
-      "status": "ok",
-      "video_id": "47sD3uqmQys",
-      "title": "İnanılmaz! Herkes bunu konuşuyor 😱 #shorts"
-    },
-    {
       "ts": "2026-11-23T20:40:57",
       "status": "ok",
       "video_id": "kHrYr-gAdSA",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "9Z6DwtGY2Uk",
       "title": "Şeyma Subaşı uyuşturucu soruşturmasında! #listedeşeymasubaşı #shorts"
+    },
+    {
+      "ts": "2026-11-27T14:52:01",
+      "status": "ok",
+      "video_id": "g-xOZu8uxWA",
+      "title": "70'li adam 4,5M TL'yi 20'li kıza gönderdi! Şok! #esraerolun #shorts"
     }
   ]
 }
