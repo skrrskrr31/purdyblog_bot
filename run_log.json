@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-24T02:02:44",
-      "status": "ok",
-      "video_id": "kKl0riXP9GU",
-      "title": "Kayıp aslan nerede? Yeşilçam hatırlatıyor! #shorts #bakalımziyalar"
-    },
-    {
       "ts": "2026-11-24T03:55:14",
       "status": "ok",
       "video_id": "sSa-V0-D3Ww",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "AJBEYsH6mjo",
       "title": "Yargıtay kararı bozuldu? Ahmet Kaya filmi mahkemede! #shorts #ahmetkayanın"
+    },
+    {
+      "ts": "2026-11-27T23:16:07",
+      "status": "ok",
+      "video_id": "BUrvTxr9XhI",
+      "title": "Andy Taylor'ın ölümüne sebep olan sır nedir? #shorts #andytaylor"
     }
   ]
 }
