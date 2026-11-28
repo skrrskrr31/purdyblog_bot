@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-24T03:55:14",
-      "status": "ok",
-      "video_id": "sSa-V0-D3Ww",
-      "title": "Sarıyer'de aslan! Şok anlar kamerada #shorts #yaseminşefkatlitatlısesi"
-    },
-    {
       "ts": "2026-11-24T15:41:25",
       "status": "ok",
       "video_id": "cYbgqnIPSzk",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "BUrvTxr9XhI",
       "title": "Andy Taylor'ın ölümüne sebep olan sır nedir? #shorts #andytaylor"
+    },
+    {
+      "ts": "2026-11-28T01:17:27",
+      "status": "ok",
+      "video_id": "JtizeltPIbY",
+      "title": "Ailemi terbiye ettim! Buse Korkmaz neyi itiraf etti? #shorts #Maddy"
     }
   ]
 }
