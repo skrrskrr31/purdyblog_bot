@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-24T19:46:37",
-      "status": "ok",
-      "video_id": "jrQfS5wi39U",
-      "title": "Şok mektup 50 yıl sonra Güney'i mahkum mu eder? #yılmazgüneyin #shorts"
-    },
-    {
       "ts": "2026-11-24T21:47:28",
       "status": "ok",
       "video_id": "baUt44QYWPU",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "bfIyiCjBwRE",
       "title": "Cansu Taşkın Yılmaz Erdoğan’ın yanında hapse girdi #shorts #yılmazerdoğan"
+    },
+    {
+      "ts": "2026-11-28T17:15:11",
+      "status": "ok",
+      "video_id": "naP5lNx_adk",
+      "title": "Linet Beşiktaş maçında neyi itiraf etti? #linetbeşiktaş #shorts #gerçek"
     }
   ]
 }
