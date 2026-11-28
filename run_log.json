@@ -2,12 +2,6 @@
   "bot": "purdyblog",
   "runs": [
     {
-      "ts": "2026-11-24T21:47:28",
-      "status": "ok",
-      "video_id": "baUt44QYWPU",
-      "title": "1 Milyon TL'lik Cumhurbaşkanı Sorusu: Şaşkınlık! #shorts #Milyoner"
-    },
-    {
       "ts": "2026-11-24T23:48:20",
       "status": "ok",
       "video_id": "B09ns2bP25A",
@@ -120,6 +114,12 @@
       "status": "ok",
       "video_id": "naP5lNx_adk",
       "title": "Linet Beşiktaş maçında neyi itiraf etti? #linetbeşiktaş #shorts #gerçek"
+    },
+    {
+      "ts": "2026-11-28T19:24:23",
+      "status": "ok",
+      "video_id": "D6Iebds7ZrI",
+      "title": "Ameliyatı olmadan taburcu! Nasıl oldu? #yavuzbingölü #shorts"
     }
   ]
 }
